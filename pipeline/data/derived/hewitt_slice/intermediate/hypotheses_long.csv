@@ -1,0 +1,581 @@
+"study","outcome.name","hypothesis","condition.name","t_hypothesis"
+"AnsonBRIEF60","blue_collar_positivity","hyp1","Treatment group 1",1
+"AnsonBRIEF60","blue_collar_positivity","hyp1","Control group 1",0
+"AnsonBRIEF60","economy_positivity","hyp1","Treatment group 1",1
+"AnsonBRIEF60","economy_positivity","hyp1","Control group 1",0
+"Blair1131","Approve_Handling","hyp1","Male, Republican, Eric, Not engage",0
+"Blair1131","Approve_Handling","hyp1","Male, Republican, Erica, Not engage",1
+"Blair1131","Approve_Handling","hyp1","Male, Democrat, Eric, Not engage",0
+"Blair1131","Approve_Handling","hyp1","Male, Democrat, Erica, Not engage",1
+"Blair1131","Approve_Handling","hyp2","Male, Republican, Eric, Engage",0
+"Blair1131","Approve_Handling","hyp2","Male, Republican, Erica, Engage",1
+"Blair1131","Approve_Handling","hyp2","Male, Democrat, Eric Engage",0
+"Blair1131","Approve_Handling","hyp2","Male, Democrat, Erica, Engage",1
+"Braman751","legitimacy","hyp1","Gun Control, Clear Authority, 85% support",0
+"Braman751","legitimacy","hyp1","Gun Control, Clear Authority, 15% support",0
+"Braman751","legitimacy","hyp1","Gun Control, Divided, 85% support",1
+"Braman751","legitimacy","hyp1","Gun Control, Divided. 15% support",1
+"Braman751","legitimacy","hyp1","Immigration, Clear Authority, 85% support",0
+"Braman751","legitimacy","hyp1","Immigration, Clear Authority, 15% support",0
+"Braman751","legitimacy","hyp1","Immigration, Divided, 85% support",1
+"Braman751","legitimacy","hyp1","Immigration, Divided, 15% support",1
+"Braman751","legitimacy","hyp2","Gun Control, Clear Authority, 85% support",0
+"Braman751","legitimacy","hyp2","Gun Control, Clear Authority, 15% support",0
+"Braman751","legitimacy","hyp2","Gun Control, Clearly No Authority, 85% support",1
+"Braman751","legitimacy","hyp2","Gun Control, Clearly No Authority, 15% support",1
+"Braman751","legitimacy","hyp2","Immigration, Clear Authority, 85% support",0
+"Braman751","legitimacy","hyp2","Immigration, Clear Authority, 15% support",0
+"Braman751","legitimacy","hyp2","Immigration, Clearly No Authority, 85% support",1
+"Braman751","legitimacy","hyp2","Immigration, Clearly No Authority, 15% support",1
+"Braman751","pass_legislation","hyp1","Gun Control, Clear Authority, 85% support",1
+"Braman751","pass_legislation","hyp1","Gun Control, Clear Authority, 15% support",0
+"Braman751","pass_legislation","hyp1","Gun Control, Divided, 85% support",1
+"Braman751","pass_legislation","hyp1","Gun Control, Divided. 15% support",0
+"Braman751","pass_legislation","hyp1","Gun Control, Clearly No Authority, 85% support",1
+"Braman751","pass_legislation","hyp1","Gun Control, Clearly No Authority, 15% support",0
+"Braman751","pass_legislation","hyp1","Immigration, Clear Authority, 85% support",1
+"Braman751","pass_legislation","hyp1","Immigration, Clear Authority, 15% support",0
+"Braman751","pass_legislation","hyp1","Immigration, Divided, 85% support",1
+"Braman751","pass_legislation","hyp1","Immigration, Divided, 15% support",0
+"Braman751","pass_legislation","hyp1","Immigration, Clearly No Authority, 85% support",1
+"Braman751","scholar_credibility","hyp1","Gun Control, Clear Authority, 85% support",0
+"Braman751","scholar_credibility","hyp1","Gun Control, Clear Authority, 15% support",0
+"Braman751","scholar_credibility","hyp1","Gun Control, Divided, 85% support",1
+"Braman751","scholar_credibility","hyp1","Gun Control, Divided. 15% support",1
+"Braman751","scholar_credibility","hyp1","Immigration, Clear Authority, 85% support",0
+"Braman751","scholar_credibility","hyp1","Immigration, Clear Authority, 15% support",0
+"Braman751","scholar_credibility","hyp1","Immigration, Divided, 85% support",1
+"Braman751","scholar_credibility","hyp1","Immigration, Divided, 15% support",1
+"Braman751","scholar_credibility","hyp2","Gun Control, Clear Authority, 85% support",0
+"Braman751","scholar_credibility","hyp2","Gun Control, Clear Authority, 15% support",0
+"Braman751","scholar_credibility","hyp2","Gun Control, Clearly No Authority, 85% support",1
+"Braman751","scholar_credibility","hyp2","Gun Control, Clearly No Authority, 15% support",1
+"Braman751","scholar_credibility","hyp2","Immigration, Clear Authority, 85% support",0
+"Braman751","scholar_credibility","hyp2","Immigration, Clear Authority, 15% support",0
+"Braman751","scholar_credibility","hyp2","Immigration, Clearly No Authority, 85% support",1
+"Braman751","scholar_credibility","hyp2","Immigration, Clearly No Authority, 15% support",1
+"CalarcoS38","Approval","hyp1","HIGH STATUS, NO DRINKING, NO WARNING",0
+"CalarcoS38","Approval","hyp1","HIGH STATUS, NO DRINKING, WARNING",0
+"CalarcoS38","Approval","hyp1","HIGH STATUS, LIGHT DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp1","HIGH STATUS, LIGHT DRINKING, WARNING",1
+"CalarcoS38","Approval","hyp1","HIGH STATUS, HEAVY DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp1","HIGH STATUS, HEAVY DRINKIG, WARNING",1
+"CalarcoS38","Approval","hyp1","LOW STATUS, NO DRINKING, NO WARNING",0
+"CalarcoS38","Approval","hyp1","LOW STATUS, NO DRINKING, WARNING",0
+"CalarcoS38","Approval","hyp1","LOW STATUS, LIGHT DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp1","LOW STATUS, LIGHT DRINKING, WARNING",1
+"CalarcoS38","Approval","hyp1","LOW STATUS, HEAVY DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp1","LOW STATUS, HEAVY DRINKING, WARNING",1
+"CalarcoS38","Approval","hyp2","HIGH STATUS, NO DRINKING, NO WARNING",0
+"CalarcoS38","Approval","hyp2","HIGH STATUS, NO DRINKING, WARNING",0
+"CalarcoS38","Approval","hyp2","HIGH STATUS, LIGHT DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp2","HIGH STATUS, LIGHT DRINKING, WARNING",1
+"CalarcoS38","Approval","hyp2","LOW STATUS, NO DRINKING, NO WARNING",0
+"CalarcoS38","Approval","hyp2","LOW STATUS, NO DRINKING, WARNING",0
+"CalarcoS38","Approval","hyp2","LOW STATUS, LIGHT DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp2","LOW STATUS, LIGHT DRINKING, WARNING",1
+"CalarcoS38","Approval","hyp3","HIGH STATUS, LIGHT DRINKING, NO WARNING",0
+"CalarcoS38","Approval","hyp3","HIGH STATUS, LIGHT DRINKING, WARNING",0
+"CalarcoS38","Approval","hyp3","LOW STATUS, LIGHT DRINKING, NO WARNING",1
+"CalarcoS38","Approval","hyp3","LOW STATUS, LIGHT DRINKING, WARNING",1
+"Campbell1308","Gender Roles","hyp1","Control",0
+"Campbell1308","Gender Roles","hyp1","Non-Partisan story",1
+"Campbell1308","Gender Roles","hyp1","Democratic story",1
+"Campbell1308","Gender Roles","hyp1","Republican story",1
+"Campbell1308","Political Engagement","hyp1","Control",0
+"Campbell1308","Political Engagement","hyp1","Non-Partisan story",1
+"Campbell1308","Political Engagement","hyp1","Democratic story",1
+"Campbell1308","Political Engagement","hyp1","Republican story",1
+"Campbell1308","Political Responsiveness","hyp1","Control",0
+"Campbell1308","Political Responsiveness","hyp1","Non-Partisan story",1
+"Campbell1308","Political Responsiveness","hyp1","Democratic story",1
+"Campbell1308","Political Responsiveness","hyp1","Republican story",1
+"Cohen1099","Accounting","hyp1","male, upper class, no info",0
+"Cohen1099","Accounting","hyp1","male, working class, no info",0
+"Cohen1099","Accounting","hyp1","male, upper class, student loans",0
+"Cohen1099","Accounting","hyp1","male, working class, student loans",0
+"Cohen1099","Accounting","hyp1","male, upper class, no debt",0
+"Cohen1099","Accounting","hyp1","male, working class, no debt",0
+"Cohen1099","Accounting","hyp1","female, upper class, no info",1
+"Cohen1099","Accounting","hyp1","female, working class, no info",1
+"Cohen1099","Accounting","hyp1","female, upper class, student loans",1
+"Cohen1099","Accounting","hyp1","female, working class, student loans",1
+"Cohen1099","Accounting","hyp1","female, upper class, no debt",1
+"Cohen1099","Accounting","hyp1","female, working class, no debt",1
+"Cohen1099","Accounting","hyp2","male, upper class, student loans",1
+"Cohen1099","Accounting","hyp2","male, working class, student loans",1
+"Cohen1099","Accounting","hyp2","male, upper class, no debt",0
+"Cohen1099","Accounting","hyp2","male, working class, no debt",0
+"Cohen1099","Accounting","hyp2","female, upper class, student loans",1
+"Cohen1099","Accounting","hyp2","female, working class, student loans",1
+"Cohen1099","Accounting","hyp2","female, upper class, no debt",0
+"Cohen1099","Accounting","hyp2","female, working class, no debt",0
+"Cohen1099","History","hyp1","male, upper class, no info",0
+"Cohen1099","History","hyp1","male, working class, no info",0
+"Cohen1099","History","hyp1","male, upper class, student loans",0
+"Cohen1099","History","hyp1","male, working class, student loans",0
+"Cohen1099","History","hyp1","male, upper class, no debt",0
+"Cohen1099","History","hyp1","male, working class, no debt",0
+"Cohen1099","History","hyp1","female, upper class, no info",1
+"Cohen1099","History","hyp1","female, working class, no info",1
+"Cohen1099","History","hyp1","female, upper class, student loans",1
+"Cohen1099","History","hyp1","female, working class, student loans",1
+"Cohen1099","History","hyp1","female, upper class, no debt",1
+"Cohen1099","History","hyp1","female, working class, no debt",1
+"Cohen1099","Nursing","hyp1","male, upper class, no info",0
+"Cohen1099","Nursing","hyp1","male, working class, no info",0
+"Cohen1099","Nursing","hyp1","male, upper class, student loans",0
+"Cohen1099","Nursing","hyp1","male, working class, student loans",0
+"Cohen1099","Nursing","hyp1","male, upper class, no debt",0
+"Cohen1099","Nursing","hyp1","male, working class, no debt",0
+"Cohen1099","Nursing","hyp1","female, upper class, no info",1
+"Cohen1099","Nursing","hyp1","female, working class, no info",1
+"Cohen1099","Nursing","hyp1","female, upper class, student loans",1
+"Cohen1099","Nursing","hyp1","female, working class, student loans",1
+"Cohen1099","Nursing","hyp1","female, upper class, no debt",1
+"Cohen1099","Nursing","hyp1","female, working class, no debt",1
+"Cohen1099","Nursing","hyp2","male, upper class, student loans",1
+"Cohen1099","Nursing","hyp2","male, working class, student loans",1
+"Cohen1099","Nursing","hyp2","male, upper class, no debt",0
+"Cohen1099","Nursing","hyp2","male, working class, no debt",0
+"Cohen1099","Nursing","hyp2","female, upper class, student loans",1
+"Cohen1099","Nursing","hyp2","female, working class, student loans",1
+"Cohen1099","Nursing","hyp2","female, upper class, no debt",0
+"Cohen1099","Nursing","hyp2","female, working class, no debt",0
+"CorstangeBRIEF69","welcome_refugees","hyp1","Group 1",0
+"CorstangeBRIEF69","welcome_refugees","hyp1","Group 2",1
+"CorstangeBRIEF69","welcome_refugees","hyp2","Group 1",0
+"CorstangeBRIEF69","welcome_refugees","hyp2","Group 3",1
+"Enos700","modern_racism1","hyp1","Black",0
+"Enos700","modern_racism1","hyp1","Surinamese",1
+"Enos700","modern_racism1","hyp1","Mauritanian",1
+"FaheyS78","cancel culture","hyp1","Liberal * No Cancel",0
+"FaheyS78","cancel culture","hyp1","Liberal * Cancel",1
+"FaheyS78","cancel culture","hyp1","Conservative * No Cancel",0
+"FaheyS78","cancel culture","hyp1","Conservative * Cancel",1
+"FarrowS6","Disappointment","hyp1","Condition 1 disappointment",0
+"FarrowS6","Disappointment","hyp1","Condition 2 disappointment",1
+"Haaland874","Affirmative action: Assistance","hyp1","TREATMENT",1
+"Haaland874","Affirmative action: Assistance","hyp1","CONTROL",0
+"Haaland874","Affirmative action: Preference","hyp1","TREATMENT",1
+"Haaland874","Affirmative action: Preference","hyp1","CONTROL",0
+"Haaland874","Racial Discrimination perception","hyp1","TREATMENT",1
+"Haaland874","Racial Discrimination perception","hyp1","CONTROL",0
+"HankinsonS22","Clinic_support","hyp1","Near Treatment",0
+"HankinsonS22","Clinic_support","hyp1","Far Treatment",1
+"Howard823","Willingness_to_spend_on_optional_expense","hyp1","Control",0
+"Howard823","Willingness_to_spend_on_optional_expense","hyp1","Experimental Different",1
+"Howard823","Willingness_to_spend_on_optional_expense","hyp2","Experimental Different",1
+"Howard823","Willingness_to_spend_on_optional_expense","hyp2","Experimental Similar",0
+"Howard823","financial_slack","hyp1","Control",0
+"Howard823","financial_slack","hyp1","Experimental Different",1
+"Howard823","financial_slack","hyp2","Experimental Different",1
+"Howard823","financial_slack","hyp2","Experimental Similar",0
+"Howard823","predictedexpense_nextweek","hyp1","Control",0
+"Howard823","predictedexpense_nextweek","hyp1","Experimental Different",1
+"Howard823","predictedexpense_nextweek","hyp2","Experimental Different",1
+"Howard823","predictedexpense_nextweek","hyp2","Experimental Similar",0
+"Iles1294","Confusing","hyp1","Experimental condition 1 (conflict in evidence)",1
+"Iles1294","Confusing","hyp1","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Confusing","hyp1","Experimental condition 3 (conflict within source)",1
+"Iles1294","Confusing","hyp1","Experimental condition 4 (no conflict control)",0
+"Iles1294","Confusing","hyp1","Experimental condition 5 (conflict in evidence)",1
+"Iles1294","Confusing","hyp1","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Confusing","hyp1","Experimental condition 7 (conflict within source)",1
+"Iles1294","Confusing","hyp1","Experimental condition 8 (no conflict control)",0
+"Iles1294","Confusing","hyp2","Experimental condition 1 (conflict in evidence)",0
+"Iles1294","Confusing","hyp2","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Confusing","hyp2","Experimental condition 5 (conflict in evidence)",0
+"Iles1294","Confusing","hyp2","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Confusing","hyp3","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Confusing","hyp3","Experimental condition 3 (conflict within source)",0
+"Iles1294","Confusing","hyp3","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Confusing","hyp3","Experimental condition 7 (conflict within source)",0
+"Iles1294","Frustrated","hyp1","Experimental condition 1 (conflict in evidence)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 3 (conflict within source)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 4 (no conflict control)",0
+"Iles1294","Frustrated","hyp1","Experimental condition 5 (conflict in evidence)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 7 (conflict within source)",1
+"Iles1294","Frustrated","hyp1","Experimental condition 8 (no conflict control)",0
+"Iles1294","Frustrated","hyp2","Experimental condition 1 (conflict in evidence)",0
+"Iles1294","Frustrated","hyp2","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Frustrated","hyp2","Experimental condition 5 (conflict in evidence)",0
+"Iles1294","Frustrated","hyp2","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Frustrated","hyp3","Experimental condition 2 (conflict between sources)",1
+"Iles1294","Frustrated","hyp3","Experimental condition 3 (conflict within source)",0
+"Iles1294","Frustrated","hyp3","Experimental condition 6 (conflict between sources)",1
+"Iles1294","Frustrated","hyp3","Experimental condition 7 (conflict within source)",0
+"Iles1294","collaborative","hyp1","Experimental condition 1 (conflict in evidence)",1
+"Iles1294","collaborative","hyp1","Experimental condition 2 (conflict between sources)",1
+"Iles1294","collaborative","hyp1","Experimental condition 3 (conflict within source)",1
+"Iles1294","collaborative","hyp1","Experimental condition 4 (no conflict control)",0
+"Iles1294","collaborative","hyp1","Experimental condition 5 (conflict in evidence)",1
+"Iles1294","collaborative","hyp1","Experimental condition 6 (conflict between sources)",1
+"Iles1294","collaborative","hyp1","Experimental condition 7 (conflict within source)",1
+"Iles1294","collaborative","hyp1","Experimental condition 8 (no conflict control)",0
+"Iles1294","collaborative","hyp2","Experimental condition 1 (conflict in evidence)",0
+"Iles1294","collaborative","hyp2","Experimental condition 2 (conflict between sources)",1
+"Iles1294","collaborative","hyp2","Experimental condition 5 (conflict in evidence)",0
+"Iles1294","collaborative","hyp2","Experimental condition 6 (conflict between sources)",1
+"Iles1294","collaborative","hyp3","Experimental condition 2 (conflict between sources)",1
+"Iles1294","collaborative","hyp3","Experimental condition 3 (conflict within source)",0
+"Iles1294","collaborative","hyp3","Experimental condition 6 (conflict between sources)",1
+"Iles1294","collaborative","hyp3","Experimental condition 7 (conflict within source)",0
+"Kennedy1017","Family_approval","hyp1","Green; Low",0
+"Kennedy1017","Family_approval","hyp1","Green; High",1
+"Kennedy1017","Family_approval","hyp2","Not Green; Low",0
+"Kennedy1017","Family_approval","hyp2","Green; Low",1
+"Kennedy1017","Family_approval","hyp2","Not Green; High",0
+"Kennedy1017","Family_approval","hyp2","Green; High",1
+"Kennedy1017","Family_friends","hyp1","Green; Low",0
+"Kennedy1017","Family_friends","hyp1","Green; High",1
+"Kennedy1017","Family_friends","hyp2","Not Green; Low",0
+"Kennedy1017","Family_friends","hyp2","Green; Low",1
+"Kennedy1017","Family_friends","hyp2","Not Green; High",0
+"Kennedy1017","Family_friends","hyp2","Green; High",1
+"Kennedy1017","Family_knowledge","hyp1","Green; Low",0
+"Kennedy1017","Family_knowledge","hyp1","Green; High",1
+"Kennedy1017","Family_knowledge","hyp2","Not Green; Low",0
+"Kennedy1017","Family_knowledge","hyp2","Green; Low",1
+"Kennedy1017","Family_knowledge","hyp2","Not Green; High",0
+"Kennedy1017","Family_knowledge","hyp2","Green; High",1
+"KlarS44","efficacy","hyp1","CONTROL",1
+"KlarS44","efficacy","hyp1","PARTISAN",0
+"KlarS44","efficacy","hyp2","GENDER",1
+"KlarS44","efficacy","hyp2","PARTISAN",0
+"KlarS44","importance","hyp1","CONTROL",1
+"KlarS44","importance","hyp1","PARTISAN",0
+"KlarS44","importance","hyp2","GENDER",1
+"KlarS44","importance","hyp2","PARTISAN",0
+"KlarS44","support_candidate","hyp1","CONTROL",1
+"KlarS44","support_candidate","hyp1","PARTISAN",0
+"KlarS44","support_candidate","hyp2","GENDER",1
+"KlarS44","support_candidate","hyp2","PARTISAN",0
+"McGinty730","social_stigma","hyp1","Successful Treatment Engagement & Recovery",1
+"McGinty730","social_stigma","hyp1","No narrative",0
+"McGinty730","social_stigma","hyp2","Unsuccessful Treatment Engagement (Individual Choice)",1
+"McGinty730","social_stigma","hyp2","Unsuccessful Treatment Engagement (Policy Failure)",1
+"McGinty730","social_stigma","hyp2","No narrative",0
+"McGinty730","social_stigma","hyp3","Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",1
+"McGinty730","social_stigma","hyp3","Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",1
+"McGinty730","social_stigma","hyp3","No narrative",0
+"McGinty730","social_stigma","hyp4","Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",1
+"McGinty730","social_stigma","hyp4","Unsuccessful treatment Engagement (Policy Failure) + Family Violence",1
+"McGinty730","social_stigma","hyp4","No narrative",0
+"McGinty730","treatment_support","hyp1","Successful Treatment Engagement & Recovery",1
+"McGinty730","treatment_support","hyp1","No narrative",0
+"McGinty730","treatment_support","hyp2","Unsuccessful Treatment Engagement (Individual Choice)",1
+"McGinty730","treatment_support","hyp2","Unsuccessful Treatment Engagement (Policy Failure)",1
+"McGinty730","treatment_support","hyp2","No narrative",0
+"McGinty730","treatment_support","hyp3","Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",1
+"McGinty730","treatment_support","hyp3","Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",1
+"McGinty730","treatment_support","hyp3","No narrative",0
+"McGinty730","treatment_support","hyp4","Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",1
+"McGinty730","treatment_support","hyp4","Unsuccessful treatment Engagement (Policy Failure) + Family Violence",1
+"McGinty730","treatment_support","hyp4","No narrative",0
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp1","Successful Treatment Engagement & Recovery",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp1","No narrative",0
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp2","Unsuccessful Treatment Engagement (Individual Choice)",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp2","Unsuccessful Treatment Engagement (Policy Failure)",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp2","No narrative",0
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp3","Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp3","Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp3","No narrative",0
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp4","Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp4","Unsuccessful treatment Engagement (Policy Failure) + Family Violence",1
+"McGinty730","willingness_to_pay_mentalhealthservices","hyp4","No narrative",0
+"Melin1066","Capable","hyp1","“Military/Automotive”",1
+"Melin1066","Capable","hyp1","“Cosmetics/Automotive”",0
+"Melin1066","Capable","hyp2","“Military/Consulting”",1
+"Melin1066","Capable","hyp2","“Cosmetics/Consulting”",0
+"Melin1066","Capable","hyp3","“Military/Wedding”",1
+"Melin1066","Capable","hyp3","“Cosmetics/Wedding”",0
+"Melin1066","masculine","hyp1","“Military/Automotive”",1
+"Melin1066","masculine","hyp1","“Cosmetics/Automotive”",0
+"Melin1066","masculine","hyp2","“Military/Consulting”",1
+"Melin1066","masculine","hyp2","“Cosmetics/Consulting”",0
+"Melin1066","masculine","hyp3","“Military/Wedding”",1
+"Melin1066","masculine","hyp3","“Cosmetics/Wedding”",0
+"Melin1066","salary","hyp1","“Military/Automotive”",1
+"Melin1066","salary","hyp1","“Cosmetics/Automotive”",0
+"Melin1066","salary","hyp2","“Military/Consulting”",1
+"Melin1066","salary","hyp2","“Cosmetics/Consulting”",0
+"Melin1066","salary","hyp3","“Military/Wedding”",1
+"Melin1066","salary","hyp3","“Cosmetics/Wedding”",0
+"Merolla843","foreign_policy","hyp1","anger_condtion",1
+"Merolla843","foreign_policy","hyp1","relaxation_condition",0
+"Merolla843","foreign_policy","hyp2","fear/anxiety_condtion",1
+"Merolla843","foreign_policy","hyp2","relaxation_condition",0
+"Merolla843","foreign_policy","hyp3","anger_condtion",1
+"Merolla843","foreign_policy","hyp3","fear/anxiety_condtion",0
+"Merolla843","hillary_clinton_leadership","hyp1","fear/anxiety_condtion",1
+"Merolla843","hillary_clinton_leadership","hyp1","relaxation_condition",0
+"Merolla843","hillary_clinton_leadership","hyp2","anger_condtion",0
+"Merolla843","hillary_clinton_leadership","hyp2","fear/anxiety_condtion",1
+"Merolla843","trump_leadership","hyp1","anger_condtion",1
+"Merolla843","trump_leadership","hyp1","relaxation_condition",0
+"Merolla843","trump_leadership","hyp2","anger_condtion",1
+"Merolla843","trump_leadership","hyp2","fear/anxiety_condtion",0
+"Mezzapelle1439","BELIEVABLE","hyp1","Black Cisgender Woman",1
+"Mezzapelle1439","BELIEVABLE","hyp1","Black Transgender Woman",1
+"Mezzapelle1439","BELIEVABLE","hyp1","White Cisgender Woman",0
+"Mezzapelle1439","BELIEVABLE","hyp1","White Transgender Woman",0
+"Mezzapelle1439","BELIEVABLE","hyp2","Black Cisgender Woman",0
+"Mezzapelle1439","BELIEVABLE","hyp2","Black Transgender Woman",1
+"Mezzapelle1439","BELIEVABLE","hyp2","White Cisgender Woman",0
+"Mezzapelle1439","BELIEVABLE","hyp2","White Transgender Woman",1
+"Mezzapelle1439","BELIEVABLE","hyp3","Black Transgender Woman",1
+"Mezzapelle1439","BELIEVABLE","hyp3","White Cisgender Woman",0
+"Mezzapelle1439","COMPENSATION","hyp1","Black Cisgender Woman",1
+"Mezzapelle1439","COMPENSATION","hyp1","Black Transgender Woman",1
+"Mezzapelle1439","COMPENSATION","hyp1","White Cisgender Woman",0
+"Mezzapelle1439","COMPENSATION","hyp1","White Transgender Woman",0
+"Mezzapelle1439","COMPENSATION","hyp2","Black Cisgender Woman",0
+"Mezzapelle1439","COMPENSATION","hyp2","Black Transgender Woman",1
+"Mezzapelle1439","COMPENSATION","hyp2","White Cisgender Woman",0
+"Mezzapelle1439","COMPENSATION","hyp2","White Transgender Woman",1
+"Mezzapelle1439","COMPENSATION","hyp3","Black Transgender Woman",1
+"Mezzapelle1439","COMPENSATION","hyp3","White Cisgender Woman",0
+"Mezzapelle1439","PERCEIVED HARM","hyp1","Black Cisgender Woman",1
+"Mezzapelle1439","PERCEIVED HARM","hyp1","Black Transgender Woman",1
+"Mezzapelle1439","PERCEIVED HARM","hyp1","White Cisgender Woman",0
+"Mezzapelle1439","PERCEIVED HARM","hyp1","White Transgender Woman",0
+"Mezzapelle1439","PERCEIVED HARM","hyp2","Black Cisgender Woman",0
+"Mezzapelle1439","PERCEIVED HARM","hyp2","Black Transgender Woman",1
+"Mezzapelle1439","PERCEIVED HARM","hyp2","White Cisgender Woman",0
+"Mezzapelle1439","PERCEIVED HARM","hyp2","White Transgender Woman",1
+"Mezzapelle1439","PERCEIVED HARM","hyp3","Black Transgender Woman",1
+"Mezzapelle1439","PERCEIVED HARM","hyp3","White Cisgender Woman",0
+"MunschS68","Morgan_Committed","hyp1","40 hours/male/1%",0
+"MunschS68","Morgan_Committed","hyp1","40 hours/female/1%",0
+"MunschS68","Morgan_Committed","hyp1","40 hours/male/20%",0
+"MunschS68","Morgan_Committed","hyp1","40 hours/male/60%",0
+"MunschS68","Morgan_Committed","hyp1","40 hours/female/60%",0
+"MunschS68","Morgan_Committed","hyp1","50 hours/male/1%",1
+"MunschS68","Morgan_Committed","hyp1","50 hours/female/1%",1
+"MunschS68","Morgan_Committed","hyp1","50 hours/male/20%",1
+"MunschS68","Morgan_Committed","hyp1","50 hours/female/20%",1
+"MunschS68","Morgan_Committed","hyp1","50 hours/male/60%",1
+"MunschS68","Morgan_Committed","hyp1","50 hours/female/60%",1
+"SchaadS62","still_identify","hyp1","v1 Narrative Conforming Transgender Woman",0
+"SchaadS62","still_identify","hyp1","v2 Narrative Nonconforming Transgender Woman",0
+"SchaadS62","still_identify","hyp1","v3 Narrative Conforming AMAB Non-Binary Person",0
+"SchaadS62","still_identify","hyp1","v4 Narrative Nonconforming AMAB Non-Binary Person",0
+"SchaadS62","still_identify","hyp1","v5 Narrative Conforming Transgender Man",1
+"SchaadS62","still_identify","hyp1","v6 Narrative Nonconforming Transgender Man",1
+"SchaadS62","still_identify","hyp1","v7 Narrative Conforming AFAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp1","v8 Narrative Nonconforming AFAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp2","v1 Narrative Conforming Transgender Woman",0
+"SchaadS62","still_identify","hyp2","v2 Narrative Nonconforming Transgender Woman",0
+"SchaadS62","still_identify","hyp2","v3 Narrative Conforming AMAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp2","v4 Narrative Nonconforming AMAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp2","v5 Narrative Conforming Transgender Man",0
+"SchaadS62","still_identify","hyp2","v6 Narrative Nonconforming Transgender Man",0
+"SchaadS62","still_identify","hyp2","v7 Narrative Conforming AFAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp2","v8 Narrative Nonconforming AFAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp3","v1 Narrative Conforming Transgender Woman",0
+"SchaadS62","still_identify","hyp3","v2 Narrative Nonconforming Transgender Woman",1
+"SchaadS62","still_identify","hyp3","v3 Narrative Conforming AMAB Non-Binary Person",0
+"SchaadS62","still_identify","hyp3","v4 Narrative Nonconforming AMAB Non-Binary Person",1
+"SchaadS62","still_identify","hyp3","v5 Narrative Conforming Transgender Man",0
+"SchaadS62","still_identify","hyp3","v6 Narrative Nonconforming Transgender Man",1
+"SchaadS62","still_identify","hyp3","v7 Narrative Conforming AFAB Non-Binary Person",0
+"SchaadS62","still_identify","hyp3","v8 Narrative Nonconforming AFAB Non-Binary Person",1
+"Schnabel903","Feminine","hyp1","Version 1",1
+"Schnabel903","Feminine","hyp1","Version 2",0
+"Schnabel903","Feminine","hyp1","Version 3",0
+"Schnabel903","Feminine","hyp1","Version 4",0
+"Schnabel903","Feminine","hyp1","Version 5",1
+"Schnabel903","Feminine","hyp1","Version 6",0
+"Schnabel903","Feminine","hyp1","Version 7",0
+"Schnabel903","Feminine","hyp1","Version 8",0
+"Schnabel903","Masculine","hyp1","Version 1",1
+"Schnabel903","Masculine","hyp1","Version 2",0
+"Schnabel903","Masculine","hyp1","Version 3",0
+"Schnabel903","Masculine","hyp1","Version 4",0
+"Schnabel903","Masculine","hyp1","Version 5",1
+"Schnabel903","Masculine","hyp1","Version 6",0
+"Schnabel903","Masculine","hyp1","Version 7",0
+"Schnabel903","Masculine","hyp1","Version 8",0
+"ShannonS2","tax credit effective","hyp1","Control",0
+"ShannonS2","tax credit effective","hyp1","Immigrant without savings",1
+"ShannonS2","tax credit effective","hyp2","Immigrant without savings",0
+"ShannonS2","tax credit effective","hyp2","Illegal without savings",1
+"ShannonS2","tax credit effective","hyp3","Immigrant without savings",0
+"ShannonS2","tax credit effective","hyp3","Immigrant",1
+"ShannonS2","tax credit effective","hyp3","Illegal without savings",0
+"ShannonS2","tax credit effective","hyp3","Illegal",1
+"Silverman1035","Americans_Killed","hyp1","Control group: No Corrective Information",0
+"Silverman1035","Americans_Killed","hyp1","Treatment 1: Corrective Information, No Elite Endorsement",1
+"Silverman1035","Americans_Killed","hyp1","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Americans_Killed","hyp1","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Americans_Killed","hyp1","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Americans_Killed","hyp2","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Americans_Killed","hyp2","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Americans_Killed","hyp2","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Americans_Killed","hyp2","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Americans_Killed","hyp3","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Americans_Killed","hyp3","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Americans_Killed","hyp4","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Americans_Killed","hyp4","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_likely","hyp1","Control group: No Corrective Information",0
+"Silverman1035","Terrorism_likely","hyp1","Treatment 1: Corrective Information, No Elite Endorsement",1
+"Silverman1035","Terrorism_likely","hyp1","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Terrorism_likely","hyp1","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_likely","hyp1","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_likely","hyp2","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_likely","hyp2","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Terrorism_likely","hyp2","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_likely","hyp2","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_likely","hyp3","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_likely","hyp3","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_likely","hyp4","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_likely","hyp4","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_worry","hyp1","Control group: No Corrective Information",0
+"Silverman1035","Terrorism_worry","hyp1","Treatment 1: Corrective Information, No Elite Endorsement",1
+"Silverman1035","Terrorism_worry","hyp1","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Terrorism_worry","hyp1","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_worry","hyp1","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_worry","hyp2","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_worry","hyp2","Treatment 2: Corrective Information, Democratic Endorsement",1
+"Silverman1035","Terrorism_worry","hyp2","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_worry","hyp2","Treatment 4: Corrective Information, Military Endorsement",1
+"Silverman1035","Terrorism_worry","hyp3","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_worry","hyp3","Treatment 3: Corrective Information, Republican Endorsement",1
+"Silverman1035","Terrorism_worry","hyp4","Treatment 1: Corrective Information, No Elite Endorsement",0
+"Silverman1035","Terrorism_worry","hyp4","Treatment 4: Corrective Information, Military Endorsement",1
+"Stoker1063","Anger","hyp1","HospDes_Pr_N",0
+"Stoker1063","Anger","hyp1","HospDes_Pr_P",1
+"Stoker1063","Anger","hyp1","MarDeb_Pr_N",0
+"Stoker1063","Anger","hyp1","MarDeb_Pr_P",1
+"Stoker1063","Anger","hyp1","DrinWat_Pr_N",0
+"Stoker1063","Anger","hyp1","DrinWat_Pr_P",1
+"Stoker1063","Anger","hyp1","HSAch_Pr_N",0
+"Stoker1063","Anger","hyp1","HSAch_Pr_P",1
+"Stoker1063","Serious","hyp1","HospDes_Pr_N",0
+"Stoker1063","Serious","hyp1","HospDes_Pr_P",1
+"Stoker1063","Serious","hyp1","MarDeb_Pr_N",0
+"Stoker1063","Serious","hyp1","MarDeb_Pr_P",1
+"Stoker1063","Serious","hyp1","DrinWat_Pr_N",0
+"Stoker1063","Serious","hyp1","DrinWat_Pr_P",1
+"Stoker1063","Serious","hyp1","HSAch_Pr_N",0
+"Stoker1063","Serious","hyp1","HSAch_Pr_P",1
+"Stoker1063","Worry","hyp1","HospDes_Pr_N",0
+"Stoker1063","Worry","hyp1","HospDes_Pr_P",1
+"Stoker1063","Worry","hyp1","MarDeb_Pr_N",0
+"Stoker1063","Worry","hyp1","MarDeb_Pr_P",1
+"Stoker1063","Worry","hyp1","DrinWat_Pr_N",0
+"Stoker1063","Worry","hyp1","DrinWat_Pr_P",1
+"Stoker1063","Worry","hyp1","HSAch_Pr_N",0
+"Stoker1063","Worry","hyp1","HSAch_Pr_P",1
+"Terman1029","donating to HRAC","hyp1","Rights Group Condemns Abuses Worldwide",0
+"Terman1029","donating to HRAC","hyp1","International Rights Group Codemns Abuse in US",1
+"Terman1029","donating to HRAC","hyp1","New York Rights Group Condemns Abuses in the United States",1
+"Terman1029","donating to HRAC","hyp1","International Rights Group Condemns Abuses in the US- “reintegrative”",1
+"Terman1029","donating to HRAC","hyp1","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"Terman1029","donating to HRAC","hyp2","International Rights Group Codemns Abuse in US",1
+"Terman1029","donating to HRAC","hyp2","New York Rights Group Condemns Abuses in the United States",0
+"Terman1029","donating to HRAC","hyp3","International Rights Group Condemns Abuses in the US- “reintegrative”",0
+"Terman1029","donating to HRAC","hyp3","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"Terman1029","naitonalist superiority","hyp1","Rights Group Condemns Abuses Worldwide",0
+"Terman1029","naitonalist superiority","hyp1","International Rights Group Codemns Abuse in US",1
+"Terman1029","naitonalist superiority","hyp1","New York Rights Group Condemns Abuses in the United States",1
+"Terman1029","naitonalist superiority","hyp1","International Rights Group Condemns Abuses in the US- “reintegrative”",1
+"Terman1029","naitonalist superiority","hyp1","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"Terman1029","naitonalist superiority","hyp2","International Rights Group Codemns Abuse in US",1
+"Terman1029","naitonalist superiority","hyp2","New York Rights Group Condemns Abuses in the United States",0
+"Terman1029","naitonalist superiority","hyp3","International Rights Group Condemns Abuses in the US- “reintegrative”",0
+"Terman1029","naitonalist superiority","hyp3","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"Terman1029","perception of domestic human rights conditions","hyp1","Rights Group Condemns Abuses Worldwide",0
+"Terman1029","perception of domestic human rights conditions","hyp1","International Rights Group Codemns Abuse in US",1
+"Terman1029","perception of domestic human rights conditions","hyp1","New York Rights Group Condemns Abuses in the United States",1
+"Terman1029","perception of domestic human rights conditions","hyp1","International Rights Group Condemns Abuses in the US- “reintegrative”",1
+"Terman1029","perception of domestic human rights conditions","hyp1","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"Terman1029","perception of domestic human rights conditions","hyp2","International Rights Group Codemns Abuse in US",1
+"Terman1029","perception of domestic human rights conditions","hyp2","New York Rights Group Condemns Abuses in the United States",0
+"Terman1029","perception of domestic human rights conditions","hyp3","International Rights Group Condemns Abuses in the US- “reintegrative”",0
+"Terman1029","perception of domestic human rights conditions","hyp3","International Rights Group Condemns Abuses in the US- “stigmatic”",1
+"WallaceS9","credibility","hyp1","Group 1",0
+"WallaceS9","credibility","hyp1","Group 3",1
+"WallaceS9","credibility","hyp1","Group 5",1
+"WallaceS9","credibility","hyp1","Group 7",1
+"WallaceS9","president_approval","hyp1","Group 1",0
+"WallaceS9","president_approval","hyp1","Group 3",1
+"WallaceS9","president_approval","hyp1","Group 5",1
+"WallaceS9","president_approval","hyp1","Group 7",1
+"Williamson859","Food stamps","hyp1","COND1",1
+"Williamson859","Food stamps","hyp1","COND2",0
+"Williamson859","Military","hyp1","COND1",1
+"Williamson859","Military","hyp1","COND2",0
+"Williamson859","Social Security","hyp1","COND1",1
+"Williamson859","Social Security","hyp1","COND2",0
+"berganS20","support","hyp1","1 [Republican with instruction]",0
+"berganS20","support","hyp1","2 [Democrat with instruction]",1
+"bolsenM6","Providing Personal Pronouns","hyp1","Baseline",1
+"bolsenM6","Providing Personal Pronouns","hyp1","Descriptive Information",0
+"bolsenM6","Providing Personal Pronouns","hyp2","Baseline",1
+"bolsenM6","Providing Personal Pronouns","hyp2","Injunctive Norm",0
+"bolsenM6","Providing Personal Pronouns","hyp3","Baseline",1
+"bolsenM6","Providing Personal Pronouns","hyp3","Descriptive Information + Injunctive Norm",0
+"bolsenM6","They/Them Pronouns in Forms","hyp1","Baseline",1
+"bolsenM6","They/Them Pronouns in Forms","hyp1","Descriptive Information",0
+"bolsenM6","They/Them Pronouns in Forms","hyp2","Baseline",1
+"bolsenM6","They/Them Pronouns in Forms","hyp2","Injunctive Norm",0
+"bolsenM6","They/Them Pronouns in Forms","hyp3","Baseline",1
+"bolsenM6","They/Them Pronouns in Forms","hyp3","Descriptive Information + Injunctive Norm",0
+"bolsenM6","Using They/Them Pronouns","hyp1","Baseline",1
+"bolsenM6","Using They/Them Pronouns","hyp1","Descriptive Information",0
+"bolsenM6","Using They/Them Pronouns","hyp2","Baseline",1
+"bolsenM6","Using They/Them Pronouns","hyp2","Injunctive Norm",0
+"bolsenM6","Using They/Them Pronouns","hyp3","Baseline",1
+"bolsenM6","Using They/Them Pronouns","hyp3","Descriptive Information + Injunctive Norm",0
+"brandtS1","coppock_dv_name","hyp1","2 [2]",1
+"brandtS1","coppock_dv_name","hyp1","1 [1]",0
+"bucci1408","Rewarding","hyp1","A: Drunk Driving, High Risk",0
+"bucci1408","Rewarding","hyp1","A: Drunk Driving, Low Risk",1
+"caprarielloS2","coppock_dv_name","hyp1","1 [Condition A]",0
+"caprarielloS2","coppock_dv_name","hyp1","2 [Condition B]",1
+"converseS16","coppock_dv_name","hyp1","3 [God-Self-American]",1
+"converseS16","coppock_dv_name","hyp1","1 [Self-God-American]",0
+"death_penalty","Favor Death Penalty","hyp1","innocent",1
+"death_penalty","Favor Death Penalty","hyp1","race",0
+"dennyS17","hardworking","hyp1","2 [2]",1
+"dennyS17","hardworking","hyp1","1 [1]",0
+"flavinS4","coppock_dv_name","hyp1","1 [FLAVIN Condition 1]",0
+"flavinS4","coppock_dv_name","hyp1","2 [FLAVIN Condition 2]",1
+"gashS5","coppock_dv_name","hyp1","1 [Court Prompt]",1
+"gashS5","coppock_dv_name","hyp1","4 [No Prompt]",0
+"immigration","Support for Immigration","hyp1","positive",1
+"immigration","Support for Immigration","hyp1","negative",0
+"jacobsenS7","coppock_dv_name","hyp1","1 [Condition A: performance index format]",0
+"jacobsenS7","coppock_dv_name","hyp1","2 [Condition B: letter grade format]",1
+"melloS6","coppock_dv_name","hyp1","5 [v5]",1
+"melloS6","coppock_dv_name","hyp1","1 [v1]",0
+"parmerS15","coppock_dv_name","hyp1","2 [experimental group 2]",1
+"parmerS15","coppock_dv_name","hyp1","1 [experimental group 1]",0
+"patriot_act","Patriot Act Support","hyp1","Pro",1
+"patriot_act","Patriot Act Support","hyp1","Con",0
+"pedullaS18","hiring recommendation","hyp1","1 [White Male/ White Straight]",0
+"pedullaS18","hiring recommendation","hyp1","2 [Black Male/ Black Straight]",1
+"piazzaS8","coppock_dv_name","hyp1","1 [1]",0
+"piazzaS8","coppock_dv_name","hyp1","2 [2]",1
+"shaferS9","coppock_dv_name","hyp1","1 [1]",0
+"shaferS9","coppock_dv_name","hyp1","2 [2]",1
+"system_threat","Way of Life","hyp1","craig_placebo",0
+"system_threat","Way of Life","hyp1","craig_treatment",1
+"thompsonS10","coppock_dv_name","hyp1","1 [High Fear]",0
+"thompsonS10","coppock_dv_name","hyp1","2 [Plain Low Fear]",1
+"turagaS11","coppock_dv_name","hyp1","1 [1]",1
+"turagaS11","coppock_dv_name","hyp1","3 [3]",0
+"wallaceS12","coppock_dv_name","hyp1","1 [1]",0
+"wallaceS12","coppock_dv_name","hyp1","2 [2]",1
+"willer845","SupportClinton","hyp1","Threat to Racial Status",0
+"willer845","SupportClinton","hyp1","Control",1
+"willer845","SupportTrump","hyp1","Threat to Racial Status",0
+"willer845","SupportTrump","hyp1","Control",1
+"willer845","SupportTrump","hyp2","Threat to Economic Security",0
+"willer845","SupportTrump","hyp2","Control",1
+"willer845","race_threat","hyp1","Threat to Racial Status",0
+"willer845","race_threat","hyp1","Control",1

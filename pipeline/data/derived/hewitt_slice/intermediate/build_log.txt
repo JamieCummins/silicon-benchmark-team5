@@ -1,0 +1,17 @@
+STEP 0 universe: 71 studies, 134 study-outcomes, 616 cells, 482 cell contrasts (all-vs-one-reference count)
+STEP 1 no-prompt exclusions: willer845 (whole study); Howard823/predictedexpense_nextweek and Melin1066/salary (outcome-level, no prompts)
+STEP 2 text-stimulus filter: 58 studies kept; excluded: no_prompts=['willer845']; question_wording=['Enos700', 'KlarBRIEF70', 'KrupnikovS34', 'RyanS14']; task_induction=['Howard823', 'Howat1039', 'Levendusky741', 'Merolla843', 'Rifkin1073', 'caprarielloS2', 'converseS16', 'wayne841']
+STEP 3 reference designation: ambiguous=17 (['Blair1131', 'Bougher893', 'Braman751', 'CalarcoS38', 'Cohen1099', 'FaheyS78', 'HamiltonS31', 'Harbridge-Yong1032', 'Iles1294', 'KuruB67', 'MunschS68', 'SchaadS62', 'Schnabel903', 'ShannonS28', 'Stoker1063', 'ThorsonS42', 'relihan1399']); hypothesis_pair=4 (['Kennedy1017', 'Melin1066', 'Mezzapelle1439', 'Terman1029']); hypothesis_t0=21 (['CorstangeBRIEF69', 'FarrowS6', 'HankinsonS22', 'WallaceS9', 'berganS20', 'brandtS1', 'bucci1408', 'death_penalty', 'dennyS17', 'flavinS4', 'immigration', 'jacobsenS7', 'melloS6', 'parmerS15', 'patriot_act', 'pedullaS18', 'piazzaS8', 'shaferS9', 'thompsonS10', 'turagaS11', 'wallaceS12']); named_control=16 (['AnsonBRIEF60', 'Campbell1308', 'Connors1226', 'Craig735', 'Haaland874', 'KlarS44', 'Krupnikov719', 'McCabeS19', 'McGinty730', 'ShannonS2', 'Silverman1035', 'Williamson859', 'bolsenM6', 'gashS5', 'senS81', 'system_threat'])
+STEP 4 eligible contrasts before sampling: 179 across 41 studies
+   per study: AnsonBRIEF60=2, Campbell1308=9, Connors1226=12, CorstangeBRIEF69=7, Craig735=6, FarrowS6=1, Haaland874=3, HankinsonS22=1, Kennedy1017=3, KlarS44=6, Krupnikov719=6, McCabeS19=6, McGinty730=21, Melin1066=6, Mezzapelle1439=3, ShannonS2=5, Silverman1035=12, Terman1029=18, WallaceS9=14, Williamson859=6, berganS20=1, bolsenM6=9, brandtS1=1, bucci1408=3, death_penalty=1, dennyS17=1, flavinS4=1, gashS5=1, immigration=1, jacobsenS7=1, melloS6=1, parmerS15=1, patriot_act=1, pedullaS18=1, piazzaS8=1, senS81=2, shaferS9=1, system_threat=1, thompsonS10=1, turagaS11=1, wallaceS12=1
+STEP 5 sampling (seed 42): keep all 18 Coppock studies (18 contrasts); TESS shuffled order = ['Silverman1035', 'ShannonS2', 'Connors1226', 'Mezzapelle1439', 'FarrowS6', 'Melin1066', 'Terman1029', 'McGinty730', 'senS81', 'Haaland874', 'KlarS44', 'Campbell1308', 'Williamson859', 'McCabeS19', 'Krupnikov719', 'bucci1408', 'Craig735', 'WallaceS9', 'HankinsonS22', 'Kennedy1017', 'AnsonBRIEF60', 'CorstangeBRIEF69', 'bolsenM6']
+   kept 15 TESS studies; skipped (budget) = ['Krupnikov719', 'bucci1408', 'Craig735', 'WallaceS9', 'Kennedy1017', 'AnsonBRIEF60', 'CorstangeBRIEF69', 'bolsenM6']; final: 33 studies, 129 contrasts (target <= 130)
+WROTE contrasts.csv: 129 rows, 33 studies
+WROTE stimuli.csv: 97 condition rows (6 with empty stimulus_text = no condition-specific content)
+VALIDATION vs MOESM4 panelA (estimate on original coding rescaled to [0,1]):
+   Campbell1308 | Democratic story | Gender Roles | ours=0.004152 theirs=0.004152 diff=-0.0
+   Connors1226 | Friends Reminder | rate_democrats | ours=-0.037493 theirs=-0.037493 diff=5e-08
+   FarrowS6 | Condition 2 disappointment | Disappointment | ours=-0.008282 theirs=-0.008282 diff=-1e-08
+   Haaland874 | TREATMENT | Affirmative action: Assistance | ours=-0.005047 theirs=-0.005047 diff=1e-08
+   HankinsonS22 | Far Treatment | Clinic_support | ours=-0.106192 theirs=-0.106192 diff=-2e-08
+   full sweep: 129 slice contrasts found in panelA; 129 agree within 1e-6; max abs diff = 4.54e-07

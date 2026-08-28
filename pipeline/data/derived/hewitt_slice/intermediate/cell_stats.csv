@@ -1,0 +1,617 @@
+"study","outcome.variable","outcome.name","outcome.min","outcome.max","condition.name","n_total","n","mean","sd"
+"ThorsonS42","ThorsonS42.coalescedoutcome1","Facebook",1,5,"DVs first",1049,1040,1.94038461538462,0.995806339499863
+"ThorsonS42","ThorsonS42.coalescedoutcome1","Facebook",1,5,"DVs second, misinformation",533,527,1.8595825426945,0.940844524113296
+"ThorsonS42","ThorsonS42.coalescedoutcome1","Facebook",1,5,"DVs second, misinformation, social media",536,534,1.79588014981273,0.869269966431351
+"ThorsonS42","ThorsonS42.coalescedoutcome2","National newspapers",1,5,"DVs first",1049,1040,3.06634615384615,1.1459524600932
+"ThorsonS42","ThorsonS42.coalescedoutcome2","National newspapers",1,5,"DVs second, misinformation",533,529,3.1758034026465,1.174742302136
+"ThorsonS42","ThorsonS42.coalescedoutcome2","National newspapers",1,5,"DVs second, misinformation, social media",536,531,3.22787193973635,1.14548127422815
+"ThorsonS42","ThorsonS42.coalescedoutcome3","Local Newspapers",1,5,"DVs first",1049,1045,3.19617224880383,1.06439444091816
+"ThorsonS42","ThorsonS42.coalescedoutcome3","Local Newspapers",1,5,"DVs second, misinformation",533,529,3.25330812854442,1.05534059450363
+"ThorsonS42","ThorsonS42.coalescedoutcome3","Local Newspapers",1,5,"DVs second, misinformation, social media",536,531,3.35028248587571,1.02132678933689
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Eric Engage",97,97,4.42268041237113,1.66979946117785
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Eric, Not engage",102,101,2.82178217821782,1.57096174112523
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Eric, Stay out",106,106,3.72641509433962,1.49623666875025
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Erica, Engage",95,94,4.52127659574468,1.48634446147453
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Erica, Not engage",93,93,2.48387096774194,1.34821059529165
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Democrat, Erica, Stay out",87,87,3.48275862068966,1.46161800250428
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Eric, Engage",99,99,4.04040404040404,1.65319228556291
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Eric, Not engage",88,88,2.92045454545455,1.47952765768814
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Eric, Stay out",104,104,3.60576923076923,1.34682848772765
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Erica, Engage",95,95,4.27368421052632,1.51195312084788
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Erica, Not engage",96,96,2.86458333333333,1.57359656213112
+"Blair1131","Blair1131.Q31","Approve_Handling",1,7,"Male, Republican, Erica, Stay out",87,87,3.39080459770115,1.46554475814222
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, HEAVY DRINKIG, WARNING",153,153,4.03921568627451,0.91681910731714
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, HEAVY DRINKING, NO WARNING",166,166,3.93373493975904,0.960653452911088
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, LIGHT DRINKING, NO WARNING",161,160,3.2875,1.18898244111636
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, LIGHT DRINKING, WARNING",171,171,3.31578947368421,1.0653565225425
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, NO DRINKING, NO WARNING",157,157,1.45222929936306,0.865624569777632
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"HIGH STATUS, NO DRINKING, WARNING",163,163,1.60122699386503,0.990945908632119
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, HEAVY DRINKING, NO WARNING",171,171,3.89473684210526,0.952103748541941
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, HEAVY DRINKING, WARNING",158,157,3.89171974522293,0.96462838489948
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, LIGHT DRINKING, NO WARNING",176,176,3.28409090909091,1.12578976607651
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, LIGHT DRINKING, WARNING",198,198,3.19191919191919,1.11907111296533
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, NO DRINKING, NO WARNING",167,167,1.44910179640719,0.847808533132437
+"CalarcoS38","CalarcoS38.Q71","Approval",1,5,"LOW STATUS, NO DRINKING, WARNING",164,163,1.49079754601227,0.958188221925064
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, upper class, no debt",123,121,3.57851239669421,1.45345603141674
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, upper class, no info",136,134,3.45522388059702,1.31855281594936
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, upper class, student loans",139,138,3.5,1.29710514293361
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, working class, no debt",132,132,3.50757575757576,1.53581274761727
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, working class, no info",127,126,3.38095238095238,1.47976832163494
+"Cohen1099","Cohen1099.Q11","History",1,6,"female, working class, student loans",149,148,3.2972972972973,1.47292785133242
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, upper class, no debt",129,128,3.703125,1.52851827278454
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, upper class, no info",136,134,3.46268656716418,1.53484204285325
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, upper class, student loans",155,154,3.52597402597403,1.40120420641643
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, working class, no debt",139,138,3.3768115942029,1.39970225483863
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, working class, no info",122,121,3.53719008264463,1.45511352543395
+"Cohen1099","Cohen1099.Q11","History",1,6,"male, working class, student loans",123,122,3.22950819672131,1.49813595056608
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, upper class, no debt",123,122,4.12295081967213,1.41758652338413
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, upper class, no info",136,133,3.81954887218045,1.55131706734205
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, upper class, student loans",139,139,3.94964028776978,1.40559823257167
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, working class, no debt",132,131,4.67175572519084,1.0985497299174
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, working class, no info",127,126,4.38095238095238,1.3556232093448
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"female, working class, student loans",149,146,4.6027397260274,1.29975834387779
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, upper class, no debt",129,129,3.50387596899225,1.63039503939877
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, upper class, no info",136,133,3.30827067669173,1.70640704906191
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, upper class, student loans",155,153,3.30065359477124,1.62660838346583
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, working class, no debt",139,137,4.12408759124088,1.47251912738227
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, working class, no info",122,119,4.18487394957983,1.41999275812561
+"Cohen1099","Cohen1099.Q22","Nursing",1,6,"male, working class, student loans",123,123,4.1219512195122,1.47983919071899
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, upper class, no debt",123,121,4.0495867768595,1.27704893973973
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, upper class, no info",136,135,3.91111111111111,1.34089893364442
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, upper class, student loans",139,138,4.14492753623188,1.21757641668895
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, working class, no debt",132,131,4.32824427480916,1.29758798777758
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, working class, no info",127,126,3.95238095238095,1.37902657179414
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"female, working class, student loans",149,147,4.41496598639456,1.32335986581564
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, upper class, no debt",129,129,4.2015503875969,1.289257568339
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, upper class, no info",136,133,3.81954887218045,1.48137214477171
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, upper class, student loans",155,155,4.2258064516129,1.29207568380702
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, working class, no debt",139,138,4.34782608695652,1.18784706131148
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, working class, no info",122,119,4.28571428571429,1.15084977551857
+"Cohen1099","Cohen1099.Q33","Accounting",1,6,"male, working class, student loans",123,120,4.6,1.1478880863671
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"ATTEMPTED RAPE LANGUAGE",186,88,1.875,0.332614166727826
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"BOTH HAD BEEN DRINKING",167,84,1.78571428571429,0.412790345321993
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"CONSENT",179,97,1.75257731958763,0.433756071884772
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"FIRST ALLEGATION AGAINST MAN",186,94,1.42553191489362,0.49707448874146
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"INAPPROPRIATE TOUCHING LANGUAGE",203,103,1.7378640776699,0.441946786090985
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"MAN ACCUSER",177,91,1.45054945054945,0.500305157184343
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"NEITHER HAD BEEN DRINKING",163,89,1.79775280898876,0.403951371986184
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"NOT THE FIRST ALLEGATION AGAINST MAN",179,76,1.89473684210526,0.308931378288493
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"RAPE LANGUAGE",176,90,1.85555555555556,0.353509248837612
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"SOFT DENIAL",195,100,1.76,0.429234695990928
+"HamiltonS31","HamiltonS31.Q1A1","belief_man_first",1,2,"WOMAN ACCUSER",194,100,1.84,0.368452949177471
+"KrupnikovS34","KrupnikovS34.Q51","partisanship",1,7,"Feel",1009,998,3.65931863727455,2.02000236766432
+"KrupnikovS34","KrupnikovS34.Q51","partisanship",1,7,"Think",996,988,3.67105263157895,2.0475829290484
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Cosmetics/Automotive”",275,265,77231.2754716981,31710.0050410015
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Cosmetics/Consulting”",298,282,79538.3581560284,33200.4712165262
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Cosmetics/Wedding”",262,240,74715.2291666667,29698.8994028776
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Military/Automotive”",274,263,87051.752851711,33494.7144003243
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Military/Consulting”",271,260,88523.5230769231,35865.8528560542
+"Melin1066","Melin1066.Q11","salary",35000,225000,"“Military/Wedding”",302,287,77647.4285714286,32290.8489426117
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Cosmetics/Automotive”",275,275,5.27272727272727,1.17228558113735
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Cosmetics/Consulting”",298,297,5.34343434343434,1.09817061788171
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Cosmetics/Wedding”",262,262,5.29770992366412,1.10861935805333
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Military/Automotive”",274,273,5.88278388278388,0.8916464534638
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Military/Consulting”",271,270,5.73333333333333,1.12557296437915
+"Melin1066","Melin1066.Q4_12","Capable",1,7,"“Military/Wedding”",302,300,5.54333333333333,1.14271967241371
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Cosmetics/Automotive”",275,261,2.83908045977011,1.58021588022545
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Cosmetics/Consulting”",298,284,2.63380281690141,1.57264097039306
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Cosmetics/Wedding”",262,244,2.66393442622951,1.48579366350015
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Military/Automotive”",274,263,3.67680608365019,1.77291810722455
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Military/Consulting”",271,261,3.46743295019157,1.75298995134755
+"Melin1066","Melin1066.Q7_13","masculine",1,7,"“Military/Wedding”",302,292,3.59931506849315,1.6204448320308
+"Silverman1035","Silverman1035.Q31","Americans_Killed",1,3,"Control group: No Corrective Information",262,260,1.29615384615385,0.513133134094469
+"Silverman1035","Silverman1035.Q31","Americans_Killed",1,3,"Treatment 1: Corrective Information, No Elite Endorsement",263,262,1.09160305343511,0.314414414754159
+"Silverman1035","Silverman1035.Q31","Americans_Killed",1,3,"Treatment 2: Corrective Information, Democratic Endorsement",278,276,1.14855072463768,0.430261739747311
+"Silverman1035","Silverman1035.Q31","Americans_Killed",1,3,"Treatment 3: Corrective Information, Republican Endorsement",277,277,1.14440433212996,0.434990532608959
+"Silverman1035","Silverman1035.Q31","Americans_Killed",1,3,"Treatment 4: Corrective Information, Military Endorsement",260,258,1.16666666666667,0.457676985533357
+"Silverman1035","Silverman1035.Q42","Terrorism_worry",1,4,"Control group: No Corrective Information",262,256,2.8203125,0.885026586506603
+"Silverman1035","Silverman1035.Q42","Terrorism_worry",1,4,"Treatment 1: Corrective Information, No Elite Endorsement",263,259,2.91891891891892,0.790685350096828
+"Silverman1035","Silverman1035.Q42","Terrorism_worry",1,4,"Treatment 2: Corrective Information, Democratic Endorsement",278,274,2.97445255474453,0.7910237440651
+"Silverman1035","Silverman1035.Q42","Terrorism_worry",1,4,"Treatment 3: Corrective Information, Republican Endorsement",277,274,3.0036496350365,0.782117793618777
+"Silverman1035","Silverman1035.Q42","Terrorism_worry",1,4,"Treatment 4: Corrective Information, Military Endorsement",260,258,2.94186046511628,0.873580910341681
+"Silverman1035","Silverman1035.Q53","Terrorism_likely",1,4,"Control group: No Corrective Information",262,250,2.068,0.775746822442814
+"Silverman1035","Silverman1035.Q53","Terrorism_likely",1,4,"Treatment 1: Corrective Information, No Elite Endorsement",263,253,2.1699604743083,0.73918579082133
+"Silverman1035","Silverman1035.Q53","Terrorism_likely",1,4,"Treatment 2: Corrective Information, Democratic Endorsement",278,273,2.16483516483517,0.856597273034798
+"Silverman1035","Silverman1035.Q53","Terrorism_likely",1,4,"Treatment 3: Corrective Information, Republican Endorsement",277,270,2.14814814814815,0.766574173254387
+"Silverman1035","Silverman1035.Q53","Terrorism_likely",1,4,"Treatment 4: Corrective Information, Military Endorsement",260,249,2.0281124497992,0.692130921943607
+"HankinsonS22","HankinsonS22.Q21","Clinic_support",1,5,"Far Treatment",1024,1020,2.65686274509804,1.32608093216438
+"HankinsonS22","HankinsonS22.Q21","Clinic_support",1,5,"Near Treatment",984,980,3.08163265306123,1.39438146898806
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"Dem Majority - Control",257,256,2.28125,0.771425977794167
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"Dem Majority -Bipartisan",236,234,2.10683760683761,0.764920427932818
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"Dem Majority -Minority",247,246,2.23983739837398,0.758219163555899
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"GOP Majority - Control",252,252,2.23412698412698,0.760547370343155
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"GOP Majority -Bipartisan Gas Tax",294,293,2.16382252559727,0.819573307734663
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"GOP Majority -Bipartisan Green Energy",247,247,2.10931174089069,0.878951201962143
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"GOP Majority -Minority Gas Tax",264,264,2.10227272727273,0.780559018659565
+"Harbridge-Yong1032","Harbridge-Yong1032.Q21","Confidence_congress",1,5,"GOP Majority -Minority Green Energy",262,262,2.16412213740458,0.825695453053898
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"Dem Majority - Control",257,256,5.19921875,1.64833825263446
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"Dem Majority -Bipartisan",236,235,4.5531914893617,1.53879338119604
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"Dem Majority -Minority",247,246,4.47560975609756,1.72774910609692
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"GOP Majority - Control",252,251,4.04780876494024,1.76796639653667
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"GOP Majority -Bipartisan Gas Tax",294,291,3.5360824742268,1.66129481493805
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"GOP Majority -Bipartisan Green Energy",247,247,3.61943319838057,1.82599423930713
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"GOP Majority -Minority Gas Tax",264,264,3.70454545454545,1.81978411941418
+"Harbridge-Yong1032","Harbridge-Yong1032.Q32","Article_Support",1,7,"GOP Majority -Minority Green Energy",262,262,3.40076335877863,1.77781113785201
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"Dem Majority - Control",257,256,4.2265625,1.49096543929645
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"Dem Majority -Bipartisan",236,232,3.42241379310345,1.61513867400268
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"Dem Majority -Minority",247,245,3.46938775510204,1.56422663047552
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"GOP Majority - Control",252,251,3.9203187250996,1.55229684596986
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"GOP Majority -Bipartisan Gas Tax",294,293,3.14334470989761,1.59190968520097
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"GOP Majority -Bipartisan Green Energy",247,245,3,1.66693986831864
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"GOP Majority -Minority Gas Tax",264,261,3.11494252873563,1.64615136716142
+"Harbridge-Yong1032","Harbridge-Yong1032.Q43","Article_Fairness",1,7,"GOP Majority -Minority Green Energy",262,260,2.95769230769231,1.74042844698976
+"Howat1039","Howat1039.Q2_D1","Feeling_Dem",0,100,"Control",505,501,51.7125748502994,31.1328961318552
+"Howat1039","Howat1039.Q2_D1","Feeling_Dem",0,100,"Political Issues",490,487,55.2956878850103,29.9723954254618
+"Howat1039","Howat1039.Q2_D1","Feeling_Dem",0,100,"Social Groups",502,493,55.3833671399594,30.1231396757356
+"Howat1039","Howat1039.Q2_D1","Feeling_Dem",0,100,"Traits",518,512,54.44140625,29.5264067086773
+"Howat1039","Howat1039.Q3_12","Feeling_DemPartySupporters",1,7,"Control",505,498,2.58433734939759,1.26789630050077
+"Howat1039","Howat1039.Q3_12","Feeling_DemPartySupporters",1,7,"Political Issues",490,485,2.58762886597938,1.33107004521953
+"Howat1039","Howat1039.Q3_12","Feeling_DemPartySupporters",1,7,"Social Groups",502,487,2.60164271047228,1.42054203837167
+"Howat1039","Howat1039.Q3_12","Feeling_DemPartySupporters",1,7,"Traits",518,511,2.46183953033268,1.28567207635714
+"Howat1039","Howat1039.IDEO3","Personal_ideology",1,7,"Control",505,466,4.06223175965665,1.56383542775341
+"Howat1039","Howat1039.IDEO3","Personal_ideology",1,7,"Political Issues",490,453,4.02869757174393,1.52023732687242
+"Howat1039","Howat1039.IDEO3","Personal_ideology",1,7,"Social Groups",502,453,3.91169977924945,1.60231303436955
+"Howat1039","Howat1039.IDEO3","Personal_ideology",1,7,"Traits",518,464,4.01077586206897,1.606510862247
+"Kennedy1017","Kennedy1017.Q11","Family_approval",1,11,"Green; High",640,634,8.97634069400631,1.93522478310748
+"Kennedy1017","Kennedy1017.Q11","Family_approval",1,11,"Green; Low",654,648,8.8641975308642,1.93561327150079
+"Kennedy1017","Kennedy1017.Q11","Family_approval",1,11,"Not Green; High",634,620,8.43709677419355,1.76784544085051
+"Kennedy1017","Kennedy1017.Q11","Family_approval",1,11,"Not Green; Low",667,661,8.39788199697428,1.92918456427162
+"Kennedy1017","Kennedy1017.Q22","Family_friends",1,11,"Green; High",640,631,8.33280507131537,2.10973214843329
+"Kennedy1017","Kennedy1017.Q22","Family_friends",1,11,"Green; Low",654,648,8.30555555555555,2.08160412522594
+"Kennedy1017","Kennedy1017.Q22","Family_friends",1,11,"Not Green; High",634,626,7.61022364217252,2.09184877797229
+"Kennedy1017","Kennedy1017.Q22","Family_friends",1,11,"Not Green; Low",667,661,7.83963691376702,2.13307343807265
+"Kennedy1017","Kennedy1017.Q33","Family_knowledge",1,11,"Green; High",640,632,8.38449367088608,1.85853410785781
+"Kennedy1017","Kennedy1017.Q33","Family_knowledge",1,11,"Green; Low",654,642,7.71028037383178,1.89346200416208
+"Kennedy1017","Kennedy1017.Q33","Family_knowledge",1,11,"Not Green; High",634,627,7.5518341307815,1.7325420347443
+"Kennedy1017","Kennedy1017.Q33","Family_knowledge",1,11,"Not Green; Low",667,659,7.30804248861912,1.81368798183602
+"McCabeS19","McCabeS19.Q11A1","Attribution",1,5,"CONTROL",401,399,2.98496240601504,1.39625285902011
+"McCabeS19","McCabeS19.Q11A1","Attribution",1,5,"INSURANCE",430,428,3.0607476635514,1.40792384623107
+"McCabeS19","McCabeS19.Q11A1","Attribution",1,5,"INSURANCE+GOVERNMENT CUE",394,390,2.93333333333333,1.4378885786791
+"McCabeS19","McCabeS19.Q11A1","Attribution",1,5,"PROVIDER",405,405,3.03703703703704,1.39522208428137
+"McCabeS19","McCabeS19.Q11A1","Attribution",1,5,"PROVIDER+GOVERNMENT CUE",386,385,2.91948051948052,1.36788299795849
+"McCabeS19","McCabeS19.Q12A2","Contact",1,5,"CONTROL",401,398,2.30150753768844,1.1574086136432
+"McCabeS19","McCabeS19.Q12A2","Contact",1,5,"INSURANCE",430,429,2.25874125874126,1.13594593983325
+"McCabeS19","McCabeS19.Q12A2","Contact",1,5,"INSURANCE+GOVERNMENT CUE",394,390,2.32307692307692,1.13519565337678
+"McCabeS19","McCabeS19.Q12A2","Contact",1,5,"PROVIDER",405,399,2.16290726817043,1.07555177795288
+"McCabeS19","McCabeS19.Q12A2","Contact",1,5,"PROVIDER+GOVERNMENT CUE",386,380,2.30263157894737,1.16024445656945
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/female/1%",71,70,6.07142857142857,0.99740865073607
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/female/20%",55,55,5.69090909090909,1.05185422297831
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/female/60%",71,70,5.1,1.00937633205368
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/male/1%",72,72,5.86111111111111,1.27052784367953
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/male/20%",75,75,5.72,1.07250653623662
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"40 hours/male/60%",60,60,5.26666666666667,1.05552086373757
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/female/1%",52,52,6.57692307692308,0.800640769025436
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/female/20%",80,80,6.5125,0.841844719437955
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/female/60%",59,59,6.25423728813559,0.901975233603395
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/male/1%",65,64,6.5,0.959497222838566
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/male/20%",52,52,6.30769230769231,1.0762764703941
+"MunschS68","MunschS68.Q1_MUNSCH1","Morgan_Committed",1,7,"50 hours/male/60%",54,53,6.16981132075472,0.97538649256045
+"Rifkin1073","Rifkin1073.Q2A1","Stressed",1,7,"High",595,590,4.39322033898305,1.94524926556684
+"Rifkin1073","Rifkin1073.Q2A1","Stressed",1,7,"Low",605,596,3.56879194630872,1.96532099296283
+"RyanS14","RyanS14.Q21","rumor true - laundered money",1,5,"Q2 is democrat",1013,1006,3.14811133200795,0.812178087185497
+"RyanS14","RyanS14.Q21","rumor true - laundered money",1,5,"Q2 is republican",1043,1030,3.08446601941748,0.83162202690718
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 1",353,353,4.67705382436261,1.84728312170977
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 2",348,348,4.77011494252874,1.82963847029819
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 3",350,349,4.50429799426934,1.96026883053211
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 4",316,316,4.33544303797468,1.95053353545523
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 5",348,337,2.4213649851632,1.49619176509463
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 6",360,352,2.40625,1.55149615319868
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 7",359,346,2.28034682080925,1.4643654790312
+"Schnabel903","Schnabel903.Q11","Feminine",1,7,"Version 8",355,345,2.55652173913043,1.62569111071633
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 1",353,348,2.29310344827586,1.48973765970493
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 2",348,339,2.25073746312684,1.46526580947244
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 3",350,339,2.13274336283186,1.42570085398963
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 4",316,310,2.26451612903226,1.57067552657173
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 5",348,345,4.4695652173913,1.75864181439678
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 6",360,359,4.55431754874652,1.87209052313559
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 7",359,358,4.44413407821229,1.80598342706555
+"Schnabel903","Schnabel903.Q22","Masculine",1,7,"Version 8",355,355,4.19154929577465,1.84649205349942
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Control",418,407,3.71990171990172,1.11203536383325
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Illegal",437,422,3.32701421800948,1.25857820274862
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Illegal without savings",428,417,3.23741007194245,1.20045704725415
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Immigrant",403,395,3.56962025316456,1.12970442547105
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Immigrant without savings",436,424,3.56603773584906,1.12792927636149
+"ShannonS2","ShannonS2.coalescedoutcome1","tax credit effective",1,5,"Treatment",421,415,3.77590361445783,1.04507013395766
+"ShannonS28","ShannonS28.coalescedoutcome1","immigrant intake",1,5,"neg immigration rep cue",1113,1107,3.40831074977416,1.16280649038809
+"ShannonS28","ShannonS28.coalescedoutcome1","immigrant intake",1,5,"pos immigration rep cue",1140,1135,3.05638766519824,1.16397694080208
+"Terman1029","Terman1029.Q4_A1","naitonalist superiority",1,5,"International Rights Group Codemns Abuse in US",396,387,3.31266149870801,1.03709433502041
+"Terman1029","Terman1029.Q4_A1","naitonalist superiority",1,5,"International Rights Group Condemns Abuses in the US- “reintegrative”",390,384,3.27604166666667,0.975870212624915
+"Terman1029","Terman1029.Q4_A1","naitonalist superiority",1,5,"International Rights Group Condemns Abuses in the US- “stigmatic”",355,350,3.17142857142857,1.11220667323798
+"Terman1029","Terman1029.Q4_A1","naitonalist superiority",1,5,"New York Rights Group Condemns Abuses in the United States",392,385,3.3038961038961,1.03259906183902
+"Terman1029","Terman1029.Q4_A1","naitonalist superiority",1,5,"Rights Group Condemns Abuses Worldwide",379,372,3.21774193548387,1.0427039585055
+"Terman1029","Terman1029.Q5_A2","perception of domestic human rights conditions",1,5,"International Rights Group Codemns Abuse in US",396,384,3.6953125,1.0538398797574
+"Terman1029","Terman1029.Q5_A2","perception of domestic human rights conditions",1,5,"International Rights Group Condemns Abuses in the US- “reintegrative”",390,385,3.77922077922078,1.04112540050039
+"Terman1029","Terman1029.Q5_A2","perception of domestic human rights conditions",1,5,"International Rights Group Condemns Abuses in the US- “stigmatic”",355,351,3.74074074074074,1.07092404346821
+"Terman1029","Terman1029.Q5_A2","perception of domestic human rights conditions",1,5,"New York Rights Group Condemns Abuses in the United States",392,385,3.7038961038961,1.05109585156516
+"Terman1029","Terman1029.Q5_A2","perception of domestic human rights conditions",1,5,"Rights Group Condemns Abuses Worldwide",379,374,3.65508021390374,1.06429418466463
+"Terman1029","Terman1029.Q73","donating to HRAC",1,2,"International Rights Group Codemns Abuse in US",396,383,1.91644908616188,0.277075087433691
+"Terman1029","Terman1029.Q73","donating to HRAC",1,2,"International Rights Group Condemns Abuses in the US- “reintegrative”",390,381,1.89501312335958,0.30693958317894
+"Terman1029","Terman1029.Q73","donating to HRAC",1,2,"International Rights Group Condemns Abuses in the US- “stigmatic”",355,351,1.88319088319088,0.3216512139873
+"Terman1029","Terman1029.Q73","donating to HRAC",1,2,"New York Rights Group Condemns Abuses in the United States",392,380,1.88684210526316,0.317203357054156
+"Terman1029","Terman1029.Q73","donating to HRAC",1,2,"Rights Group Condemns Abuses Worldwide",379,374,1.90909090909091,0.287864890993556
+"Bougher893","Bougher893.Q5A1","warmth Candidate A",0,100,"CONTROL (NO PARTY CUE) x ALIGNED",516,502,49.8904382470119,27.1324456875747
+"Bougher893","Bougher893.Q5A1","warmth Candidate A",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, NON-SALIENT",463,445,48.8516853932584,29.9186664455952
+"Bougher893","Bougher893.Q5A1","warmth Candidate A",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, SALIENT",468,452,54.6814159292035,27.3317519554273
+"Bougher893","Bougher893.Q5B2","warmth Candidate B",0,100,"CONTROL (NO PARTY CUE) x ALIGNED",516,496,50.8991935483871,26.4748769677865
+"Bougher893","Bougher893.Q5B2","warmth Candidate B",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, NON-SALIENT",463,447,50.6442953020134,29.6471190137245
+"Bougher893","Bougher893.Q5B2","warmth Candidate B",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, SALIENT",468,458,49.6288209606987,27.0108536238023
+"Bougher893","Bougher893.coalescedoutcome3","warmth gop",0,100,"CONTROL (NO PARTY CUE) x ALIGNED",516,494,41.5627530364373,28.7953383459573
+"Bougher893","Bougher893.coalescedoutcome3","warmth gop",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, NON-SALIENT",463,444,43.2297297297297,29.3146920216481
+"Bougher893","Bougher893.coalescedoutcome3","warmth gop",0,100,"CONTROL (NO PARTY CUE) x CROSS-PRESSURED, SALIENT",468,453,40.4128035320088,28.3764908672122
+"FarrowS6","FarrowS6.coalescedoutcome1","Disappointment",1,7,"Condition 1 disappointment",490,483,5.67494824016563,1.55931604973415
+"FarrowS6","FarrowS6.coalescedoutcome1","Disappointment",1,7,"Condition 2 disappointment",505,491,5.62525458248473,1.540637850397
+"Haaland874","Haaland874.Q21","Racial Discrimination perception",1,5,"CONTROL",759,757,2.79524438573316,1.20803246379509
+"Haaland874","Haaland874.Q21","Racial Discrimination perception",1,5,"TREATMENT",783,781,2.62612035851472,1.18149576248809
+"Haaland874","Haaland874.Q32","Affirmative action: Preference",1,5,"CONTROL",759,753,3.29216467463479,1.12498449846315
+"Haaland874","Haaland874.Q32","Affirmative action: Preference",1,5,"TREATMENT",783,782,3.32608695652174,1.05170298217861
+"Haaland874","Haaland874.Q43","Affirmative action: Assistance",1,5,"CONTROL",759,754,2.54907161803713,1.04778546594532
+"Haaland874","Haaland874.Q43","Affirmative action: Assistance",1,5,"TREATMENT",783,779,2.52888318356868,1.04531033040457
+"Williamson859","Williamson859.Q9A1","Food stamps",1,3,"COND1",504,504,2.20039682539683,0.798557248539312
+"Williamson859","Williamson859.Q9A1","Food stamps",1,3,"COND2",507,504,2.22222222222222,0.771138312135743
+"Williamson859","Williamson859.Q9A1","Food stamps",1,3,"CONTROL",516,514,2.19260700389105,0.784762174046633
+"Williamson859","Williamson859.Q9B2","Social Security",1,3,"COND1",504,503,1.63817097415507,0.906096128353489
+"Williamson859","Williamson859.Q9B2","Social Security",1,3,"COND2",507,505,1.64752475247525,0.90770446332453
+"Williamson859","Williamson859.Q9B2","Social Security",1,3,"CONTROL",516,513,1.64522417153996,0.902936614457016
+"Williamson859","Williamson859.Q9C3","Military",1,3,"COND1",504,503,1.83300198807157,0.851495247999988
+"Williamson859","Williamson859.Q9C3","Military",1,3,"COND2",507,504,1.80753968253968,0.844031023247058
+"Williamson859","Williamson859.Q9C3","Military",1,3,"CONTROL",516,514,1.84630350194553,0.875102864077562
+"AnsonBRIEF60","AnsonBRIEF60.Q11","economy_positivity",1,5,"Control group 1",202,200,3.115,0.983162265448082
+"AnsonBRIEF60","AnsonBRIEF60.Q11","economy_positivity",1,5,"Treatment group 1",189,189,3.12698412698413,0.959145178349431
+"AnsonBRIEF60","AnsonBRIEF60.Q22","blue_collar_positivity",1,5,"Control group 1",202,200,3.475,0.81405678070455
+"AnsonBRIEF60","AnsonBRIEF60.Q22","blue_collar_positivity",1,5,"Treatment group 1",189,189,3.32275132275132,0.769471251561502
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Clear Authority, 15% support",79,54,1.2962962962963,0.46091089588801
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Clear Authority, 85% support",62,39,1.38461538461538,0.492864058090144
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Clearly No Authority, 15% support",75,47,1.34042553191489,0.478975162498507
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Clearly No Authority, 85% support",59,34,1.32352941176471,0.474858079933817
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Divided, 85% support",54,37,1.27027027027027,0.450225168890748
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Gun Control, Divided. 15% support",67,38,1.55263157894737,0.503896622873567
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Clear Authority, 15% support",72,38,1.23684210526316,0.430851484182746
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Clear Authority, 85% support",66,45,1.24444444444444,0.434613493680176
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Clearly No Authority, 15% support",68,46,1.32608695652174,0.473959577558488
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Clearly No Authority, 85% support",64,35,1.51428571428571,0.50709255283711
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Divided, 15% support",68,48,1.27083333333333,0.449092860289629
+"Braman751","Braman751.B091","scholar_credibility",1,2,"Immigration, Divided, 85% support",67,45,1.24444444444444,0.434613493680177
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Clear Authority, 15% support",79,79,3.91139240506329,1.70361511105304
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Clear Authority, 85% support",62,62,3.91935483870968,1.63264230265506
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Clearly No Authority, 15% support",75,74,3.74324324324324,1.80608416808686
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Clearly No Authority, 85% support",59,58,3.62068965517241,1.71502735088309
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Divided, 85% support",54,54,3.77777777777778,1.39631140315876
+"Braman751","Braman751.B102","pass_legislation",1,6,"Gun Control, Divided. 15% support",67,66,3.48484848484848,1.66634029438467
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Clear Authority, 15% support",72,69,3.57971014492754,1.63064221471038
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Clear Authority, 85% support",66,65,4.27692307692308,1.4198117426671
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Clearly No Authority, 15% support",68,68,3.72058823529412,1.52438476197648
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Clearly No Authority, 85% support",64,64,3.671875,1.55384507715844
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Divided, 15% support",68,68,3.66176470588235,1.53185376058237
+"Braman751","Braman751.B102","pass_legislation",1,6,"Immigration, Divided, 85% support",67,67,4.1044776119403,1.49883114416988
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Clear Authority, 15% support",79,79,3.45569620253165,2.15309835397932
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Clear Authority, 85% support",62,62,3.30645161290323,1.92982382341591
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Clearly No Authority, 15% support",75,75,3.69333333333333,2.1179626450355
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Clearly No Authority, 85% support",59,58,3.91379310344828,2.03723654207671
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Divided, 85% support",54,53,3.43396226415094,1.87605799855261
+"Braman751","Braman751.B123","legitimacy",1,7,"Gun Control, Divided. 15% support",67,66,3.86363636363636,1.92062781111052
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Clear Authority, 15% support",72,71,3.38028169014085,1.82338928672559
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Clear Authority, 85% support",66,65,2.72307692307692,1.79850365154352
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Clearly No Authority, 15% support",68,68,3.73529411764706,1.91317230546876
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Clearly No Authority, 85% support",64,64,3.9375,1.85912592536095
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Divided, 15% support",68,68,3.54411764705882,1.78245029680478
+"Braman751","Braman751.B123","legitimacy",1,7,"Immigration, Divided, 85% support",67,67,3.05970149253731,1.74842437306595
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 1",264,260,3.55769230769231,1.32707856253408
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 2",269,268,3.55597014925373,1.37140465971158
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 3",258,258,3.66666666666667,1.29250056760155
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 4",248,246,3.65447154471545,1.3667032899867
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 5",275,275,3.69090909090909,1.25087892125776
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 6",247,243,3.5843621399177,1.25477694855572
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 7",259,257,3.64591439688716,1.34741971310668
+"CorstangeBRIEF69","CorstangeBRIEF69.D021","welcome_refugees",1,5,"Group 8",253,251,3.59760956175299,1.3271903642463
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 1",231,229,3.86026200873362,1.5153141997727
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 2",249,248,3.66129032258065,1.56576272251763
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 3",289,287,4.68292682926829,1.61953366924437
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 4",243,242,3.18181818181818,1.50517778550413
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 5",261,261,4.85057471264368,1.52564288314682
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 6",236,235,3.17446808510638,1.53289682821216
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 7",227,225,4.88444444444444,1.64614749864694
+"WallaceS9","WallaceS9.Q101","president_approval",1,7,"Group 8",271,271,2.91881918819188,1.59885841466622
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 1",231,228,3.42982456140351,1.780804640415
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 2",249,245,3.38367346938776,1.67666566786382
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 3",289,285,4.56842105263158,1.76019744158377
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 4",243,242,2.87603305785124,1.5463529463183
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 5",261,259,4.69111969111969,1.71777029545399
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 6",236,234,2.85042735042735,1.55274221951964
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 7",227,225,4.55111111111111,1.81223793945672
+"WallaceS9","WallaceS9.Q112","credibility",1,7,"Group 8",271,271,2.71217712177122,1.58645868793098
+"Campbell1308","Campbell1308.T65_1A1","Political Engagement",0,10,"Control",263,257,6.84824902723735,2.8987347132401
+"Campbell1308","Campbell1308.T65_1A1","Political Engagement",0,10,"Democratic story",270,261,6.5823754789272,2.86589959510841
+"Campbell1308","Campbell1308.T65_1A1","Political Engagement",0,10,"Non-Partisan story",231,227,6.66960352422907,2.72339931416829
+"Campbell1308","Campbell1308.T65_1A1","Political Engagement",0,10,"Republican story",236,228,6.86842105263158,2.89618664029338
+"Campbell1308","Campbell1308.T65_2A2","Political Responsiveness",0,10,"Control",263,257,4.57976653696498,2.34571982721341
+"Campbell1308","Campbell1308.T65_2A2","Political Responsiveness",0,10,"Democratic story",270,264,4.34090909090909,2.38445391299287
+"Campbell1308","Campbell1308.T65_2A2","Political Responsiveness",0,10,"Non-Partisan story",231,226,4.3716814159292,2.47006860998902
+"Campbell1308","Campbell1308.T65_2A2","Political Responsiveness",0,10,"Republican story",236,227,4.40528634361233,2.5037261226601
+"Campbell1308","Campbell1308.T65_33","Gender Roles",0,10,"Control",263,258,6.56589147286822,2.22418598318282
+"Campbell1308","Campbell1308.T65_33","Gender Roles",0,10,"Democratic story",270,270,6.60740740740741,2.14561469011981
+"Campbell1308","Campbell1308.T65_33","Gender Roles",0,10,"Non-Partisan story",231,230,6.52173913043478,2.14271519415568
+"Campbell1308","Campbell1308.T65_33","Gender Roles",0,10,"Republican story",236,233,6.79399141630901,1.92992717834614
+"senS81","senS81.T089_1A1","ideal_gender_male",0,100,"Gender-Control",655,637,53.0675039246468,10.9271528203742
+"senS81","senS81.T089_1A1","ideal_gender_male",0,100,"Gender-PopulationStatistics",671,652,51.5598159509202,10.1550701038447
+"senS81","senS81.T089_1A1","ideal_gender_male",0,100,"Gender-PopulationStatistics_StatusQuo",687,666,53.0480480480481,12.7634618575906
+"FaheyS78","FaheyS78.F21","cancel culture",1,5,"Conservative * Cancel",500,499,2.42084168336673,1.31993005663315
+"FaheyS78","FaheyS78.F21","cancel culture",1,5,"Conservative * No Cancel",509,505,2.5029702970297,1.25059156204908
+"FaheyS78","FaheyS78.F21","cancel culture",1,5,"Liberal * Cancel",511,511,2.4559686888454,1.22775045006921
+"FaheyS78","FaheyS78.F21","cancel culture",1,5,"Liberal * No Cancel",489,487,2.26078028747433,1.14024842384806
+"wayne841","wayne841.CandidateSupportDT1","CandidateSupportDT",1,7,"Anger",231,230,5.28695652173913,2.17273786348673
+"wayne841","wayne841.CandidateSupportDT1","CandidateSupportDT",1,7,"Fear",232,229,5.06986899563319,2.24671504457831
+"wayne841","wayne841.CandidateSupportDT1","CandidateSupportDT",1,7,"RELAXED/CONTROL",253,250,5.148,2.19667876357956
+"wayne841","wayne841.CandidateSupportHC2","CandidateSupportHC",1,7,"Anger",231,228,4.2280701754386,2.40606827444884
+"wayne841","wayne841.CandidateSupportHC2","CandidateSupportHC",1,7,"Fear",232,230,4.61739130434783,2.35712284352924
+"wayne841","wayne841.CandidateSupportHC2","CandidateSupportHC",1,7,"RELAXED/CONTROL",253,250,4.42,2.38207833388305
+"wayne841","wayne841.CandidateSupportBC3","CandidateSupportBC",1,7,"Anger",231,224,4.01339285714286,1.98080454441559
+"wayne841","wayne841.CandidateSupportBC3","CandidateSupportBC",1,7,"Fear",232,224,4.10714285714286,2.07637638334911
+"wayne841","wayne841.CandidateSupportBC3","CandidateSupportBC",1,7,"RELAXED/CONTROL",253,246,4.34552845528455,2.18681585807909
+"willer845","willer845.C011","race_threat",1,7,"Control",694,691,4.11722141823444,1.62476534097135
+"willer845","willer845.C011","race_threat",1,7,"Threat to Economic Security",668,666,3.93993993993994,1.64229694163621
+"willer845","willer845.C011","race_threat",1,7,"Threat to Racial Status",696,693,4.79076479076479,1.50560652357953
+"willer845","willer845.C04_12","SupportTrump",1,7,"Control",694,693,3.31890331890332,2.29869351135299
+"willer845","willer845.C04_12","SupportTrump",1,7,"Threat to Economic Security",668,668,3.26347305389222,2.28535154799507
+"willer845","willer845.C04_12","SupportTrump",1,7,"Threat to Racial Status",696,695,3.11798561151079,2.27197091622518
+"willer845","willer845.C04_23","SupportClinton",1,7,"Control",694,693,3.01298701298701,2.25821656986673
+"willer845","willer845.C04_23","SupportClinton",1,7,"Threat to Economic Security",668,668,3.0374251497006,2.1971988338629
+"willer845","willer845.C04_23","SupportClinton",1,7,"Threat to Racial Status",696,696,3.11350574712644,2.26580239601971
+"Craig735","Craig735.Q91","Immigration",1,5,"Asian Growth",896,878,3.32346241457859,1.10566937178488
+"Craig735","Craig735.Q91","Immigration",1,5,"Control",883,869,3.36018411967779,1.07777205047682
+"Craig735","Craig735.Q91","Immigration",1,5,"Hispanic Growth",846,828,3.29589371980676,1.08886084636268
+"Craig735","Craig735.Q102","Federal Funding",1,5,"Asian Growth",896,877,2.55644241733181,1.17744019438331
+"Craig735","Craig735.Q102","Federal Funding",1,5,"Control",883,872,2.64334862385321,1.17478357291454
+"Craig735","Craig735.Q102","Federal Funding",1,5,"Hispanic Growth",846,827,2.62515114873035,1.13911144596451
+"Craig735","Craig735.Q113","Terrorist Interrogation",1,7,"Asian Growth",896,884,3.06674208144796,1.85580483106436
+"Craig735","Craig735.Q113","Terrorist Interrogation",1,7,"Control",883,870,3.26436781609195,1.95319083374491
+"Craig735","Craig735.Q113","Terrorist Interrogation",1,7,"Hispanic Growth",846,828,3.30917874396135,1.97959672512622
+"Enos700","Enos700.coalescedoutcome1","modern_racism1",1,5,"Black",268,263,2.6615969581749,1.06806904542367
+"Enos700","Enos700.coalescedoutcome1","modern_racism1",1,5,"Mauritanian",239,228,2.94298245614035,0.532051022402697
+"Enos700","Enos700.coalescedoutcome1","modern_racism1",1,5,"Surinamese",226,224,2.94196428571429,0.484029868414105
+"Howard823","Howard823.coalescedoutcome1","predictedexpense_nextweek",0,9999,"Control",452,447,377.006711409396,563.186933776326
+"Howard823","Howard823.coalescedoutcome1","predictedexpense_nextweek",0,9999,"Experimental Different",413,408,514.835784313726,889.712547784056
+"Howard823","Howard823.coalescedoutcome1","predictedexpense_nextweek",0,9999,"Experimental Similar",423,415,336.843373493976,602.872032830574
+"Howard823","Howard823.B092","financial_slack",1,7,"Control",452,443,3.51241534988713,1.76868289286419
+"Howard823","Howard823.B092","financial_slack",1,7,"Experimental Different",413,408,3.40686274509804,1.66954273213708
+"Howard823","Howard823.B092","financial_slack",1,7,"Experimental Similar",423,417,3.39568345323741,1.65083911516921
+"Howard823","Howard823.B103","Willingness_to_spend_on_optional_expense",1,11,"Control",452,444,4.45945945945946,2.71617106607883
+"Howard823","Howard823.B103","Willingness_to_spend_on_optional_expense",1,11,"Experimental Different",413,410,4.33658536585366,2.43926279471738
+"Howard823","Howard823.B103","Willingness_to_spend_on_optional_expense",1,11,"Experimental Similar",423,417,4.21103117505995,2.44036038115094
+"Krupnikov719","Krupnikov719.Q1_11","abortion",1,2,"Group 1 Control",255,214,1.53738317757009,0.499769592825394
+"Krupnikov719","Krupnikov719.Q1_11","abortion",1,2,"Group 2 Treatment 1",255,214,1.41121495327103,0.493207781791286
+"Krupnikov719","Krupnikov719.Q1_11","abortion",1,2,"Group 3 Treatment 2",257,216,1.4537037037037,0.499008491501768
+"Krupnikov719","Krupnikov719.Q22","systemic_racism",1,5,"Group 1 Control",255,255,3.47450980392157,1.35388666776635
+"Krupnikov719","Krupnikov719.Q22","systemic_racism",1,5,"Group 2 Treatment 1",255,255,3.43921568627451,1.38440106600797
+"Krupnikov719","Krupnikov719.Q22","systemic_racism",1,5,"Group 3 Treatment 2",257,257,3.4124513618677,1.3495950718555
+"Krupnikov719","Krupnikov719.Q63","income",1,9,"Group 1 Control",255,237,5.66666666666667,2.18882627268073
+"Krupnikov719","Krupnikov719.Q63","income",1,9,"Group 2 Treatment 1",255,242,5.47933884297521,2.34776904274463
+"Krupnikov719","Krupnikov719.Q63","income",1,9,"Group 3 Treatment 2",257,243,5.5679012345679,2.36331259113732
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C1",316,299,3.98996655518395,1.11873895280145
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C10",140,139,3.64748201438849,1.12844197678216
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C11",159,152,3.7171052631579,1.18163520753265
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C12",157,152,3.84868421052632,1.0719782320925
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C2",161,153,4.17647058823529,1.50051590715197
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C3",164,158,4.34810126582278,1.25137995263559
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C4",158,150,4.39333333333333,1.35555861174947
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C5",160,156,4.38461538461538,1.52172032724231
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C6",160,154,4.40909090909091,1.40779174579363
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C7",168,161,4.42236024844721,1.25817204483725
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C8",172,166,4.21084337349398,1.18480399076454
+"KuruB67","KuruB67.Qkuru11","poll_accuracy",1,7,"C9",163,156,4.41666666666667,1.44560884966735
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C1",316,306,3.58823529411765,1.9570114779385
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C10",140,140,3.56428571428571,1.73500031839491
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C11",159,156,3.73076923076923,1.96533229184526
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C12",157,153,3.29411764705882,1.83490410240303
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C2",161,158,3.45569620253165,1.90070364680534
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C3",164,160,3.7125,1.88802082655606
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C4",158,151,3.63576158940397,1.84204033147525
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C5",160,157,3.40764331210191,1.81502071052936
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C6",160,155,3.52258064516129,1.95180730057657
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C7",168,166,3.78313253012048,1.86221238752961
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C8",172,166,3.36144578313253,1.82626171082807
+"KuruB67","KuruB67.Qkuru22","vote_choice",1,7,"C9",163,161,3.72670807453416,1.80273257043215
+"Levendusky741","Levendusky741.Q51","Thermometer_dems",0,100,"American identity prime",728,710,47.9154929577465,29.6001784382955
+"Levendusky741","Levendusky741.Q51","Thermometer_dems",0,100,"Control",715,705,47.6297872340425,29.4482494479936
+"Levendusky741","Levendusky741.Q51","Thermometer_dems",0,100,"Self affirmation",698,683,48.294289897511,30.4300517010045
+"Levendusky741","Levendusky741.Q82","social_distance",1,7,"American identity prime",728,698,3.96991404011461,1.32537761319724
+"Levendusky741","Levendusky741.Q82","social_distance",1,7,"Control",715,695,3.94532374100719,1.37386175164025
+"Levendusky741","Levendusky741.Q82","social_distance",1,7,"Self affirmation",698,679,3.91899852724595,1.35702309484358
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"No narrative",342,340,1.52352941176471,0.500182163588941
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Successful Treatment Engagement & Recovery",355,353,1.48725212464589,0.500546958112125
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful Treatment Engagement (Individual Choice)",354,352,1.43465909090909,0.496417820671914
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",380,378,1.40740740740741,0.49200304946991
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",363,360,1.41111111111111,0.492720138874233
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful Treatment Engagement (Policy Failure)",358,356,1.44101123595506,0.497206948029864
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful treatment Engagement (Policy Failure) + Family Violence",352,351,1.3960113960114,0.489765004741825
+"McGinty730","McGinty730.A11","willingness_to_pay_mentalhealthservices",1,2,"Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",344,342,1.39181286549708,0.488870491889067
+"McGinty730","McGinty730.B12","social_stigma",1,5,"No narrative",342,340,3.37647058823529,1.12075059749583
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Successful Treatment Engagement & Recovery",355,350,3.34571428571429,1.06677965358748
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful Treatment Engagement (Individual Choice)",354,352,3.55113636363636,1.10047845778681
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",380,377,3.77188328912467,1.08958068606631
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",363,358,3.68994413407821,1.18177547536796
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful Treatment Engagement (Policy Failure)",358,354,3.51977401129944,1.054279800524
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful treatment Engagement (Policy Failure) + Family Violence",352,349,3.70200573065903,1.06270176716898
+"McGinty730","McGinty730.B12","social_stigma",1,5,"Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",344,340,3.59411764705882,1.10774723602485
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"No narrative",342,341,2.02052785923754,0.912102137252406
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Successful Treatment Engagement & Recovery",355,350,1.88285714285714,0.876626025567583
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful Treatment Engagement (Individual Choice)",354,353,1.8271954674221,0.833358013197937
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",380,378,1.86507936507936,0.89222852697479
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",363,359,1.81058495821727,0.907941033018066
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful Treatment Engagement (Policy Failure)",358,357,1.82352941176471,0.905480121170402
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful treatment Engagement (Policy Failure) + Family Violence",352,350,1.71714285714286,0.827529798210259
+"McGinty730","McGinty730.C1_13","treatment_support",1,5,"Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",344,343,1.84548104956268,0.915765898139578
+"Merolla843","Merolla843.Q11","hillary_clinton_leadership",1,7,"anger_condtion",198,197,3.42131979695431,2.11654133643564
+"Merolla843","Merolla843.Q11","hillary_clinton_leadership",1,7,"fear/anxiety_condtion",214,211,3.4739336492891,2.14321369184455
+"Merolla843","Merolla843.Q11","hillary_clinton_leadership",1,7,"relaxation_condition",199,195,3.53846153846154,2.18294884552361
+"Merolla843","Merolla843.Q22","trump_leadership",1,7,"anger_condtion",198,197,3.12182741116751,2.12741596410924
+"Merolla843","Merolla843.Q22","trump_leadership",1,7,"fear/anxiety_condtion",214,211,3.25592417061611,2.06118331107196
+"Merolla843","Merolla843.Q22","trump_leadership",1,7,"relaxation_condition",199,195,3.38974358974359,2.26854270764055
+"Merolla843","Merolla843.Q113","foreign_policy",1,7,"anger_condtion",198,159,4.16352201257862,1.85169854914817
+"Merolla843","Merolla843.Q113","foreign_policy",1,7,"fear/anxiety_condtion",214,173,4.0635838150289,1.86818618979387
+"Merolla843","Merolla843.Q113","foreign_policy",1,7,"relaxation_condition",199,165,3.84848484848485,1.8986711033274
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Control Group 1",346,345,3.0695652173913,1.08949854421951
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Control Group 2",352,346,3.05780346820809,0.993958460969505
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Treatment Group 1",359,352,3.00852272727273,0.95924714042059
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Treatment Group 2",364,360,2.97222222222222,0.843989435804693
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Treatment Group 3",370,364,2.81593406593407,0.960181890507397
+"KlarBRIEF70","KlarBRIEF70.coalescedoutcome1","child_marries_dem",1,5,"Treatment Group 4",345,333,2.79279279279279,0.926033617722769
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 1 (conflict in evidence)",130,129,3.9922480620155,1.56373013592004
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 2 (conflict between sources)",127,127,3.75590551181102,1.55694315599547
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 3 (conflict within source)",137,137,3.94160583941606,1.52318562924619
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 4 (no conflict control)",130,130,3.76153846153846,1.56415192938511
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 5 (conflict in evidence)",125,125,3.992,1.63872491737897
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 6 (conflict between sources)",127,127,3.88976377952756,1.60963540413139
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 7 (conflict within source)",123,123,3.97560975609756,1.58612536784675
+"Iles1294","Iles1294.Q1A1","Confusing",1,7,"Experimental condition 8 (no conflict control)",128,128,4,1.56235235522905
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 1 (conflict in evidence)",130,129,1.76744186046512,1.03464688954566
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 2 (conflict between sources)",127,127,1.94488188976378,1.12903306441505
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 3 (conflict within source)",137,137,1.97810218978102,1.18487498276172
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 4 (no conflict control)",130,130,1.86923076923077,1.19032574226105
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 5 (conflict in evidence)",125,125,1.8,1.07012209131602
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 6 (conflict between sources)",127,127,1.8740157480315,1.13383830475837
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 7 (conflict within source)",123,123,1.94308943089431,1.09619919369813
+"Iles1294","Iles1294.Q2A2","Frustrated",1,5,"Experimental condition 8 (no conflict control)",128,128,1.7734375,1.12393322124883
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 1 (conflict in evidence)",130,130,4.50769230769231,1.27130619422516
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 2 (conflict between sources)",127,127,4.35433070866142,1.48819459735783
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 3 (conflict within source)",137,137,4.63503649635036,1.31661281329357
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 4 (no conflict control)",130,130,4.9,1.45660750593857
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 5 (conflict in evidence)",125,125,4.584,1.29629745690339
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 6 (conflict between sources)",127,127,4.52755905511811,1.50040614424072
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 7 (conflict within source)",123,123,4.54471544715447,1.3443996315031
+"Iles1294","Iles1294.Q3A3","collaborative",1,7,"Experimental condition 8 (no conflict control)",128,128,4.7578125,1.41836155752827
+"Mezzapelle1439","Mezzapelle1439.Q31","BELIEVABLE",1,7,"Black Cisgender Woman",532,529,5.05103969754253,1.22135506601674
+"Mezzapelle1439","Mezzapelle1439.Q31","BELIEVABLE",1,7,"Black Transgender Woman",525,523,4.94263862332696,1.36336801146057
+"Mezzapelle1439","Mezzapelle1439.Q31","BELIEVABLE",1,7,"White Cisgender Woman",523,518,4.86679536679537,1.1832232150414
+"Mezzapelle1439","Mezzapelle1439.Q31","BELIEVABLE",1,7,"White Transgender Woman",533,531,5.01694915254237,1.25806639416473
+"Mezzapelle1439","Mezzapelle1439.Q62","PERCEIVED HARM",1,7,"Black Cisgender Woman",532,531,4.64030131826742,1.37792402766521
+"Mezzapelle1439","Mezzapelle1439.Q62","PERCEIVED HARM",1,7,"Black Transgender Woman",525,524,4.77862595419847,1.45310415453057
+"Mezzapelle1439","Mezzapelle1439.Q62","PERCEIVED HARM",1,7,"White Cisgender Woman",523,519,4.51445086705202,1.30904310780911
+"Mezzapelle1439","Mezzapelle1439.Q62","PERCEIVED HARM",1,7,"White Transgender Woman",533,531,4.67419962335217,1.39313446969105
+"Mezzapelle1439","Mezzapelle1439.Q73","COMPENSATION",1,7,"Black Cisgender Woman",532,528,4.10037878787879,1.38826740355081
+"Mezzapelle1439","Mezzapelle1439.Q73","COMPENSATION",1,7,"Black Transgender Woman",525,525,4.12380952380952,1.55125680452117
+"Mezzapelle1439","Mezzapelle1439.Q73","COMPENSATION",1,7,"White Cisgender Woman",523,523,4.0076481835564,1.4182509108416
+"Mezzapelle1439","Mezzapelle1439.Q73","COMPENSATION",1,7,"White Transgender Woman",533,531,4.16572504708098,1.37594989203471
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v1 Narrative Conforming Transgender Woman",274,274,5.68613138686131,1.6341225191468
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v2 Narrative Nonconforming Transgender Woman",268,267,4.91760299625468,1.79408726654836
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v3 Narrative Conforming AMAB Non-Binary Person",276,276,5.06159420289855,1.67760966155661
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v4 Narrative Nonconforming AMAB Non-Binary Person",235,234,4.53846153846154,1.73842443361508
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v5 Narrative Conforming Transgender Man",272,272,5.41176470588235,1.86032805992864
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v6 Narrative Nonconforming Transgender Man",255,254,4.72047244094488,1.8746842087767
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v7 Narrative Conforming AFAB Non-Binary Person",269,266,4.8984962406015,1.82049070566695
+"SchaadS62","SchaadS62.Q1_SCHAAD1","still_identify",1,7,"v8 Narrative Nonconforming AFAB Non-Binary Person",267,267,4.58052434456929,1.72445777311224
+"Connors1226","Connors1226.Q41","rate_democrats",0,100,"Control",806,777,46.9279279279279,31.675382404464
+"Connors1226","Connors1226.Q41","rate_democrats",0,100,"Friends Reminder",874,851,43.1786133960047,30.9919316020801
+"Connors1226","Connors1226.Q41","rate_democrats",0,100,"Private Reminder",827,796,45.1545226130653,31.9115127530318
+"Connors1226","Connors1226.Q41","rate_democrats",0,100,"Published Reminder",826,794,45.1360201511335,32.096192705031
+"Connors1226","Connors1226.Q52","rate_republicans",0,100,"Control",806,773,46.1099611901682,31.8215892208818
+"Connors1226","Connors1226.Q52","rate_republicans",0,100,"Friends Reminder",874,847,50.987012987013,31.5391020982172
+"Connors1226","Connors1226.Q52","rate_republicans",0,100,"Private Reminder",827,792,48.6073232323232,31.876239769653
+"Connors1226","Connors1226.Q52","rate_republicans",0,100,"Published Reminder",826,796,49.7399497487437,32.2425393758971
+"Connors1226","Connors1226.Q63","trust_democrats",1,5,"Control",806,805,2.6360248447205,1.22289278579568
+"Connors1226","Connors1226.Q63","trust_democrats",1,5,"Friends Reminder",874,869,2.49136939010357,1.16555067503158
+"Connors1226","Connors1226.Q63","trust_democrats",1,5,"Private Reminder",827,823,2.54921020656136,1.21814994074781
+"Connors1226","Connors1226.Q63","trust_democrats",1,5,"Published Reminder",826,824,2.51577669902913,1.22141428636891
+"Connors1226","Connors1226.Q74","trust_republicans",1,5,"Control",806,804,2.57338308457711,1.15038051964882
+"Connors1226","Connors1226.Q74","trust_republicans",1,5,"Friends Reminder",874,869,2.74108170310702,1.18006843080452
+"Connors1226","Connors1226.Q74","trust_republicans",1,5,"Private Reminder",827,825,2.62666666666667,1.17983323927236
+"Connors1226","Connors1226.Q74","trust_republicans",1,5,"Published Reminder",826,822,2.67274939172749,1.21649723108837
+"KlarS44","KlarS44.coalescedoutcome1","importance",1,5,"CONTROL",679,678,3.64306784660767,1.30084759261067
+"KlarS44","KlarS44.coalescedoutcome1","importance",1,5,"GENDER",733,731,3.60054719562243,1.34437426556752
+"KlarS44","KlarS44.coalescedoutcome1","importance",1,5,"PARTISAN",706,704,3.66619318181818,1.32196424703973
+"KlarS44","KlarS44.Q2_KLAR2","efficacy",1,7,"CONTROL",679,677,3.4135893648449,1.89759852043018
+"KlarS44","KlarS44.Q2_KLAR2","efficacy",1,7,"GENDER",733,730,3.3958904109589,1.77027261129162
+"KlarS44","KlarS44.Q2_KLAR2","efficacy",1,7,"PARTISAN",706,702,3.53846153846154,1.86355600838258
+"KlarS44","KlarS44.Q3_KLAR3","support_candidate",1,5,"CONTROL",679,676,3.20266272189349,1.39906593554446
+"KlarS44","KlarS44.Q3_KLAR3","support_candidate",1,5,"GENDER",733,732,3.31693989071038,1.36822947959421
+"KlarS44","KlarS44.Q3_KLAR3","support_candidate",1,5,"PARTISAN",706,705,3.33758865248227,1.39176448499351
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"DrinWat_Pr_N",239,234,4.17094017094017,1.86584663400859
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"DrinWat_Pr_P",218,214,3.63551401869159,1.8122821623447
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"HospDes_Pr_N",226,218,2.62844036697248,1.74517593124296
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"HospDes_Pr_P",217,211,2.28436018957346,1.58705835795362
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"HSAch_Pr_N",203,201,3.33333333333333,1.68325082306035
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"HSAch_Pr_P",273,264,2.74621212121212,1.74189727875625
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"MarDeb_Pr_N",231,231,4.68831168831169,1.57915558277262
+"Stoker1063","Stoker1063.ANGER1","Anger",1,7,"MarDeb_Pr_P",219,213,3.63849765258216,1.84693054804097
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"DrinWat_Pr_N",239,236,4.17372881355932,1.77916681270238
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"DrinWat_Pr_P",218,215,3.86976744186047,1.74596127871883
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"HospDes_Pr_N",226,216,2.88888888888889,1.69174924379353
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"HospDes_Pr_P",217,212,2.62735849056604,1.79462245795879
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"HSAch_Pr_N",203,201,3.87064676616915,1.74733628120119
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"HSAch_Pr_P",273,265,3.33207547169811,1.82654807576213
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"MarDeb_Pr_N",231,230,4.67391304347826,1.57566576801455
+"Stoker1063","Stoker1063.WORRY2","Worry",1,7,"MarDeb_Pr_P",219,213,3.981220657277,1.75897279553162
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"DrinWat_Pr_N",239,236,5.04661016949153,1.5905134834394
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"DrinWat_Pr_P",218,215,4.7906976744186,1.64000996598983
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"HospDes_Pr_N",226,219,3.89954337899543,1.69968960244783
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"HospDes_Pr_P",217,211,3.44549763033175,1.70450833959716
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"HSAch_Pr_N",203,199,4.62814070351759,1.55453460517558
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"HSAch_Pr_P",273,264,4.24242424242424,1.73367984695256
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"MarDeb_Pr_N",231,230,5.33478260869565,1.41301149355514
+"Stoker1063","Stoker1063.SERIOUS3","Serious",1,7,"MarDeb_Pr_P",219,213,4.57276995305164,1.71304934134583
+"bucci1408","bucci1408.QA11","Caught",0,100,"A: Drunk Driving, High Risk",1091,1079,56.3836886005561,30.0023368434228
+"bucci1408","bucci1408.QA11","Caught",0,100,"A: Drunk Driving, Low Risk",1112,1104,45.1920289855072,28.8348737724219
+"bucci1408","bucci1408.QA22","Rewarding",0,100,"A: Drunk Driving, High Risk",1091,1074,16.8798882681564,28.4154294616143
+"bucci1408","bucci1408.QA22","Rewarding",0,100,"A: Drunk Driving, Low Risk",1112,1096,19.4379562043796,29.9934814991537
+"bucci1408","bucci1408.QA33","Respect",1,5,"A: Drunk Driving, High Risk",1091,1086,3.86556169429098,1.16174507517468
+"bucci1408","bucci1408.QA33","Respect",1,5,"A: Drunk Driving, Low Risk",1112,1110,3.74594594594595,1.21248270018493
+"bolsenM6","bolsenM6.B11","Using They/Them Pronouns",1,7,"Baseline",387,384,4.04947916666667,1.80661671579486
+"bolsenM6","bolsenM6.B11","Using They/Them Pronouns",1,7,"Descriptive Information",409,407,4.07862407862408,1.98360523486735
+"bolsenM6","bolsenM6.B11","Using They/Them Pronouns",1,7,"Descriptive Information + Injunctive Norm",399,398,4.09045226130653,1.89839101871345
+"bolsenM6","bolsenM6.B11","Using They/Them Pronouns",1,7,"Injunctive Norm",406,405,4.07901234567901,1.90587393543434
+"bolsenM6","bolsenM6.B22","They/Them Pronouns in Forms",1,7,"Baseline",387,385,4.03896103896104,2.08941752275977
+"bolsenM6","bolsenM6.B22","They/Them Pronouns in Forms",1,7,"Descriptive Information",409,405,4.01975308641975,2.173104030414
+"bolsenM6","bolsenM6.B22","They/Them Pronouns in Forms",1,7,"Descriptive Information + Injunctive Norm",399,398,4.16582914572864,2.12046242543636
+"bolsenM6","bolsenM6.B22","They/Them Pronouns in Forms",1,7,"Injunctive Norm",406,405,3.84938271604938,2.19123611396086
+"bolsenM6","bolsenM6.B33","Providing Personal Pronouns",1,7,"Baseline",387,387,4.60206718346253,2.03767516253537
+"bolsenM6","bolsenM6.B33","Providing Personal Pronouns",1,7,"Descriptive Information",409,403,4.57071960297767,2.05201908292889
+"bolsenM6","bolsenM6.B33","Providing Personal Pronouns",1,7,"Descriptive Information + Injunctive Norm",399,398,4.50753768844221,1.98322777572693
+"bolsenM6","bolsenM6.B33","Providing Personal Pronouns",1,7,"Injunctive Norm",406,405,4.15802469135803,2.12591647083628
+"relihan1399","relihan1399.Q1A1","Perinia Accetis superbacteria",0,4,"Condition 1",641,638,2.08620689655172,1.17820248683482
+"relihan1399","relihan1399.Q1A1","Perinia Accetis superbacteria",0,4,"Condition 2",648,647,1.85780525502318,1.195268071971
+"relihan1399","relihan1399.Q1A1","Perinia Accetis superbacteria",0,4,"Condition 3",658,656,1.9375,1.1205488704168
+"relihan1399","relihan1399.Q1B2","Influenza",0,4,"Condition 1",641,641,1.74414976599064,1.09974468743209
+"relihan1399","relihan1399.Q1B2","Influenza",0,4,"Condition 2",648,648,1.73611111111111,1.07513343408245
+"relihan1399","relihan1399.Q1B2","Influenza",0,4,"Condition 3",658,657,1.81126331811263,1.04807943651853
+"relihan1399","relihan1399.Q1C3","COVID-19",0,4,"Condition 1",641,641,2.3603744149766,1.1777584045951
+"relihan1399","relihan1399.Q1C3","COVID-19",0,4,"Condition 2",648,647,2.31993817619784,1.2080565447722
+"relihan1399","relihan1399.Q1C3","COVID-19",0,4,"Condition 3",658,656,2.35975609756098,1.14658308240104
+"immigration",,"Support for Immigration",1,5,"negative",973,973,2.68448098663926,1.19676160379379
+"immigration",,"Support for Immigration",1,5,"positive",1018,1016,3.01279527559055,1.14678117162063
+"death_penalty",,"Favor Death Penalty",1,4,"innocent",1058,1038,2.36608863198459,1.09565914774112
+"death_penalty",,"Favor Death Penalty",1,4,"race",1168,1152,2.55208333333333,1.12350876162391
+"patriot_act",,"Patriot Act Support",1,7,"Con",1176,1176,3.30527210884354,1.73509637059602
+"patriot_act",,"Patriot Act Support",1,7,"Pro",1185,1182,4.48307952622674,1.8151590461579
+"system_threat",,"Way of Life",1,5,"craig_placebo",752,746,2.78552278820376,1.1767796154074
+"system_threat",,"Way of Life",1,5,"craig_treatment",715,709,2.61354019746121,1.13378398366547
+"brandtS1",,"coppock_dv_name",1,7,"1 [1]",1103,1098,5.92349726775956,1.31035208253785
+"brandtS1",,"coppock_dv_name",1,7,"2 [2]",1100,1099,4.95905368516834,1.47139000234801
+"caprarielloS2",,"coppock_dv_name",1,5,"1 [Condition A]",876,863,3.60254924681344,0.989899331435799
+"caprarielloS2",,"coppock_dv_name",1,5,"2 [Condition B]",839,818,3.43398533007335,1.10131511894489
+"flavinS4",,"coppock_dv_name",1,5,"1 [FLAVIN Condition 1]",880,875,2.28228571428571,0.991540550995966
+"flavinS4",,"coppock_dv_name",1,5,"2 [FLAVIN Condition 2]",905,898,1.73719376391982,0.944371183546678
+"gashS5",,"coppock_dv_name",1,4,"1 [Court Prompt]",1034,1030,1.75339805825243,0.810141685046795
+"gashS5",,"coppock_dv_name",1,4,"4 [No Prompt]",992,985,2.30659898477157,0.885409685729907
+"melloS6",,"coppock_dv_name",1,4,"1 [v1]",323,319,3.18495297805643,0.883261135582814
+"melloS6",,"coppock_dv_name",1,4,"5 [v5]",325,321,2.76947040498442,0.979382474395293
+"jacobsenS7",,"coppock_dv_name",1,7,"1 [Condition A: performance index format]",767,759,4.69960474308301,1.3742399585293
+"jacobsenS7",,"coppock_dv_name",1,7,"2 [Condition B: letter grade format]",780,775,5.42451612903226,1.23228228499296
+"piazzaS8",,"coppock_dv_name",1,5,"1 [1]",632,625,3.672,1.23241476534735
+"piazzaS8",,"coppock_dv_name",1,5,"2 [2]",689,677,3.64254062038405,1.25663613035038
+"shaferS9",,"coppock_dv_name",1,5,"1 [1]",867,864,2.99074074074074,0.823978651416795
+"shaferS9",,"coppock_dv_name",1,5,"2 [2]",849,846,2.93853427895981,0.805898214391655
+"thompsonS10",,"coppock_dv_name",1,7,"1 [High Fear]",883,861,3.69337979094077,1.72702603123631
+"thompsonS10",,"coppock_dv_name",1,7,"2 [Plain Low Fear]",902,884,3.59502262443439,1.73858291559935
+"turagaS11",,"coppock_dv_name",1,5,"1 [1]",620,615,2.90894308943089,1.23263231809381
+"turagaS11",,"coppock_dv_name",1,5,"3 [3]",573,564,2.68262411347518,1.16961966181635
+"wallaceS12",,"coppock_dv_name",1,5,"1 [1]",493,485,3.53814432989691,1.06459196573429
+"wallaceS12",,"coppock_dv_name",1,5,"2 [2]",441,436,2.59862385321101,1.02020864928376
+"parmerS15",,"coppock_dv_name",0,1,"1 [experimental group 1]",1288,1277,0.873140172278778,0.332946270987598
+"parmerS15",,"coppock_dv_name",0,1,"2 [experimental group 2]",1338,1329,0.861550037622272,0.345501650871445
+"converseS16",,"coppock_dv_name",1,7,"1 [Self-God-American]",716,714,2.98599439775911,2.24759804594274
+"converseS16",,"coppock_dv_name",1,7,"3 [God-Self-American]",691,687,3.35953420669578,2.35488297696476
+"dennyS17",,"hardworking",1,5,"1 [1]",294,292,3.84931506849315,0.666760808680362
+"dennyS17",,"hardworking",1,5,"2 [2]",303,302,3.99337748344371,0.738110083189901
+"pedullaS18",,"hiring recommendation",0,1,"1 [White Male/ White Straight]",320,317,0.883280757097792,0.321593087556281
+"pedullaS18",,"hiring recommendation",0,1,"2 [Black Male/ Black Straight]",307,303,0.897689768976898,0.303557182489024
+"berganS20",,"support",1,7,"1 [Republican with instruction]",490,483,2.80745341614907,1.59426693810067
+"berganS20",,"support",1,7,"2 [Democrat with instruction]",507,500,3.052,1.71206259133049

@@ -1,0 +1,309 @@
+"study","condition.name","n"
+"AnsonBRIEF60","Control group 1",400
+"AnsonBRIEF60","Treatment group 1",378
+"berganS20","1 [Republican with instruction]",483
+"berganS20","2 [Democrat with instruction]",500
+"Blair1131","Male, Democrat, Eric Engage",97
+"Blair1131","Male, Democrat, Eric, Not engage",101
+"Blair1131","Male, Democrat, Eric, Stay out",106
+"Blair1131","Male, Democrat, Erica, Engage",94
+"Blair1131","Male, Democrat, Erica, Not engage",93
+"Blair1131","Male, Democrat, Erica, Stay out",87
+"Blair1131","Male, Republican, Eric, Engage",99
+"Blair1131","Male, Republican, Eric, Not engage",88
+"Blair1131","Male, Republican, Eric, Stay out",104
+"Blair1131","Male, Republican, Erica, Engage",95
+"Blair1131","Male, Republican, Erica, Not engage",96
+"Blair1131","Male, Republican, Erica, Stay out",87
+"bolsenM6","Baseline",1156
+"bolsenM6","Descriptive Information",1215
+"bolsenM6","Descriptive Information + Injunctive Norm",1194
+"bolsenM6","Injunctive Norm",1215
+"Bougher893","CONTROL (NO PARTY CUE) x ALIGNED",1492
+"Bougher893","CONTROL (NO PARTY CUE) x CROSS-PRESSURED, NON-SALIENT",1336
+"Bougher893","CONTROL (NO PARTY CUE) x CROSS-PRESSURED, SALIENT",1363
+"Braman751","Gun Control, Clear Authority, 15% support",212
+"Braman751","Gun Control, Clear Authority, 85% support",163
+"Braman751","Gun Control, Clearly No Authority, 15% support",196
+"Braman751","Gun Control, Clearly No Authority, 85% support",150
+"Braman751","Gun Control, Divided, 85% support",144
+"Braman751","Gun Control, Divided. 15% support",170
+"Braman751","Immigration, Clear Authority, 15% support",178
+"Braman751","Immigration, Clear Authority, 85% support",175
+"Braman751","Immigration, Clearly No Authority, 15% support",182
+"Braman751","Immigration, Clearly No Authority, 85% support",163
+"Braman751","Immigration, Divided, 15% support",184
+"Braman751","Immigration, Divided, 85% support",179
+"brandtS1","1 [1]",1098
+"brandtS1","2 [2]",1099
+"bucci1408","A: Drunk Driving, High Risk",3239
+"bucci1408","A: Drunk Driving, Low Risk",3310
+"CalarcoS38","HIGH STATUS, HEAVY DRINKIG, WARNING",153
+"CalarcoS38","HIGH STATUS, HEAVY DRINKING, NO WARNING",166
+"CalarcoS38","HIGH STATUS, LIGHT DRINKING, NO WARNING",160
+"CalarcoS38","HIGH STATUS, LIGHT DRINKING, WARNING",171
+"CalarcoS38","HIGH STATUS, NO DRINKING, NO WARNING",157
+"CalarcoS38","HIGH STATUS, NO DRINKING, WARNING",163
+"CalarcoS38","LOW STATUS, HEAVY DRINKING, NO WARNING",171
+"CalarcoS38","LOW STATUS, HEAVY DRINKING, WARNING",157
+"CalarcoS38","LOW STATUS, LIGHT DRINKING, NO WARNING",176
+"CalarcoS38","LOW STATUS, LIGHT DRINKING, WARNING",198
+"CalarcoS38","LOW STATUS, NO DRINKING, NO WARNING",167
+"CalarcoS38","LOW STATUS, NO DRINKING, WARNING",163
+"Campbell1308","Control",772
+"Campbell1308","Democratic story",795
+"Campbell1308","Non-Partisan story",683
+"Campbell1308","Republican story",688
+"caprarielloS2","1 [Condition A]",863
+"caprarielloS2","2 [Condition B]",818
+"Cohen1099","female, upper class, no debt",364
+"Cohen1099","female, upper class, no info",402
+"Cohen1099","female, upper class, student loans",415
+"Cohen1099","female, working class, no debt",394
+"Cohen1099","female, working class, no info",378
+"Cohen1099","female, working class, student loans",441
+"Cohen1099","male, upper class, no debt",386
+"Cohen1099","male, upper class, no info",400
+"Cohen1099","male, upper class, student loans",462
+"Cohen1099","male, working class, no debt",413
+"Cohen1099","male, working class, no info",359
+"Cohen1099","male, working class, student loans",365
+"Connors1226","Control",3159
+"Connors1226","Friends Reminder",3436
+"Connors1226","Private Reminder",3236
+"Connors1226","Published Reminder",3236
+"converseS16","1 [Self-God-American]",714
+"converseS16","3 [God-Self-American]",687
+"CorstangeBRIEF69","Group 1",260
+"CorstangeBRIEF69","Group 2",268
+"CorstangeBRIEF69","Group 3",258
+"CorstangeBRIEF69","Group 4",246
+"CorstangeBRIEF69","Group 5",275
+"CorstangeBRIEF69","Group 6",243
+"CorstangeBRIEF69","Group 7",257
+"CorstangeBRIEF69","Group 8",251
+"Craig735","Asian Growth",2639
+"Craig735","Control",2611
+"Craig735","Hispanic Growth",2483
+"death_penalty","innocent",1038
+"death_penalty","race",1152
+"dennyS17","1 [1]",292
+"dennyS17","2 [2]",302
+"Enos700","Black",263
+"Enos700","Mauritanian",228
+"Enos700","Surinamese",224
+"FaheyS78","Conservative * Cancel",499
+"FaheyS78","Conservative * No Cancel",505
+"FaheyS78","Liberal * Cancel",511
+"FaheyS78","Liberal * No Cancel",487
+"FarrowS6","Condition 1 disappointment",483
+"FarrowS6","Condition 2 disappointment",491
+"flavinS4","1 [FLAVIN Condition 1]",875
+"flavinS4","2 [FLAVIN Condition 2]",898
+"gashS5","1 [Court Prompt]",1030
+"gashS5","4 [No Prompt]",985
+"Haaland874","CONTROL",2264
+"Haaland874","TREATMENT",2342
+"HamiltonS31","ATTEMPTED RAPE LANGUAGE",88
+"HamiltonS31","BOTH HAD BEEN DRINKING",84
+"HamiltonS31","CONSENT",97
+"HamiltonS31","FIRST ALLEGATION AGAINST MAN",94
+"HamiltonS31","INAPPROPRIATE TOUCHING LANGUAGE",103
+"HamiltonS31","MAN ACCUSER",91
+"HamiltonS31","NEITHER HAD BEEN DRINKING",89
+"HamiltonS31","NOT THE FIRST ALLEGATION AGAINST MAN",76
+"HamiltonS31","RAPE LANGUAGE",90
+"HamiltonS31","SOFT DENIAL",100
+"HamiltonS31","WOMAN ACCUSER",100
+"HankinsonS22","Far Treatment",1020
+"HankinsonS22","Near Treatment",980
+"Harbridge-Yong1032","Dem Majority - Control",768
+"Harbridge-Yong1032","Dem Majority -Bipartisan",701
+"Harbridge-Yong1032","Dem Majority -Minority",737
+"Harbridge-Yong1032","GOP Majority - Control",754
+"Harbridge-Yong1032","GOP Majority -Bipartisan Gas Tax",877
+"Harbridge-Yong1032","GOP Majority -Bipartisan Green Energy",739
+"Harbridge-Yong1032","GOP Majority -Minority Gas Tax",789
+"Harbridge-Yong1032","GOP Majority -Minority Green Energy",784
+"Howard823","Control",1334
+"Howard823","Experimental Different",1226
+"Howard823","Experimental Similar",1249
+"Howat1039","Control",1465
+"Howat1039","Political Issues",1425
+"Howat1039","Social Groups",1433
+"Howat1039","Traits",1487
+"Iles1294","Experimental condition 1 (conflict in evidence)",388
+"Iles1294","Experimental condition 2 (conflict between sources)",381
+"Iles1294","Experimental condition 3 (conflict within source)",411
+"Iles1294","Experimental condition 4 (no conflict control)",390
+"Iles1294","Experimental condition 5 (conflict in evidence)",375
+"Iles1294","Experimental condition 6 (conflict between sources)",381
+"Iles1294","Experimental condition 7 (conflict within source)",369
+"Iles1294","Experimental condition 8 (no conflict control)",384
+"immigration","negative",973
+"immigration","positive",1016
+"jacobsenS7","1 [Condition A: performance index format]",759
+"jacobsenS7","2 [Condition B: letter grade format]",775
+"Kennedy1017","Green; High",1897
+"Kennedy1017","Green; Low",1938
+"Kennedy1017","Not Green; High",1873
+"Kennedy1017","Not Green; Low",1981
+"KlarBRIEF70","Control Group 1",345
+"KlarBRIEF70","Control Group 2",346
+"KlarBRIEF70","Treatment Group 1",352
+"KlarBRIEF70","Treatment Group 2",360
+"KlarBRIEF70","Treatment Group 3",364
+"KlarBRIEF70","Treatment Group 4",333
+"KlarS44","CONTROL",2031
+"KlarS44","GENDER",2193
+"KlarS44","PARTISAN",2111
+"Krupnikov719","Group 1 Control",706
+"Krupnikov719","Group 2 Treatment 1",711
+"Krupnikov719","Group 3 Treatment 2",716
+"KrupnikovS34","Feel",998
+"KrupnikovS34","Think",988
+"KuruB67","C1",605
+"KuruB67","C10",279
+"KuruB67","C11",308
+"KuruB67","C12",305
+"KuruB67","C2",311
+"KuruB67","C3",318
+"KuruB67","C4",301
+"KuruB67","C5",313
+"KuruB67","C6",309
+"KuruB67","C7",327
+"KuruB67","C8",332
+"KuruB67","C9",317
+"Levendusky741","American identity prime",1408
+"Levendusky741","Control",1400
+"Levendusky741","Self affirmation",1362
+"McCabeS19","CONTROL",797
+"McCabeS19","INSURANCE",857
+"McCabeS19","INSURANCE+GOVERNMENT CUE",780
+"McCabeS19","PROVIDER",804
+"McCabeS19","PROVIDER+GOVERNMENT CUE",765
+"McGinty730","No narrative",1021
+"McGinty730","Successful Treatment Engagement & Recovery",1053
+"McGinty730","Unsuccessful Treatment Engagement (Individual Choice)",1057
+"McGinty730","Unsuccessful Treatment Engagement (Individual Choice) + Family Violence",1133
+"McGinty730","Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence",1077
+"McGinty730","Unsuccessful Treatment Engagement (Policy Failure)",1067
+"McGinty730","Unsuccessful treatment Engagement (Policy Failure) + Family Violence",1050
+"McGinty730","Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence",1025
+"Melin1066","“Cosmetics/Automotive”",801
+"Melin1066","“Cosmetics/Consulting”",863
+"Melin1066","“Cosmetics/Wedding”",746
+"Melin1066","“Military/Automotive”",799
+"Melin1066","“Military/Consulting”",791
+"Melin1066","“Military/Wedding”",879
+"melloS6","1 [v1]",319
+"melloS6","5 [v5]",321
+"Merolla843","anger_condtion",553
+"Merolla843","fear/anxiety_condtion",595
+"Merolla843","relaxation_condition",555
+"Mezzapelle1439","Black Cisgender Woman",1588
+"Mezzapelle1439","Black Transgender Woman",1572
+"Mezzapelle1439","White Cisgender Woman",1560
+"Mezzapelle1439","White Transgender Woman",1593
+"MunschS68","40 hours/female/1%",70
+"MunschS68","40 hours/female/20%",55
+"MunschS68","40 hours/female/60%",70
+"MunschS68","40 hours/male/1%",72
+"MunschS68","40 hours/male/20%",75
+"MunschS68","40 hours/male/60%",60
+"MunschS68","50 hours/female/1%",52
+"MunschS68","50 hours/female/20%",80
+"MunschS68","50 hours/female/60%",59
+"MunschS68","50 hours/male/1%",64
+"MunschS68","50 hours/male/20%",52
+"MunschS68","50 hours/male/60%",53
+"parmerS15","1 [experimental group 1]",1277
+"parmerS15","2 [experimental group 2]",1329
+"patriot_act","Con",1176
+"patriot_act","Pro",1182
+"pedullaS18","1 [White Male/ White Straight]",317
+"pedullaS18","2 [Black Male/ Black Straight]",303
+"piazzaS8","1 [1]",625
+"piazzaS8","2 [2]",677
+"relihan1399","Condition 1",1920
+"relihan1399","Condition 2",1942
+"relihan1399","Condition 3",1969
+"Rifkin1073","High",590
+"Rifkin1073","Low",596
+"RyanS14","Q2 is democrat",1006
+"RyanS14","Q2 is republican",1030
+"SchaadS62","v1 Narrative Conforming Transgender Woman",274
+"SchaadS62","v2 Narrative Nonconforming Transgender Woman",267
+"SchaadS62","v3 Narrative Conforming AMAB Non-Binary Person",276
+"SchaadS62","v4 Narrative Nonconforming AMAB Non-Binary Person",234
+"SchaadS62","v5 Narrative Conforming Transgender Man",272
+"SchaadS62","v6 Narrative Nonconforming Transgender Man",254
+"SchaadS62","v7 Narrative Conforming AFAB Non-Binary Person",266
+"SchaadS62","v8 Narrative Nonconforming AFAB Non-Binary Person",267
+"Schnabel903","Version 1",701
+"Schnabel903","Version 2",687
+"Schnabel903","Version 3",688
+"Schnabel903","Version 4",626
+"Schnabel903","Version 5",682
+"Schnabel903","Version 6",711
+"Schnabel903","Version 7",704
+"Schnabel903","Version 8",700
+"senS81","Gender-Control",637
+"senS81","Gender-PopulationStatistics",652
+"senS81","Gender-PopulationStatistics_StatusQuo",666
+"shaferS9","1 [1]",864
+"shaferS9","2 [2]",846
+"ShannonS2","Control",407
+"ShannonS2","Illegal",422
+"ShannonS2","Illegal without savings",417
+"ShannonS2","Immigrant",395
+"ShannonS2","Immigrant without savings",424
+"ShannonS2","Treatment",415
+"ShannonS28","neg immigration rep cue",1107
+"ShannonS28","pos immigration rep cue",1135
+"Silverman1035","Control group: No Corrective Information",766
+"Silverman1035","Treatment 1: Corrective Information, No Elite Endorsement",774
+"Silverman1035","Treatment 2: Corrective Information, Democratic Endorsement",823
+"Silverman1035","Treatment 3: Corrective Information, Republican Endorsement",821
+"Silverman1035","Treatment 4: Corrective Information, Military Endorsement",765
+"Stoker1063","DrinWat_Pr_N",706
+"Stoker1063","DrinWat_Pr_P",644
+"Stoker1063","HospDes_Pr_N",653
+"Stoker1063","HospDes_Pr_P",634
+"Stoker1063","HSAch_Pr_N",601
+"Stoker1063","HSAch_Pr_P",793
+"Stoker1063","MarDeb_Pr_N",691
+"Stoker1063","MarDeb_Pr_P",639
+"system_threat","craig_placebo",746
+"system_threat","craig_treatment",709
+"Terman1029","International Rights Group Codemns Abuse in US",1154
+"Terman1029","International Rights Group Condemns Abuses in the US- “reintegrative”",1150
+"Terman1029","International Rights Group Condemns Abuses in the US- “stigmatic”",1052
+"Terman1029","New York Rights Group Condemns Abuses in the United States",1150
+"Terman1029","Rights Group Condemns Abuses Worldwide",1120
+"thompsonS10","1 [High Fear]",861
+"thompsonS10","2 [Plain Low Fear]",884
+"ThorsonS42","DVs first",3125
+"ThorsonS42","DVs second, misinformation",1585
+"ThorsonS42","DVs second, misinformation, social media",1596
+"turagaS11","1 [1]",615
+"turagaS11","3 [3]",564
+"wallaceS12","1 [1]",485
+"wallaceS12","2 [2]",436
+"WallaceS9","Group 1",457
+"WallaceS9","Group 2",493
+"WallaceS9","Group 3",572
+"WallaceS9","Group 4",484
+"WallaceS9","Group 5",520
+"WallaceS9","Group 6",469
+"WallaceS9","Group 7",450
+"WallaceS9","Group 8",542
+"wayne841","Anger",682
+"wayne841","Fear",683
+"wayne841","RELAXED/CONTROL",746
+"willer845","Control",2077
+"willer845","Threat to Economic Security",2002
+"willer845","Threat to Racial Status",2084
+"Williamson859","COND1",1510
+"Williamson859","COND2",1513
+"Williamson859","CONTROL",1541

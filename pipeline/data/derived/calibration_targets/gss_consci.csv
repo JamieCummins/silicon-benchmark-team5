@@ -1,0 +1,10 @@
+partyid,partyid_label,n_unweighted,p_great_deal,p_only_some,p_hardly_any
+overall,overall,2104,0.3656,0.5132,0.1213
+0,strong democrat,343,0.563,0.3765,0.0605
+1,not very strong democrat,240,0.431,0.4483,0.1207
+2,"independent, near democrat",229,0.5098,0.4716,0.0186
+3,independent,537,0.3326,0.5097,0.1576
+4,"independent, near republican",177,0.2443,0.6295,0.1262
+5,not very strong republican,240,0.3014,0.6072,0.0913
+6,strong republican,287,0.2103,0.5657,0.224
+7,other party,51,0.2779,0.6757,0.0464

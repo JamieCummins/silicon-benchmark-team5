@@ -1,0 +1,1060 @@
+study_id,condition,stimulus_text,source,study_context,flags
+Campbell1308,Control,,llm_prompts,This survey will ask questions on a variety of subjects including women in politics and Twitter.,
+Campbell1308,Democratic story,"Please read the following news story closely. When you are done, we will ask you about it.
+
+A Big Year For Democratic Women in the 2020 Elections
+
+The 2020 elections saw a surge of Democratic women who ran for offices at all levels, whether in Washington, state capitols, or city halls. Across the country, many of these women candidates ran to bring new voices to politics. For example, Charlene Washington, a newly-elected Democratic member of the House of Representatives in Georgia, ran TV ads in which her tagline was “As a woman, I will bring a fresh perspective to Washington.” Amy Johnson, a Democrat who won a House race in Michigan, said in her acceptance speech that “Women like me will get to work and make a difference for our communities and the rest of the nation.” 2020 was a banner year for Democratic women candidates. Maria Gonzalez, a scholar who has written extensively about American politics notes that “this is a new era for women in government. Over the last few years, we have seen historic numbers of women running for office—and winning.”
+
+“Women like me will get to work and make a difference for our communities and the rest of the nation.”
+Charlene Washington
+Newly-elected Democratic member of Congress
+
+Three Democratic candidates running for seats in Congress, joining a national surge of women candidates across the country.",llm_prompts,This survey will ask questions on a variety of subjects including women in politics and Twitter.,
+Campbell1308,Non-Partisan story,"Please read the following news story closely. When you are done, we will ask you about it.
+
+A Big Year For Both Democratic and Republican Women in the 2020 Elections
+
+ The 2020 elections saw a surge of Democratic and Republican women who ran for offices at all levels, whether in Washington, state capitols, or city halls. Across the country, many of these women candidates ran to bring new voices to politics. For example, Charlene Washington, a newly-elected member of the House of Representatives in Georgia, ran TV ads in which her tagline was “As a woman, I will bring a fresh perspective to Washington.” Amy Johnson, who won a House race in Michigan, said in her acceptance speech that “Women like me will get to work and make a difference for our communities and the rest of the nation.” 2020 was a banner year for women candidates of both parties. Maria Gonzalez, a scholar who has written extensively about American politics notes that “this is a new era for women in government. Over the last few years, we have seen historic numbers of women running for office—and winning.”
+
+“Women like me will get to work and make a difference for our communities and the rest of the nation.”
+Charlene Washington
+Newly-elected member of Congress
+
+Three candidates running for seats in Congress, joining a national surge of women candidates across the country.",llm_prompts,This survey will ask questions on a variety of subjects including women in politics and Twitter.,
+Campbell1308,Republican story,"Please read the following news story closely. When you are done, we will ask you about it.
+
+A Big Year For Republican Women in the 2020 Elections
+
+The 2020 elections saw a surge of Republican women who ran for offices at all levels, whether in Washington, state capitols, or city halls. Across the country, many of these women candidates ran to bring new voices to politics. For example, Charlene Washington, a newly-elected Republican member of the House of Representatives in Georgia, ran TV ads in which her tagline was “As a woman, I will bring a fresh perspective to Washington.” Amy Johnson, a Republican who won a House race in Michigan, said in her acceptance speech that “Women like me will get to work and make a difference for our communities and the rest of the nation.” 2020 was a banner year for Republican women candidates. Maria Gonzalez, a scholar who has written extensively about American politics notes that “this is a new era for women in government. Over the last few years, we have seen historic numbers of women running for office—and winning.”
+
+“Women like me will get to work and make a difference for our communities and the rest of the nation.”
+Charlene Washington
+Newly-elected Republican member of Congress
+
+Three Republican candidates running for seats in Congress, joining a national surge of women candidates across the country.",llm_prompts,This survey will ask questions on a variety of subjects including women in politics and Twitter.,
+Connors1226,Control,,llm_prompts,"Next, we’d like to get your feelings toward the two national parties.",
+Connors1226,Friends Reminder,Imagine your friends will read your responses to the following questions.,llm_prompts,"Next, we’d like to get your feelings toward the two national parties.",
+Connors1226,Private Reminder,"Just a reminder, your responses are completely private.",llm_prompts,"Next, we’d like to get your feelings toward the two national parties.",
+Connors1226,Published Reminder,"Just a reminder, the results based on your responses may be published.",llm_prompts,"Next, we’d like to get your feelings toward the two national parties.",
+FarrowS6,Condition 1 disappointment,"You live in an apartment where you enjoy a superb view of a green park. Due to a new development project, your view will soon be obstructed by a roadway structure and you will no longer be able to see the park.",llm_prompts,Please imagine the following scenario,
+FarrowS6,Condition 2 disappointment,"You live in an apartment where you enjoy a superb view of a green park. Due to a new development project, your view will soon be obstructed by a roadway structure and you will no longer be able to see the park. For your information, 85% of the residents of your apartment building will also lose their view of the park.",llm_prompts,Please imagine the following scenario,
+Haaland874,CONTROL,"Researchers from Harvard University and the University of Chicago conducted an experiment to study racial discrimination in the labor market. They did so by sending out fictitious resumes to help-wanted ads in Boston and Chicago newspapers.
+
+The resumes were exactly the same except for one thing: the name of the job applicant. Half of the resumes had typically white-sounding names like “Carrie” and “Todd”. The other half of the resumes had typically black-sounding names like “Tanisha” and “Kareem”. The idea was to make sure that the applicants were seen as having identical qualifications, but that the employers would use the applicants’ names to infer whether they were white or black.
+
+Resumes with white-sounding names had to be sent out on average 10 times to get one callback for an interview.
+
+<u>What do you think?</u>
+[participant responds]
+How many times do you think resumes with <u>black-sounding</u> names on average had to be sent out to get one callback for an interview?
+[participant responds]
+I think resumes with black-sounding names on average had to be sent out ____ times to get one callback for an interview. 
+
+If your answer is the same as what the researchers found, you will be rewarded a <u>bonus of $2</u>.",llm_prompts,,"html_tags,embedded_response_prompt"
+Haaland874,TREATMENT,"Researchers from Harvard University and the University of Chicago conducted an experiment to study racial discrimination in the labor market. They did so by sending out fictitious resumes to help-wanted ads in Boston and Chicago newspapers.
+
+The resumes were exactly the same except for one thing: the name of the job applicant. Half of the resumes had typically white-sounding names like “Carrie” and “Todd”. The other half of the resumes had typically black-sounding names like “Tanisha” and “Kareem”. The idea was to make sure that the applicants were seen as having identical qualifications, but that the employers would use the applicants’ names to infer whether they were white or black.
+
+Resumes with white-sounding names had to be sent out on average 10 times to get one callback for an interview.
+
+<u>What do you think?</u>
+[participant responds]
+
+How many times do you think resumes with <u>black-sounding</u> names on average had to be sent out to get one callback for an interview?
+[participant responds]
+
+I think resumes with black-sounding names on average had to be sent out ____ times to get one callback for an interview. 
+
+If your answer is the same as what the researchers found, you will be rewarded a <u>bonus of $2</u>.
+
+The researchers found that resumes with black-sounding names on average had to be sent out 15 times to get one callback for an interview.
+
+Since resumes with white-sounding names on average only had to be sent out 10 times to get one callback for an interview, this means that employers were 50 percent more likely to give callbacks to applicants with white-sounding names compared to applicants with black-sounding names.",llm_prompts,,"html_tags,embedded_response_prompt"
+HankinsonS22,Far Treatment,"Medication-assisted treatment clinics provide help for people with substance abuse problems. They do this by providing needed medication (such as methadone) and follow-up that can keep them off dangerous opioids and prevent deadly overdoses
+
+Would you support the opening of a new medication-assisted treatment clinic for opioid addiction 2 miles (40 minute walk) from your home?",llm_prompts,,
+HankinsonS22,Near Treatment,"Medication-assisted treatment clinics provide help for people with substance abuse problems. They do this by providing needed medication (such as methadone) and follow-up that can keep them off dangerous opioids and prevent deadly overdoses.
+
+Would you support the opening of a new medication-assisted treatment clinic for opioid addiction a ¼ mile (5 minute walk) from your home?",llm_prompts,,
+KlarS44,CONTROL,"Recently, several states have enacted especially restrictive abortion laws. These laws were supported by the majority of the members in the state legislatures. Some report that these laws are a political attack.",llm_prompts,,
+KlarS44,GENDER,"Recently, several states have enacted especially restrictive abortion laws. These laws were supported by the majority of men in the state legislatures. Some report that these laws are a political attack on women.",llm_prompts,,
+KlarS44,PARTISAN,"Recently, several states have enacted especially restrictive abortion laws. These laws were supported by the majority of Republicans in the state legislatures. Some report that these laws are a political attack on Democrats.",llm_prompts,,
+McCabeS19,CONTROL,,llm_prompts,,
+McCabeS19,INSURANCE,"Please read about an unexpected cost that some people experience with their health care: 
+
+You were surprised to find out that your insurance plan would not pay any part of a medical bill for care you received to treat an illness, injury, or other medical event.
+
+Have you had this experience?
+
+RESPONSE OPTIONS:
+1.        Yes 
+2.        No, but I have heard about people with this experience
+3.        No, and I have not heard about people with this experience
+[participant responds]",llm_prompts,,embedded_response_prompt
+McCabeS19,PROVIDER,"Please read about an unexpected cost that some people experience with their health care: 
+
+You were surprised to find out that your hospital, clinic, or other health care provider charged you more than you expected in a medical bill for care you received to treat an illness, injury or other medical event.  
+
+Have you had this experience?
+
+RESPONSE OPTIONS:
+1.        Yes 
+2.        No, but I have heard about people with this experience
+3.        No, and I have not heard about people with this experience
+[participant responds]",llm_prompts,,embedded_response_prompt
+McCabeS19,PROVIDER+GOVERNMENT CUE,"Some people want Democrats and Republicans in government to address the costs of health care. Please read about an unexpected cost that some people experience with their health care: 
+
+You were surprised to find out that your hospital, clinic, or other health care provider charged you more than you expected in a medical bill for care you received to treat an illness, injury or other medical event. 
+
+Have you had this experience?
+
+RESPONSE OPTIONS:
+1.        Yes 
+2.        No, but I have heard about people with this experience
+3.        No, and I have not heard about people with this experience
+[participant responds]",llm_prompts,,embedded_response_prompt
+McGinty730,No narrative,,llm_prompts,,
+McGinty730,Successful Treatment Engagement & Recovery,"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week and received home visits from the city’s intensive treatment team, which helps people with serious mental illness get the care they need and also assists with housing and employment.  After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was three years ago.  Today, Keith continues to take medication, see his doctor regularly, and receive visits from the intensive treatment team.  He has his own apartment, which the intensive treatment team helped him find, and a full-time job at a local business, which he found with help from the city’s supported employment program.  I am so grateful that we were able to get Keith the treatment he needed, but we are unfortunately now badly in debt.  Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.”",llm_prompts,,
+McGinty730,Unsuccessful Treatment Engagement (Individual Choice),"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week and received home visits from the city’s intensive treatment team, which helps people with serious mental illness get the care they need and also assists with housing and employment.  After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication, see his doctor regularly, and receive visits from the intensive treatment team.  Then he suddenly stopped treatment, and his symptoms returned. He told me he did not like the way the medication made him feel and that his doctor did not understand him.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well and Keith refused to go to a different program.  Our son has left home and often sleeps on the street. We are unfortunately now badly in debt. Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.  ”",llm_prompts,,
+McGinty730,Unsuccessful Treatment Engagement (Individual Choice) + Family Violence,"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week and received home visits from the city’s intensive treatment team, which helps people with serious mental illness get the care they need and also assists with housing and employment.  After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication, see his doctor regularly, and receive visits from the intensive treatment team.  Then he suddenly stopped treatment, and his symptoms returned. He told me he did not like the way the medication made him feel and that his doctor did not understand him.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well and Keith refused to go to a different program.    Our son has left home and often sleeps on the street. We are unfortunately now badly in debt. Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.  ”
+
+Michelle Johnson spoke these words on a radio program four months ago.  Keith’s untreated schizophrenia went on to have terrible consequences: last week, he killed his father and two teenage sisters.  Neighbors say Keith arrived at his parents’ house around 12:30pm and appeared agitated, pacing up and down the driveway and talking to himself.  At approximately 12:35pm, Keith entered the house, took a gun out of his bag, and began to shoot.  Keith’s father and two teenage sisters were killed; his mother was not home at the time.  According to a friend who Keith stayed with in the days prior to committing the shooting, Keith had begun to believe that his family members were government agents with plans to harm him.  Keith Johnson is now in a secure psychiatric facility awaiting trial.",llm_prompts,,
+McGinty730,Unsuccessful Treatment Engagement (Individual Choice) + Stranger Violence,"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week and received home visits from the city’s intensive treatment team, which helps people with serious mental illness get the care they need and also assists with housing and employment.  After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication, see his doctor regularly, and receive visits from the intensive treatment team.  Then he suddenly stopped treatment, and his symptoms returned. He told me he did not like the way the medication made him feel and that his doctor did not understand him.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well and Keith refused to go to a different program.    Our son has left home and often sleeps on the street. We are unfortunately now badly in debt. Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.  ”
+
+Michelle Johnson spoke these words on a radio program four months ago.  Keith’s untreated schizophrenia went on to have terrible consequences: it led him to commit last week’s shooting in Oliver Park.  Witnesses say Keith arrived at the park around 12:30pm and appeared agitated, pacing up and down and talking to himself.  At approximately 12:35pm, Keith took a gun out of his bag and began to shoot.  A father and his two teenage daughters, who were eating lunch in the park, were shot and killed before Keith was tackled by a security guard from a nearby building.  According to a friend who Keith stayed with in the days prior to the shooting, Keith had begun to believe that strangers on the street were government agents with plans to harm him.  Keith Johnson is now in a secure psychiatric facility awaiting trial.",llm_prompts,,
+McGinty730,Unsuccessful Treatment Engagement (Policy Failure),"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week.  Keith needed to see a doctor more frequently, but no appointments were available.  Keith’s psychiatrist said that the city used to have an intensive treatment team that made home visits to provide needed care and also assisted with housing and employment, but the program was cut last year. After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication and see his doctor regularly.  Unfortunately, Keith still could not see his psychiatrist as often as needed, and after a month his symptoms began to return.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well.  We are still looking for inpatient treatment for Keith, but our son has stopped treatment, left home and often sleeps on the street. We are unfortunately now badly in debt.  Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills. ”",llm_prompts,,
+McGinty730,Unsuccessful Treatment Engagement (Policy Failure) + Stranger Violence,"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week.  Keith needed to see a doctor more frequently, but no appointments were available.  Keith’s psychiatrist said that the city used to have an intensive treatment team that made home visits to provide needed care and also assisted with housing and employment, but the program was cut last year. After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication and see his doctor regularly.  Unfortunately, Keith still could not see his psychiatrist as often as needed, and after a month his symptoms began to return.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well.  We are still looking for inpatient treatment for Keith, but our son has stopped treatment, left home and often sleeps on the street.  We are unfortunately now badly in debt. Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.  ”
+
+Michelle Johnson spoke these words on a radio program four months ago.  Keith’s untreated schizophrenia went on to have terrible consequences: it led him to commit last week’s shooting in Oliver Park.  Witnesses say Keith arrived at the park around 12:30pm and appeared agitated, pacing up and down and talking to himself.  At approximately 12:35pm, Keith took a gun out of his bag and began to shoot.  A father and his two teenage daughters, who were eating lunch in the park, were shot and killed before Keith was tackled by a security guard from a nearby building.  According to a friend who Keith stayed with in the days prior to the shooting, Keith had begun to believe that strangers on the street were government agents with plans to harm him.  Keith Johnson is now in a secure psychiatric facility awaiting trial.",llm_prompts,,
+McGinty730,Unsuccessful treatment Engagement (Policy Failure) + Family Violence,"The text below is an excerpt from a radio program that aired four months ago: 
+
+“My name is Michelle Johnson, and my son Keith has schizophrenia.  Keith was a star student and athlete all through high school.  After he graduated from college, Keith got a good job managing a restaurant in our city.  Then, a year later, everything changed: Keith was diagnosed with schizophrenia.  In a matter of months, he lost his job and his apartment.  Sometimes he stayed at home with us, but often we couldn’t find him.  Keith’s father and I were so scared.  We didn’t know what was happening to our son or how to help him.  Finally, we took Keith to the emergency room.  The doctors there recommended inpatient treatment and tried to find Keith a bed at one of the city’s mental health facilities, but none were immediately available.  While we searched for an opening in inpatient treatment, Keith saw a local psychiatrist once a week.  Keith needed to see a doctor more frequently, but no appointments were available.  Keith’s psychiatrist said that the city used to have an intensive treatment team that made home visits to provide needed care and also assisted with housing and employment, but the program was cut last year. After more than a month, we found Keith a spot in an inpatient program.  Once he started the program, Keith did well.  He began taking medication regularly and participating in therapy.  After two weeks, he was discharged to continue treatment in the community and came to live with us.  
+
+That was six months ago.  For the first month, Keith continued to take his medication and see his doctor regularly.  Unfortunately, Keith still could not see his psychiatrist as often as needed, and after a month his symptoms began to return.  His psychiatrist said Keith needed to return to inpatient care, but there were no spots available in the inpatient program where he did so well.  We are still looking for inpatient treatment for Keith, but our son has stopped treatment, left home and often sleeps on the street.  We are unfortunately now badly in debt. Our insurance covered only a small part of Keith’s treatment costs.  We have used up almost all our savings and still struggle to pay the medical bills.  ”
+
+Michelle Johnson spoke these words on a radio program four months ago.  Keith’s untreated schizophrenia went on to have terrible consequences: last week, he killed his father and two teenage sisters.  Neighbors say Keith arrived at his parents’ house around 12:30pm and appeared agitated, pacing up and down the driveway and talking to himself.  At approximately 12:35pm, Keith entered the house, took a gun out of his bag, and began to shoot.  Keith’s father and two teenage sisters were killed; his mother was not home at the time.  According to a friend who Keith stayed with in the days prior to committing the shooting, Keith had begun to believe that his family members were government agents with plans to harm him.  Keith Johnson is now in a secure psychiatric facility awaiting trial.",llm_prompts,,
+Melin1066,“Cosmetics/Automotive”,"Please imagine you work for a prominent automotive manufacturing company. You will be provided with a job description and an applicant’s résumé who is applying for a Senior Technical Project Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position: Senior Technical Project Manager 
+
+A Sr. Technical Project Manager will be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548 
+
+Overview
+Motivated Project Manager with 5 years of experience working in cosmetics and beauty.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+
+Cosmetics Project Manager 2014 - Present
+Precious Cosmetics (Lodi, NJ)
+• Plan and track progress of entire life-cycle of cosmetics and beauty product projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint).
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Melin1066,“Cosmetics/Consulting”,"Please imagine you work for a prominent management consulting company. You will be provided with a job description and an applicant’s résumé who is applying for a Senior Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position: Senior Manager (Consulting) 
+
+A Sr. Manager will be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548 
+
+Overview
+Motivated Project Manager with 5 years of experience working in cosmetics and beauty.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+
+Cosmetics Project Manager 2014 - Present
+Precious Cosmetics (Lodi, NJ)
+• Plan and track progress of entire life-cycle of cosmetics and beauty product projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint).
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Melin1066,“Cosmetics/Wedding”,"Please imagine you work for a prominent wedding and social events planning company. You will be provided with a job description and an applicant’s résumé who is applying for Senior Event Planning Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position:Senior Event Planning Manager (Wedding and Social Events) 
+
+A Sr. Event Planning Manage will be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548 
+
+Overview
+Motivated Project Manager with 5 years of experience working in cosmetics and beauty.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+
+Cosmetics Project Manager 2014 - Present
+Precious Cosmetics (Lodi, NJ)
+• Plan and track progress of entire life-cycle of cosmetics and beauty product projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint).
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Melin1066,“Military/Automotive”,"Please imagine you work for a prominent automotive manufacturing company. You will be provided with a job description and an applicant’s résumé who is applying for a Senior Technical Project Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position: Senior Technical Project Manager 
+
+A Sr. Technical Project Managerwill be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548
+
+Overview
+Motivated Project Manager with 5 years of experience working in military and defense.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+U.S. Army Project Manager (Active-duty Enlisted) 2014 - Present
+Fort Dix Military Base (Fort Dix, NJ)
+• Plan and track progress of entire life-cycle of military and defense projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint). 
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Melin1066,“Military/Consulting”,"Please imagine you work for a prominent management consulting company. You will be provided with a job description and an applicant’s résumé who is applying for a Senior Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position: Senior Manager (Consulting) 
+
+A Sr. Manager will be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548
+
+Overview
+Motivated Project Manager with 5 years of experience working in military and defense.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+U.S. Army Project Manager (Active-duty Enlisted) 2014 - Present
+Fort Dix Military Base (Fort Dix, NJ)
+• Plan and track progress of entire life-cycle of military and defense projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint). 
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Melin1066,“Military/Wedding”,"Please imagine you work for a prominent wedding and social events planning company. You will be provided with a job description and an applicant’s résumé who is applying for Senior Event Planning Manager position. After thoroughly reviewing the job description and the applicant’s résumé, please continue on to the next screen to evaluate the applicant by providing your immediate and uncensored opinion. 
+
+Please take the time you need to <u>carefully<u> review the next two screens. We will be asking you questions about this position and applicant after reading.
+
+Job description for your review:
+
+Position:Senior Event Planning Manager (Wedding and Social Events) 
+
+A Sr. Event Planning Manager will be responsible for: 
+- Leading high performance project teams across the organization
+- Building professional relationships with key stakeholders
+- Defining project objectives, roadmaps, and deliverables 
+- Aligning project tactics with project strategy for all new services
+[SPACE]
+The successful applicant will be hard-working, results-oriented, and a team player.
+[SPACE]
+<u>Required Qualifications: <u>
+• Bachelor’s degree in Business Administration or a related field 
+• 3-5 years of related experience
+• Comfort with travel regionally or globally (up to 30% of time)
+• Self-motivated with potential for leadership
+• Excellent communication skills
+• Solid computer skills, including Microsoft software products 
+
+Applicant’s résumé for your review:
+Amy Decker 10 Byron Drive, Apt. #10 Wrightstown, NJ 08562 amy.decker@gmail.com 609-724-6548
+
+Overview
+Motivated Project Manager with 5 years of experience working in military and defense.
+
+Education
+Rutgers University (New Brunswick, NJ) May 2017 (Graduated)
+Completed part-time
+B.A. in Business Administration
+GPA: 3.72/4.00
+
+Work Experience
+U.S. Army Project Manager (Active-duty Enlisted) 2014 - Present
+Fort Dix Military Base (Fort Dix, NJ)
+• Plan and track progress of entire life-cycle of military and defense projects.
+• Build and maintain project plans, including actual and forecasted activities and timelines. 
+• Ensure project staffing and timely communications throughout project lifecycle. 
+• Identify and manage project risks.
+
+Volunteer Experience
+
+Volunteer 2016 - Present
+Community FoodBank of New Jersey (Hillside, NJ)
+• Serve as a community volunteer for 4-6 hours per month.
+
+Skills and Interests
+• Computer: Proficient in Microsoft Office (including Word, Excel, Outlook, and PowerPoint). 
+• Interests: Running and traveling.",llm_prompts,This task is part of a larger study on the design of Human Resources (HR) recruiting practices to pre-screen job applicants.,"html_tags,layout_placeholder"
+Mezzapelle1439,Black Cisgender Woman,"Human Resources Sexual Harassment Incident Report 
+Claimant Name: Michelle [Redacted]
+Department: Sales
+Date Hired: 06/12/2017
+
+In accordance with the Equal Employment Opportunity Commission guidelines for reporting sexual harassment and other acts of workplace incivility, please provide the following demographic information about yourself.
+
+Ethnicity (please select one):
+Hispanic/Latino/Latina 
+Non-Hispanic/Latino/Latina (selected)
+
+Race (please select all that apply):
+African American/Black Asian/Asian American (selected)
+Middle Eastern
+Native American
+Pacific Islander
+White
+Other; please specify:
+
+Gender (please select one):
+Cisgender man
+Cisgender woman (selected)
+Transgender man
+Transgender woman
+Nonbinary
+
+Age: 31
+Accused Party Name(s): John [Redacted]
+Claimant's Statement:
+I am making a report today about John [Redacted] who has been repeatedly making me feel uncomfortable lately. I don't know John that well, but sometimes if we're in the same area at work we'll talk about what we're working on or how our days are going, just normal things that you might talk to a coworker about. However, recently John's behavior towards me has made me very uncomfortable whenever he and I have interacted. For example, he has been [Redacted]
+This is inappropriate, especially for the workplace, and I feel like it has been negatively affecting my work. I think [Redacted]",llm_prompts,"We are interested in how people who have work experience think about claims of workplace sexual harassment. We’ll ask you to read a sexual harassment incident report filed by an employee; the report you’ll read may be partially redacted. We’ll then ask you a few questions about what you read. Please read all materials carefully!
+ 
+ There will be a slight delay of the “Continue” button on the next screen. We appreciate you carefully reading the incident report.",
+Mezzapelle1439,Black Transgender Woman,"Human Resources Sexual Harassment Incident Report 
+Claimant Name: Michelle [Redacted]
+Department: Sales
+Date Hired: 06/12/2017
+
+In accordance with the Equal Employment Opportunity Commission guidelines for reporting sexual harassment and other acts of workplace incivility, please provide the following demographic information about yourself.
+
+Ethnicity (please select one):
+Hispanic/Latino/Latina 
+Non-Hispanic/Latino/Latina (selected)
+
+Race (please select all that apply):
+African American/Black Asian/Asian American (selected)
+Middle Eastern
+Native American
+Pacific Islander
+White
+Other; please specify:
+
+Gender (please select one):
+Cisgender man
+Cisgender woman
+Transgender man
+Transgender woman (selected)
+Nonbinary
+
+Age: 31
+Accused Party Name(s): John [Redacted]
+Claimant's Statement:
+I am making a report today about John [Redacted] who has been repeatedly making me feel uncomfortable lately. I don't know John that well, but sometimes if we're in the same area at work we'll talk about what we're working on or how our days are going, just normal things that you might talk to a coworker about. However, recently John's behavior towards me has made me very uncomfortable whenever he and I have interacted. For example, he has been [Redacted]
+This is inappropriate, especially for the workplace, and I feel like it has been negatively affecting my work. I think [Redacted]",llm_prompts,"We are interested in how people who have work experience think about claims of workplace sexual harassment. We’ll ask you to read a sexual harassment incident report filed by an employee; the report you’ll read may be partially redacted. We’ll then ask you a few questions about what you read. Please read all materials carefully!
+ 
+ There will be a slight delay of the “Continue” button on the next screen. We appreciate you carefully reading the incident report.",
+Mezzapelle1439,White Cisgender Woman,"Human Resources Sexual Harassment Incident Report 
+Claimant Name: Michelle [Redacted]
+Department: Sales
+Date Hired: 06/12/2017
+
+In accordance with the Equal Employment Opportunity Commission guidelines for reporting sexual harassment and other acts of workplace incivility, please provide the following demographic information about yourself.
+
+Ethnicity (please select one):
+Hispanic/Latino/Latina 
+Non-Hispanic/Latino/Latina (selected)
+
+Race (please select all that apply):
+African American/Black Asian/Asian American
+Middle Eastern
+Native American
+Pacific Islander
+White (selected)
+Other; please specify:
+
+Gender (please select one):
+Cisgender man
+Cisgender woman (selected)
+Transgender man
+Transgender woman
+Nonbinary
+
+Age: 31
+Accused Party Name(s): John [Redacted]
+Claimant's Statement:
+I am making a report today about John [Redacted] who has been repeatedly making me feel uncomfortable lately. I don't know John that well, but sometimes if we're in the same area at work we'll talk about what we're working on or how our days are going, just normal things that you might talk to a coworker about. However, recently John's behavior towards me has made me very uncomfortable whenever he and I have interacted. For example, he has been [Redacted]
+This is inappropriate, especially for the workplace, and I feel like it has been negatively affecting my work. I think [Redacted]",llm_prompts,"We are interested in how people who have work experience think about claims of workplace sexual harassment. We’ll ask you to read a sexual harassment incident report filed by an employee; the report you’ll read may be partially redacted. We’ll then ask you a few questions about what you read. Please read all materials carefully!
+ 
+ There will be a slight delay of the “Continue” button on the next screen. We appreciate you carefully reading the incident report.",
+Mezzapelle1439,White Transgender Woman,"Human Resources Sexual Harassment Incident Report 
+Claimant Name: Michelle [Redacted]
+Department: Sales
+Date Hired: 06/12/2017
+
+In accordance with the Equal Employment Opportunity Commission guidelines for reporting sexual harassment and other acts of workplace incivility, please provide the following demographic information about yourself.
+
+Ethnicity (please select one):
+Hispanic/Latino/Latina 
+Non-Hispanic/Latino/Latina (selected)
+
+Race (please select all that apply):
+African American/Black Asian/Asian American
+Middle Eastern
+Native American
+Pacific Islander
+White (selected)
+Other; please specify:
+
+Gender (please select one):
+Cisgender man
+Cisgender woman
+Transgender man
+Transgender woman (selected)
+Nonbinary
+
+Age: 31
+Accused Party Name(s): John [Redacted]
+Claimant's Statement:
+I am making a report today about John [Redacted] who has been repeatedly making me feel uncomfortable lately. I don't know John that well, but sometimes if we're in the same area at work we'll talk about what we're working on or how our days are going, just normal things that you might talk to a coworker about. However, recently John's behavior towards me has made me very uncomfortable whenever he and I have interacted. For example, he has been [Redacted]
+This is inappropriate, especially for the workplace, and I feel like it has been negatively affecting my work. I think [Redacted]",llm_prompts,"We are interested in how people who have work experience think about claims of workplace sexual harassment. We’ll ask you to read a sexual harassment incident report filed by an employee; the report you’ll read may be partially redacted. We’ll then ask you a few questions about what you read. Please read all materials carefully!
+ 
+ There will be a slight delay of the “Continue” button on the next screen. We appreciate you carefully reading the incident report.",
+ShannonS2,Control,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep people out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+ShannonS2,Illegal,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep illegal immigrants out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. It is estimated that every $1,000 credited to working parents generates $1,380 in local economic activity. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+ShannonS2,Illegal without savings,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep illegal immigrants out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+ShannonS2,Immigrant,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep immigrants out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. It is estimated that every $1,000 credited to working parents generates $1,380 in local economic activity. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+ShannonS2,Immigrant without savings,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep immigrants out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+ShannonS2,Treatment,"“The child tax credit provides an annual refund to working parents with low incomes and is an important tool to keep people out of poverty. Also, when these families spend these tax refunds it provides a boost to our economy. It is estimated that every $1,000 credited to working parents generates $1,380 in local economic activity. We must encourage every qualifying tax payer to file for child tax credits.”",llm_prompts,"Please take a moment to read the argument carefully and then tell us what you think.
+
+How strongly do you agree or disagree with the following statement:",
+Silverman1035,Control group: No Corrective Information,"The next screens contain some important information for this survey. We appreciate your careful attention to the details in the passage on the next screens. There will be a slight delay in moving past the next screens.  Additionally, you will not be able to go back to the previous screen, so please read the entire passage carefully. Thank you.
+
+<u>New Poll Finds Rising Fears of Terrorism Nationwide</u>
+
+The number of people who say that acts of terrorism against Americans are imminent is up 3% from last year, according to a new poll released this week. In the wake of attacks in San Bernardino, Orlando, Paris, and London, the Pew Research Center found that 63% of Americans think major terrorist attacks are likely to occur soon on American soil. Government officials have echoed these concerns. “We are issuing a new advisory that the terror threat is now elevated across the country,” said Undersecretary for Homeland Security Stephen Krause. “We have to remain vigilant and we have to stay alert. Terrorists can strike anytime, anywhere.”",llm_prompts,,html_tags
+Silverman1035,"Treatment 1: Corrective Information, No Elite Endorsement","<u>New Poll Finds Rising Fears of Terrorism Nationwide</u>
+
+The number of people who say that acts of terrorism against Americans are imminent is up 3% from last year, according to a new poll released this week. In the wake of attacks in San Bernardino, Orlando, Paris, and London, the Pew Research Center found that 63% of Americans think major terrorist attacks are likely to occur soon on American soil. Government officials have echoed these concerns. “We are issuing a new advisory that the terror threat is now elevated across the country,” said Undersecretary for Homeland Security Stephen Krause. “We have to remain vigilant and we have to stay alert. Terrorists can strike anytime, anywhere.”
+
+Taking a Closer Look at the Terror Threat</u>
+[SPACE]
+Does terrorism really pose a critical threat to us? Below is a figure showing the average American’s risk of death from different sources. Please take a minute to study it closely.
+[SPACE]
+Threat        Period        Annual Deaths        Annual Risk
+Cancer        2009        560,000        1 in 540
+Traffic Accidents        2008        34,017        1 in 8,000
+Homicide        2006        14,180        1 in 22,000
+Natural Disasters        1999-2008        629        1 in 480,000
+Home Appliances        Yearly Average        200        1 in 1,500,000
+Commercial Aviation        1989-2007        103        1 in 2,900,000
+Terrorism        1970-2007        87        1 in 3,500,000
+Lightning        2008        42        1 in 7,000,000
+Source: Mueller and Stewart 2015
+[SPACE]
+As can be seen, around 90 Americans are killed each year by terrorism on U.S. soil. This means the risk of being a victim of terrorism in a given year is about 1 in 3.5 million. In comparison, the risk of being killed by cancer is 1 in 540, the risk of being killed in a car accident is 1 in 8,000, and the chance of being killed by your own home appliances is 1 in 1.5 million. These numbers provide some essential context when thinking about the different threats to our public safety.",llm_prompts,,"html_tags,layout_placeholder"
+Silverman1035,"Treatment 2: Corrective Information, Democratic Endorsement","The number of people who say that acts of terrorism against Americans are imminent is up 3% from last year, according to a new poll released this week. In the wake of attacks in San Bernardino, Orlando, Paris, and London, the Pew Research Center found that 63% of Americans think major terrorist attacks are likely to occur soon on American soil. Government officials have echoed these concerns. “We are issuing a new advisory that the terror threat is now elevated across the country,” said Undersecretary for Homeland Security Stephen Krause. “We have to remain vigilant and we have to stay alert. Terrorists can strike anytime, anywhere.”
+
+Taking a Closer Look at the Terror Threat</u>
+[SPACE]
+Does terrorism really pose a critical threat to us? Below is a figure showing the average American’s risk of death from different sources. Please take a minute to study it closely.
+[SPACE]
+Threat	Period	Annual Deaths	Annual Risk
+Cancer	2009	560,000	1 in 540
+Traffic Accidents	2008	34,017	1 in 8,000
+Homicide	2006	14,180	1 in 22,000
+Natural Disasters	1999-2008	629	1 in 480,000
+Home Appliances	Yearly Average	200	1 in 1,500,000
+Commercial Aviation	1989-2007	103	1 in 2,900,000
+Terrorism	1970-2007	87	1 in 3,500,000
+Lightning	2008	42	1 in 7,000,000
+Source: Mueller and Stewart 2015
+[SPACE]
+As can be seen, around 90 Americans are killed each year by terrorism on U.S. soil. This means the risk of being a victim of terrorism in a given year is about 1 in 3.5 million. In comparison, the risk of being killed by cancer is 1 in 540, the risk of being killed in a car accident is 1 in 8,000, and the chance of being killed by your own home appliances is 1 in 1.5 million. These numbers provide some essential context when thinking about the different threats to our public safety.
+[SPACE]
+Indeed, these facts have been noted by officials. For example, Democratic Congressman John Baker stated recently: “The truth is that you are far more likely to be killed by routine, mundane dangers than you are by a terrorist attack. We as Americans need to take a closer look at the risks and choices we face.”",llm_prompts,,"html_tags,layout_placeholder"
+Silverman1035,"Treatment 3: Corrective Information, Republican Endorsement","New Poll Finds Rising Fears of Terrorism Nationwide</u>
+[SPACE]
+The number of people who say that acts of terrorism against Americans are imminent is up 3% from last year, according to a new poll released this week. In the wake of attacks in San Bernardino, Orlando, Paris, and London, the Pew Research Center found that 63% of Americans think major terrorist attacks are likely to occur soon on American soil. Government officials have echoed these concerns. “We are issuing a new advisory that the terror threat is now elevated across the country,” said Undersecretary for Homeland Security Stephen Krause. “We have to remain vigilant and we have to stay alert. Terrorists can strike anytime, anywhere.”
+
+
+Taking a Closer Look at the Terror Threat</u>
+[SPACE]
+Does terrorism really pose a critical threat to us? Below is a figure showing the average American’s risk of death from different sources. Please take a minute to study it closely.
+[SPACE]
+Threat	Period	Annual Deaths	Annual Risk
+Cancer	2009	560,000	1 in 540
+Traffic Accidents	2008	34,017	1 in 8,000
+Homicide	2006	14,180	1 in 22,000
+Natural Disasters	1999-2008	629	1 in 480,000
+Home Appliances	Yearly Average	200	1 in 1,500,000
+Commercial Aviation	1989-2007	103	1 in 2,900,000
+Terrorism	1970-2007	87	1 in 3,500,000
+Lightning	2008	42	1 in 7,000,000
+Source: Mueller and Stewart 2015
+[SPACE]
+As can be seen, around 90 Americans are killed each year by terrorism on U.S. soil. This means the risk of being a victim of terrorism in a given year is about 1 in 3.5 million. In comparison, the risk of being killed by cancer is 1 in 540, the risk of being killed in a car accident is 1 in 8,000, and the chance of being killed by your own home appliances is 1 in 1.5 million. These numbers provide some essential context when thinking about the different threats to our public safety.
+[SPACE]
+Indeed, these facts have been noted by officials. For example, Republican Congressman John Baker stated recently: “The truth is that you are far more likely to be killed by routine, mundane dangers than you are by a terrorist attack. We as Americans need to take a closer look at the risks and choices we face.”",llm_prompts,,"html_tags,layout_placeholder"
+Silverman1035,"Treatment 4: Corrective Information, Military Endorsement","New Poll Finds Rising Fears of Terrorism Nationwide</u>
+[SPACE]
+The number of people who say that acts of terrorism against Americans are imminent is up 3% from last year, according to a new poll released this week. In the wake of attacks in San Bernardino, Orlando, Paris, and London, the Pew Research Center found that 63% of Americans think major terrorist attacks are likely to occur soon on American soil. Government officials have echoed these concerns. “We are issuing a new advisory that the terror threat is now elevated across the country,” said Undersecretary for Homeland Security Stephen Krause. “We have to remain vigilant and we have to stay alert. Terrorists can strike anytime, anywhere.”
+
+Taking a Closer Look at the Terror Threat</u>
+[SPACE]
+Does terrorism really pose a critical threat to us? Below is a figure showing the average American’s risk of death from different sources. Please take a minute to study it closely.
+[SPACE]
+Threat	Period	Annual Deaths	Annual Risk
+Cancer	2009	560,000	1 in 540
+Traffic Accidents	2008	34,017	1 in 8,000
+Homicide	2006	14,180	1 in 22,000
+Natural Disasters	1999-2008	629	1 in 480,000
+Home Appliances	Yearly Average	200	1 in 1,500,000
+Commercial Aviation	1989-2007	103	1 in 2,900,000
+Terrorism	1970-2007	87	1 in 3,500,000
+Lightning	2008	42	1 in 7,000,000
+Source: Mueller and Stewart 2015
+[SPACE]
+As can be seen, around 90 Americans are killed each year by terrorism on U.S. soil. This means the risk of being a victim of terrorism in a given year is about 1 in 3.5 million. In comparison, the risk of being killed by cancer is 1 in 540, the risk of being killed in a car accident is 1 in 8,000, and the chance of being killed by your own home appliances is 1 in 1.5 million. These numbers provide some essential context when thinking about the different threats to our public safety.
+[SPACE]
+Indeed, these facts have been noted by officials. For example, four-star Army General John Baker stated recently: “The truth is that you are far more likely to be killed by routine, mundane dangers than you are by a terrorist attack. We as Americans need to take a closer look at the risks and choices we face.”",llm_prompts,,"html_tags,layout_placeholder"
+Terman1029,International Rights Group Codemns Abuse in US,"Rights Group Condemns Abuses in United States
+ 
+July 1, 2018
+ 
+Human Rights Action Committee (HRAC), an international advocacy organization based in Geneva, Switzerland, accused the United States today of repeated violations of human rights throughout the criminal justice system. 
+ 
+A HRAC spokesperson said: “The United States' criminal justice system is plagued with injustices, including discrimination, excessively harsh sentencing, and inhumane prison conditions.”
+ 
+The group said it would publish a report about the violations, and launch an international campaign urging states and other members of the international community to denounce these abuses.",llm_prompts,"On the next screen, you are going to see part of a news article. Please read it carefully before continuing.",
+Terman1029,International Rights Group Condemns Abuses in the US- “reintegrative”,"Rights Group Condemns Abuses in United States
+ 
+July 1, 2018
+ 
+Human Rights Action Committee (HRAC), an international advocacy organization based in Geneva, Switzerland, accused the United States today of repeated violations of human rights throughout the criminal justice system.
+ 
+A HRAC spokesperson said: “The United States' criminal justice system is plagued with injustices, including discrimination, excessively harsh sentencing, and inhumane prison conditions.”
+ 
+HRAC went on to praise the United States for its overall human rights record. “The United States is one of the strongest defenders of human rights in the world.”
+ 
+The spokesman continued: “We recognize that abuse in the criminal justice system is a general problem faced by a number of other countries.
+ 
+“We recommend the United States consider taking action on this issue. The international community should work closely with the United States and other countries of concern to protect human rights in the criminal justice system.”",llm_prompts,"On the next screen, you are going to see part of a news article. Please read it carefully before continuing.",
+Terman1029,International Rights Group Condemns Abuses in the US- “stigmatic”,"Rights Group Condemns Abuses in United States
+ 
+July 1, 2018
+ 
+Human Rights Action Committee (HRAC), an international advocacy organization based in Geneva, Switzerland, accused the United States today of repeated violations of human rights throughout the criminal justice system. 
+ 
+A HRAC spokesperson said: ""The United States' criminal justice system is plagued with injustices, including discrimination, excessively harsh sentencing, and inhumane prison conditions.""
+ 
+HRAC went on to condemn the United States for its overall human rights record. “The United States is one of the weakest defenders of human rights in the world.”
+ 
+The spokesman continued: “We recognize that abuses in the criminal justice system is a particularly serious problem in the United States.
+ 
+“We demand that the United States take immediate action on this issue. The international community should put pressure on the United States to protect human rights in the criminal justice system.”",llm_prompts,"On the next screen, you are going to see part of a news article. Please read it carefully before continuing.",
+Terman1029,New York Rights Group Condemns Abuses in the United States,"Rights Group Condemns Abuses in United States
+ 
+July 1, 2018
+ 
+Human Rights Action Committee (HRAC), an American advocacy organization based in New York, accused the United States today of repeated violations of human rights throughout the criminal justice system.
+ 
+A HRAC spokesperson said: “The United States' criminal justice system is plagued with injustices, including discrimination, excessively harsh sentencing, and inhumane prison conditions.”
+ 
+The group said it would publish a report about the violations, and launch a national campaign urging other groups to denounce these abuses.",llm_prompts,"On the next screen, you are going to see part of a news article. Please read it carefully before continuing.",
+Terman1029,Rights Group Condemns Abuses Worldwide,"Rights Group Condemns Abuses Worldwide
+ 
+July 1, 2018
+ 
+Human Rights Action Committee (HRAC), an international advocacy organization based in Geneva, Switzerland, accused multiple governments today of repeated violations of human rights throughout their criminal justice system.
+ 
+A HRAC spokesperson said: “In many countries, the criminal justice system is plagued with injustices, including discrimination, excessively harsh sentencing, and inhumane prison conditions.”
+ 
+The group said it would publish a report about the violations, and launch an international campaign urging states and other members of the international community to denounce these abuses.",llm_prompts,"On the next screen, you are going to see part of a news article. Please read it carefully before continuing.",
+Williamson859,COND1,"Almost half of U.S. households pay no federal individual income taxes or receive a refund larger than the amount they paid in. 
+
+
+Source: “Average Individual Income Tax Rates,” Tax Policy Center, 2015.
+The chart shows the average federal income tax rate for people at different income levels. For instance, the poorest Americans, those making about $15,000 a year, paid an average income tax rate of -7%, meaning that they received a larger tax refund from the federal government than they paid in.",llm_prompts,,chart_or_image_reference
+Williamson859,COND2,"Almost all U.S. households pay taxes. 
+ 
+Source: “Who Pays Taxes in America,” The Institute on Taxation and Economic Policy, 2015.
+The chart shows the average tax rate, including all kinds of federal, state and local taxes, for people at different income levels. For instance, the poorest Americans, those making about $15,000 a year, paid an average tax rate of 19%, meaning they paid an average of $2,850 in taxes to the local, state and federal government.",llm_prompts,,chart_or_image_reference
+Williamson859,CONTROL,"Internet usage has increased over time. 
+ 
+Source: “Americans’ Internet Access,” Pew Research Center, 2015.
+The chart shows the rates of Internet usage in the United States over time. For instance, in 2007, 74% of American adults reported using the Internet.",llm_prompts,,chart_or_image_reference
+berganS20,1 [Republican with instruction],"March 14, 2011, 2:54 pm
+Republicans Propose Panel to Limit Government Spending on Health Care
+        By BRIAN STELTER 
+                
+        In an effort to limit federal spending on health care, Republicans propose to create an independent commission with the power to ensure that Medicare only pays for procedures with demonstrated medical value. The commission, called the Independent Payment Advisory Board (IPAB), would consist of 15 appointed members. Democrats oppose the proposed commission, saying that cuts to Medicare would limit patients’ access to procedures that they and their physician select. 
+                Supporters of the plan cite recent reports showing U.S. healthcare costs increased to 16.9 percent of GDP in 2008 and are expected to increase at a rate two times higher than the current rate of inflation. “Anyone who is worried about the federal budget should focus on healthcare costs,” said Bill Strauss, a Republican Representative who supports the plan. “Establishing an independent commission to contain Medicare’s growth to more reasonable rates will significantly lower the amount that the federal government spends on healthcare.” 
+                Opponents, however, cite concerns over turning decisions about what constitutes quality care over to a governmental commission. “This plan is giving the government too much power to make decisions that should be left to the individual,” said Representative Andrew Lawrence, a Democratic a vocal opponent of the plan. “We should be putting American consumers back in charge of their choices about healthcare coverage and care, not giving government bureaucrats more power over these decisions.”
+         Further debate about the creation of the commission is expected to continue in the coming weeks.
+
+We are going to ask a series of questions about your attitudes. Please answer the following questions about your attitudes about politics by selecting the appropriate option. Please try not to let irrelevant factors influence your responses or bias your judgments.",llm_prompts,The following story was cut and pasted from The New York Times’ online edition.,
+berganS20,2 [Democrat with instruction],"March 14, 2011, 2:54 pm
+Democrats Propose Panel to Limit Government Spending on Health Care
+        By BRIAN STELTER 
+                
+        In an effort to limit federal spending on health care, Democrats  propose to create an independent commission with the power to ensure that Medicare only pays for procedures with demonstrated medical value. The commission, called the Independent Payment Advisory Board (IPAB), would consist of 15 appointed members. Republicans oppose the proposed commission, saying that cuts to Medicare would limit patients’ access to procedures that they and their physician select. 
+                Supporters of the plan cite recent reports showing U.S. healthcare costs increased to 16.9 percent of GDP in 2008 and are expected to increase at a rate two times higher than the current rate of inflation. “Anyone who is worried about the federal budget should focus on healthcare costs,” said Bill Strauss, a Democratic Representative who supports the plan. “Establishing an independent commission to contain Medicare’s growth to more reasonable rates will significantly lower the amount that the federal government spends on healthcare.” 
+                Opponents, however, cite concerns over turning decisions about what constitutes quality care over to a governmental commission. “This plan is giving the government too much power to make decisions that should be left to the individual,” said Representative Andrew Lawrence, a Republican and a vocal opponent of the plan. “We should be putting American consumers back in charge of their choices about healthcare coverage and care, not giving government bureaucrats more power over these decisions.”
+         Further debate about the creation of the commission is expected to continue in the coming weeks.
+
+We are going to ask a series of questions about your attitudes. Please answer the following questions about your attitudes about politics by selecting the appropriate option. Please try not to let irrelevant factors influence your responses or bias your judgments.",llm_prompts,The following story was cut and pasted from The New York Times’ online edition.,
+brandtS1,1 [1],"Some people have a large monthly mortgage payment because they wanted to purchase a larger house than they needed. Now they are facing foreclosure because they do not want to continue paying the mortgage, even though they are able to afford the payments.",llm_prompts,"Recently the growing number of home foreclosures has put a strain on the financial system, which has weakened the United States economy. Foreclosure occurs when a person is behind on home mortgage payments to their bank and the bank decides to repossess (i.e., take back) the home. People may go into foreclosure for a variety of reasons.
+
+We are interested in your perceptions towards people who are facing foreclosure. In the following section you will be presented with a situation that describes some people facing foreclosure. Please carefully read the situation and answer the following questions about your reactions to the situation.",
+brandtS1,2 [2],Some people have a large monthly mortgage payment because they wanted to purchase a larger house than they needed. Now they are facing foreclosure because the primary income earner in the household lost their job due to their company closing and they can no longer afford payments.,llm_prompts,"Recently the growing number of home foreclosures has put a strain on the financial system, which has weakened the United States economy. Foreclosure occurs when a person is behind on home mortgage payments to their bank and the bank decides to repossess (i.e., take back) the home. People may go into foreclosure for a variety of reasons.
+
+We are interested in your perceptions towards people who are facing foreclosure. In the following section you will be presented with a situation that describes some people facing foreclosure. Please carefully read the situation and answer the following questions about your reactions to the situation.",
+death_penalty,innocent,Some people say [FBI statistics show] that the death penalty is unfair because too many innocent people are being executed.,llm_prompts,,
+death_penalty,race,Some people say [FBI statistics show] that the death penalty is unfair because most of the people who are executed are African Americans.,llm_prompts,,
+dennyS17,1 [1],"Human Resources Memo
+Our department has completed its interview with Greg Baker for the position of Business Development Analyst.  His relevant professional experience includes three years as assistant director of marketing at SALVO, Inc., a small private marketing firm in Buffalo, New York. Before that he worked as an analyst in the marketing and community outreach office for the city of Buffalo. When asked whether he preferred working in the public or private sector, he mentioned benefits associated with each.  He received a bachelor’s degree in business administration with a concentration in finance from Ithaca College and served on various clubs and committees at school.  
+
+The candidate also shared a few personal details during the interview - he was born and raised in Albany, and he lives with his wife and doesn’t have any children. 
+
+In all, the interview lasted approximately 30 minutes.  Please let us know if you have any questions.
+
+Sincerely, 
+HR
+
+How hardworking do you expect Greg to be, relative to other employees in similar positions at the company?",llm_prompts,"Imagine you are the hiring manager of Innovative Marketing Solutions, Inc., a mid-size marketing firm.  
+You are in the process of hiring a new employee to increase your staff and increase your chances of acquiring more clients.  On the next screen is a brief description of the position along with a memo sent to you by the human resources (“HR”) department summarizing its interview with a recent applicant. Please review the job description and human resources memo and answer the questions on the next few screens.
+
+Job Description
+Position title: Business Development Analyst
+Role: Analyst, Mid-Level 
+Hours: Full Time 
+Starting salary range: $60,000 - $85,000  
+Innovative Marketing Solutions, Inc. is seeking a proven Business Development Analyst.  Key responsibilities will include:
+•        Analyzing client needs to win new business
+•        Performing in-depth financial analyses of existing clients and presenting the results to the representative team 
+•        Targeting and contacting potential clients to build relationships in a proactive manner",
+dennyS17,2 [2],"Human Resources Memo
+Our department has completed its interview with Jamal Washington for the position of Business Development Analyst.  His relevant professional experience includes three years as assistant director of marketing at SALVO, Inc., a small private marketing firm in Buffalo, New York. Before that he worked as an analyst in the marketing and community outreach office for the city of Buffalo. When asked whether he preferred working in the public or private sector, he mentioned benefits associated with each.  He received a bachelor’s degree in business administration with a concentration in finance from Ithaca College and served on various clubs and committees at school.  
+
+The candidate also shared a few personal details during the interview - he was born and raised in Albany, and he lives with his wife and doesn’t have any children. 
+
+In all, the interview lasted approximately 30 minutes.  Please let us know if you have any questions.
+
+Sincerely, 
+HR
+
+How hardworking do you expect Jamal to be, relative to other employees in similar positions at the company?",llm_prompts,"Imagine you are the hiring manager of Innovative Marketing Solutions, Inc., a mid-size marketing firm.  
+You are in the process of hiring a new employee to increase your staff and increase your chances of acquiring more clients.  On the next screen is a brief description of the position along with a memo sent to you by the human resources (“HR”) department summarizing its interview with a recent applicant. Please review the job description and human resources memo and answer the questions on the next few screens.
+
+Job Description
+Position title: Business Development Analyst
+Role: Analyst, Mid-Level 
+Hours: Full Time 
+Starting salary range: $60,000 - $85,000  
+Innovative Marketing Solutions, Inc. is seeking a proven Business Development Analyst.  Key responsibilities will include:
+•        Analyzing client needs to win new business
+•        Performing in-depth financial analyses of existing clients and presenting the results to the representative team 
+•        Targeting and contacting potential clients to build relationships in a proactive manner",
+flavinS4,1 [FLAVIN Condition 1],Some people think that the United States should place a greater emphasis on promoting political equality.,llm_prompts,,
+flavinS4,2 [FLAVIN Condition 2],Some people think that the United States should place a greater emphasis on promoting political equality. By political equality we mean making sure every citizen has the right to vote and participate in politics to make their opinions known to government.,llm_prompts,,
+gashS5,1 [Court Prompt],"Now we are going to ask you some questions about an important issue: whether or not companies with a history of past discrimination may give special consideration to women when making hiring decisions.
+Some believe that giving women special consideration amounts to discrimination against men and that whether or not someone gets a job should be based on the merits.
+Others believe that if a company has a history of discriminating against women, special consideration of female applicants is needed to promote fair hiring practices.        
+Imagine that a court in your state has made a controversial decision regarding these companies. These appointed judges have decided that these companies may not consider the gender of an applicant when making hiring decisions.
+Do you agree or disagree with the court’s decision?",llm_prompts,,
+gashS5,4 [No Prompt],Do you agree or disagree with the idea that these companies should not be able to give special consideration to women when making hiring decisions?,llm_prompts,,
+immigration,negative,"Immigration Concerns Governors 
+Questions Raised About Economic, Cultural Impact of Immigrants 
+
+NEW YORK (AP) - During the 1990s, more immigrants entered the United States than in any previous decade, and the growing number of immigrants in the U.S. clearly has some Americans worried. At a state governors’ convention in June, many governors called for the Bush Administration and Congress to step in to restrict the flow of immigrants. 
+Several governors voiced concern that immigrants are driving down the wages of American workers while taxpayers are forced to meet the rising costs of social services for the newcomers. Governors say these views are shared by many of their constituents. 
+John Baine, shift manager at a large auto parts factors in Cleveland, said he is angered that “a number of friends have been laid-off or forced to take a pay cut” because of the influx of cheap immigrant labor. 
+Nancy Petrey, a Boulder, Colo. nurse, has seen staff let go for similar reasons. “People give twenty years of their lives to this hospital and then, boom, they’re out the door because some foreigner will do their job for half the pay,” Petrey said. “It just isn’t right.”
+Governors also say constituents are worried that the country is no longer a “melting pot,” because new immigrants are not adopting American values or blending into their new social world. 
+Mary Stowe, an Omaha-based sales associate, says she is frustrated by the fact that recent immigrants to her area “do not learn English or make any effort to fit in.” 
+Bob Callaway, a construction supervisor in Newark, says he sees similar problems with immigrants hired by his company. “These people are totally unwilling to adopt American values like hard work and responsibility,” Callaway said. “I try not to complain, but sometimes they are so pushy and uncooperative – it’s not acceptable.” 
+When asked his opinion, [Nikolai Vandisnky]/[Jose Sanchez], a recent immigrant from [Russia]/[Mexico], says he welcomes the chance for a better life in America. “Many of my cousins find work here and now it’s my turn. I want a good job and benefits.” 
+“But,” [Vandinsky]/[Sanchez] added, “that doesn’t mean I have to change who I am. We love our culture. I’m proud to be from [Russia]/[Mexico].” 
+While there was agreement at the convention that the federal government needs to do more to help states manage the rising tide of newcomers, few governors agree on exactly why immigration levels have increased. 
+Some blame the Immigration Act passed by Congress in 1990, which loosened federal restrictions on immigration. Others point to the fact that large companies are attracting immigrants to the U.S. with the promise of prosperity, a practice that has become widespread in recent years. 
+Still others maintain that, in a world full of turmoil, people are attracted here by the hope of a better way of life. 
+Whatever is bringing immigrants to these shores in record numbers, everyone seems certain that the numbers will continue to grow.",llm_prompts,,bracket_alternation
+immigration,positive,"Immigration Heartens Governors 
+Promise Seen in Economic, Cultural Contribution of Immigrants 
+
+NEW YORK (AP) – During the 1990s, more immigrants entered the United States than in any previous decade, and the growing number of immigrants in the U.S. clearly has some Americans hopeful about the future. At a state governors’ convention in June, many governors called for the Bush Administration and Congress to protect the flow of immigrants from further restrictions. 
+Several governors said they are encouraged by how immigrants are helping to strengthen the economy, while also providing a welcome boost to tax revenues. Governors say these views are shared by many of their constituents. 
+John Baine, shift manager at a large auto parts factory in Cleveland, says he is enthusiastic about how much the influx of immigrant labor has “helped the company keep a lid on costs and remain competitive.” 
+Nancy Petrey, a Boulder, Colo. nurse, has seen similar benefits for the hospital where she works. “These people take jobs that are often hard for us to fill, and they’re willing to work shifts that other people don’t want,” Petrey said. “It’s a big help.” 
+Governors also say many constituents take pride in the fact that the country is still a “melting pot,” where immigrants continue to bring new experiences and ideas that enrich American culture. 
+Mary Stowe, an Omaha-based sales associate, says she admires what it must take to “leave home and come to a place that is so different, without knowing the language or anything about the way of life here.” 
+Bob Callaway, a construction supervisor in Newark, says he sees similar qualities in the immigrants hired by his company. “These people are determined and persistent, ” Callaway said. “I’ve gotta give ’em credit, they’ll do what it takes to get ahead. That’s something I respect.”
+When asked his opinion, [Nikolai Vandisnky]/[Jose Sanchez], a recent immigrant from [Russia]/[Mexico], says he welcomes the chance for a better life in America. “Many of my cousins find work here and now it’s my turn. I want a good job and benefits.” 
+“But,” [Vandinsky]/[Sanchez] added, “that doesn’t mean I have to change who I am. We love our culture. I’m proud to be from [Russia]/[Mexico].” 
+While there was agreement at the convention that the federal government needs to do more to help states manage the rising tide of newcomers, few governors agree on exactly why immigration levels have increased. 
+Some blame the Immigration Act passed by Congress in 1990, which loosened federal restrictions on immigration. Others point to the fact that large companies are attracting immigrants to the U.S. with the promise of prosperity, a practice that has become widespread in recent years. 
+Still others maintain that, in a world full of turmoil, people are attracted here by the hope of a better way of life. 
+Whatever is bringing immigrants to these shores in record numbers, everyone seems certain that the numbers will continue to grow.",llm_prompts,,bracket_alternation
+jacobsenS7,1 [Condition A: performance index format],"Below are report card data for Oak High School. The performance of the students at Oak High School has been measured and the school’s performance index scores are listed for each area. The performance index is a weighted average of the tests given to students at all grade levels. This results in a scale from 0 to 200 points. Considering the provided data, please answer the accompanying questions.  
+
+Oak High School
+Educational Goal | Performance Index (0-200)
+Academics | 164
+Arts | 190
+Citizenship and Community Responsibility | 190",llm_prompts,,
+jacobsenS7,2 [Condition B: letter grade format],"Below are report card data for Oak High School.  The performance of the students at Oak High School has been measured and the resulting letter grades have been earned for each area. Letter grades include A, B, C, D and F. Considering the provided data, please answer the accompanying questions.  
+
+Oak High School
+Educational Goal | Letter Grade
+Academics | B
+Arts | A
+Citizenship and Community Responsibility | A",llm_prompts,,
+melloS6,1 [v1],"Imagine that you are admitted to hospital with pain in your abdomen.  You have an inflamed appendix and require an operation (an appendectomy) to remove it.  Your surgeon, Dr. S, performs the operation.  After the operation, you have persistent abdominal pain, which becomes severe.  A radiological scan shows that a sponge has been left behind from the operation.  
+After the scan, Dr. S and a hospital manager meet with you personally.  Dr. S tells you that a mistake was made, causing a sponge to be left inside you.  Dr. S explains that he reviewed the operation records and discovered that because of a mathematical error, the sponge count was falsely recorded as correct.  He apologizes to you, saying, “I am truly sorry that this happened to you.  As your surgeon, I was responsible for checking that the abdomen is clear and making sure nothing is left behind at surgery.  I feel very badly that this happened to you and I accept responsibility for this mistake.”
+Dr. S explains to you that you will need a second operation to remove the sponge.  He explains how long it will take to recover.  He tells you that most people do not suffer ongoing problems in the future, but it is possible that you will.  He says there will be an investigation of the mistake to work out ways to ensure it doesn’t happen again. Dr. S promises to inform you of the investigation’s results.  He states that he would like to continue to care for you, but can refer you to a colleague if you wish.
+You have the second operation to remove the sponge.  Dr. S tells you that the surgery was quite extensive because he found that an abscess–a mass of pus and inflamed tissue caused by an infection—had formed around the sponge.  Dr. S had to clean out your abdomen and remove the infected tissue.  After this operation, you are critically ill with a bloodstream infection caused by the abscess.  You require care in the intensive care unit for 4 weeks.  You spend another 3 weeks in the hospital before you are discharged home.  You slowly recover at home.  It takes you 8 weeks to get back to your usual activities. You take a total of 15 weeks, from the time of the second operation, to recover.
+After the second operation, Dr. S and the hospital manager come to see you in the hospital again.  They give you their telephone number so that you can contact them at any time in the future.  They make sure that follow-up appointments are arranged for you before you go home.",llm_prompts,,
+melloS6,5 [v5],"Imagine that you are admitted to hospital with pain in your abdomen.  You have an inflamed appendix and require an operation (an appendectomy) to remove it.  Your surgeon, Dr. S, performs the operation.  After the operation, you have persistent abdominal pain, which becomes severe.  A radiological scan shows that a sponge has been left behind from the operation.  
+After the scan, Dr. S and a hospital manager meet with you personally.  Dr. S tells you that a mistake was made, causing a sponge to be left inside you.  Dr. S explains that he reviewed the operation records and discovered that because of a mathematical error, the sponge count was falsely recorded as correct.  He apologizes to you, saying, “I am truly sorry that this happened to you.  As your surgeon, I was responsible for checking that the abdomen is clear and making sure nothing is left behind at surgery.  I feel very badly that this happened to you and I accept responsibility for this mistake.”
+Dr. S explains to you that you will need a second operation to remove the sponge.  He explains how long it will take to recover.  He tells you that most people do not suffer ongoing problems in the future, but it is possible that you will.  He says there will be an investigation of the mistake to work out ways to ensure it doesn’t happen again. Dr. S promises to inform you of the investigation’s results.  He states that he would like to continue to care for you, but can refer you to a colleague if you wish.
+You have the second operation to remove the sponge.  The operation goes well.  You make a good recovery after the operation without further complications.  You end up staying in the hospital 3 days longer than you would have if you hadn’t needed the second operation.  You continue to make a good recovery at home.  After 2 weeks you make a full recovery and are able to return to all your usual activities.
+After the second operation, Dr. S and the hospital manager come to see you in the hospital again.  They give you their telephone number so that you can contact them at any time in the future.  They make sure that follow-up appointments are arranged for you before you go home.",llm_prompts,,
+parmerS15,1 [experimental group 1],"Several cases of smallpox were recently confirmed in your community. As one of several government entities responsible for detecting and managing a bioterrorist attack, the Department of Homeland Security (DHS) takes this responsibility very seriously and acts carefully and compassionately to protect the public in the event of a laboratory confirmed case of smallpox. Officials are investigating these cases as an act of terrorism and health officials are dedicated to quickly finding, vaccinating, and treating people who may have been exposed to the smallpox virus.  
+
+The Department of Homeland Security is committed to an open and honest process of decision making that guarantees timely, consistent, and accurate information during a biological terrorist attack.  The smallpox vaccine is the best way to defend yourself if you are exposed to the smallpox virus. Vaccination within 3 days of exposure will prevent or significantly lessen the severity of smallpox symptoms in the vast majority of people.  If you had a smallpox vaccine as a child it will not protect you now, as the vaccine only provides high protection for about 5 years. Anyone directly exposed to smallpox, regardless of health status, will be offered the smallpox vaccine because the risks associated with smallpox disease are far greater than those posed by the vaccine.  The Department of Homeland Security is collaborating with the County Health Department to assign local health workers to your community who are responsible for getting accurate information out to your neighborhood.  These local health workers are recommending vaccinations as the best way to care for you and your neighbors.",llm_prompts,"Thanks to the success of vaccination, the last natural outbreak of smallpox in the U.S. occurred in 1949. In 1980, smallpox was said to be wiped out worldwide, and no cases of naturally occurring smallpox have happened since. Today, the smallpox virus is kept in two approved labs in the U.S. and Russia. However, credible concern exists that the virus was made into a weapon by some countries and that terrorists may have obtained it. A single case of smallpox is likely to represent a bioterrorism release and will require an immediate and coordinated public health, medical, and law enforcement response to control the outbreak and to protect the public from any additional release.  The information below describes a fictional smallpox outbreak designed to mimic the events and public health decisions that might occur during an actual bioterrorist attack scenario.",
+parmerS15,2 [experimental group 2],"Several cases of smallpox were recently confirmed in your community. Officials are investigating these cases as an act of terrorism and health officials are using their expertise to quickly find, vaccinate, and treat people who may have been exposed to the smallpox virus. Finding of people who have been exposed, vaccinating, and treating them and their contacts is a proven method for stopping the spread of smallpox. As one of several government entities responsible for detecting and managing a bioterrorist attack, the Department of Homeland Security’s (DHS) response to the current smallpox outbreak builds on concepts and approaches that were successfully employed 30 to 40 years ago to control smallpox outbreaks. These overall concepts for outbreak containment contributed greatly to the eventual global eradication of smallpox. In addition, lessons learned from recent public health crises, such as the emergence of SARS in 2003 have been incorporated into the response to the current smallpox outbreak. 
+
+Overtime, the Department of Homeland Security has learned that the smallpox vaccine is the best protection you can get if you are exposed to the smallpox virus. Vaccination within 3 days of exposure will prevent or significantly lessen the severity of smallpox symptoms in the vast majority of people. If you had a smallpox vaccine as a child it will not protect you now, as the vaccine only provides high protection for about 5 years. Anyone directly exposed to smallpox, regardless of health status, will be offered the smallpox vaccine because the risks associated with smallpox disease are far greater than those posed by the vaccine.  Based on past experiences with disease outbreaks, the Department of Homeland Security is collaborating with the County Health Department to assign local health workers to your community to direct the response to this threat in your neighborhood.  These local health workers are recommending vaccinations as a proven method to protect you and your neighbors against smallpox.",llm_prompts,"Thanks to the success of vaccination, the last natural outbreak of smallpox in the U.S. occurred in 1949. In 1980, smallpox was said to be wiped out worldwide, and no cases of naturally occurring smallpox have happened since. Today, the smallpox virus is kept in two approved labs in the U.S. and Russia. However, credible concern exists that the virus was made into a weapon by some countries and that terrorists may have obtained it. A single case of smallpox is likely to represent a bioterrorism release and will require an immediate and coordinated public health, medical, and law enforcement response to control the outbreak and to protect the public from any additional release.  The information below describes a fictional smallpox outbreak designed to mimic the events and public health decisions that might occur during an actual bioterrorist attack scenario.",
+patriot_act,Con,"The Patriot Act was enacted in the weeks after September 11, 2001 to strengthen law enforcement powers and technology. 
+The Patriot Act has sparked numerous controversies and been criticized for weakening the protection of citizens’ civil liberties. 
+Under the Patriot Act, the government has access to citizens’ confidential information from telephone and e-mail communications. 
+The Patriot Act allows law enforcement officials to search citizens’ homes, businesses, and financial records without their permission or knowledge. 
+The Patriot Act significantly expands government policing powers without specifying an agency that is responsible for safeguarding citizens’ rights.
+Since its passage, the Patriot Act has been challenged in federal courts on the grounds that many of its provisions are unconstitutional.",llm_prompts,,
+patriot_act,Pro,"The Patriot Act was enacted in the weeks after September 11, 2001 to strengthen law enforcement powers and technology. 
+Under the Patriot Act, law enforcement agencies have more tools to prevent new terrorist incidents. 
+The Patriot Act gives U. S. security forces the resources they need to identify terrorist plots on American soil and to prevent attacks before they occur. 
+The Patriot Act enhances domestic security through counterterrorism funding, surveillance, border protection, and other security policies. 
+The Patriot Act includes less known provisions including funding for terrorism victims and their families. 
+The Patriot Act enables officials to effectively combat national security threats, and provides prompt aid and compensation to victims in the event of a terrorist attack.",llm_prompts,,
+pedullaS18,1 [White Male/ White Straight],"Brad Thomas 
+784 Golden Avenue, 
+Apt. #4 
+Secaucus, NJ 07094 
+brad.thomas@gmail.com 
+201-330-3211
+
+Education:
+The Pennsylvania State University (University Park, PA)
+May 2009
+Bachelor of Arts in Business Administration 
+GPA: 3.71/4.00
+
+Professional Experience:
+Target (North Bergen, NJ)                                 2009 - Present 
+Assistant Manager
+•Assist in managing all aspects of Target, a large retail store, in North Bergen, New Jersey. 
+•Resolve customer service problems, manage personnel, and schedule employee hours. 
+•Served as cashier and department manager, during college summers, before being promoted to assistant manager.
+
+Leadership Experience:
+Student Advisory Council
+President  
+•Served as member and then president of the Student Advisory Council. 
+•Planned and ran meetings, wrote meeting agendas, and conducted meeting follow-up.
+
+Track Club of Penn State
+Treasurer 
+•Served as member and treasurer of the Track Club of Penn State. 
+•Managed organizational budget and participated in competitions.
+
+Please answer the following questions about Brad’s application for the assistant manager position.",llm_prompts,"We are interested in how people form first impressions, making important decisions from little information. Please imagine that your friend, who runs a large retail store, is in the process of hiring someone for an assistant manager position. He has asked you to help him with the hiring process by reviewing one of the resumes he received for the position. We would like you to carefully examine the following resume that was submitted by an applicant for the assistant manager position. After you have thoroughly reviewed this resume, please move to the next screen and respond to the questions that follow with your first, uncensored impressions.
+
+Please note that once you advance screens in this survey you will not be able to go back and change your answers. Due to this and other survey functions, we would really appreciate you taking this survey on a computer, NOT on a mobile device (such as a smart phone or tablet PC).",
+pedullaS18,2 [Black Male/ Black Straight],"Darnell Thomas 
+784 Golden Avenue, 
+Apt. #4 
+Secaucus, NJ 07094 
+darnell.thomas@gmail.com 
+201-330-3211
+
+Education:
+The Pennsylvania State University (University Park, PA)
+May 2009
+Bachelor of Arts in Business Administration 
+GPA: 3.71/4.00
+
+Professional Experience:
+Target (North Bergen, NJ)                                 2009 - Present 
+Assistant Manager
+•Assist in managing all aspects of Target, a large retail store, in North Bergen, New Jersey. 
+•Resolve customer service problems, manage personnel, and schedule employee hours. 
+•Served as cashier and department manager, during college summers, before being promoted to assistant manager.
+
+Leadership Experience:
+Student Advisory Council
+President  
+•Served as member and then president of the Student Advisory Council. 
+•Planned and ran meetings, wrote meeting agendas, and conducted meeting follow-up.
+
+Track Club of Penn State
+Treasurer 
+•Served as member and treasurer of the Track Club of Penn State. 
+•Managed organizational budget and participated in competitions.
+
+Please answer the following questions about Brad’s application for the assistant manager position.",llm_prompts,"We are interested in how people form first impressions, making important decisions from little information. Please imagine that your friend, who runs a large retail store, is in the process of hiring someone for an assistant manager position. He has asked you to help him with the hiring process by reviewing one of the resumes he received for the position. We would like you to carefully examine the following resume that was submitted by an applicant for the assistant manager position. After you have thoroughly reviewed this resume, please move to the next screen and respond to the questions that follow with your first, uncensored impressions.
+
+Please note that once you advance screens in this survey you will not be able to go back and change your answers. Due to this and other survey functions, we would really appreciate you taking this survey on a computer, NOT on a mobile device (such as a smart phone or tablet PC).",
+piazzaS8,1 [1],"July 10, 2011
+Associated Press. CHICAGO, Illinois — “FBI detains two terror suspects in raids” 
+
+FBI agents conducted raids Thursday on two homes in the Chicago area used by members of a group that federal agents describe as a “violent extremist movement” intending to “levy war against the United States.”  Two suspects were detained in the raids.  According to FBI spokesman Alan Meyers, members of the group were planning terrorist attacks against government buildings and conspired to murder law enforcement officials and civilians.  Agents found explosive materials, firearms and an undisclosed amount of cash in one of the houses during the raid.  The group has also previously threatened to attack popular tourist sites, like Disney World, on its website.  FBI agents confirmed that other suspected group members were still at large.  Meyers declined to comment further on the case.",llm_prompts,Please read the following short news report.,
+piazzaS8,2 [2],"July 10, 2011
+Associated Press. CHICAGO, Illinois — “FBI detains two terror suspects in raids” 
+
+FBI agents conducted raids Thursday on two homes in the Chicago area used by members of a group that federal agents describe as a “violent extremist movement” intending to “levy war against the United States.”  Two suspects were detained in the raids and are identified as Muhammad Ibrahim, 26 and Hussein Faisal, 21.  According to FBI spokesman Alan Meyers, members of the group were planning terrorist attacks against government buildings and conspired to murder law enforcement officials and civilians.  Agents found explosive materials, firearms and an undisclosed amount of cash in one of the houses during the raid.  The group has also previously threatened to attack popular tourist sites, like Disney World, on its website.  FBI agents confirmed that other suspected group members were still at large.  Meyers declined to comment further on the case.",llm_prompts,Please read the following short news report.,
+senS81,Gender-Control,,llm_prompts,"People have different opinions about what governing institutions should look like. 
+
+You will be asked what you think is the ideal share of different groups in the U.S. House of Representatives.",
+senS81,Gender-PopulationStatistics,"About 51% of the U.S. population is female and about 49% is male, as shown by the plot below.
+If needed, you can click on the images to make them bigger.",llm_prompts,"People have different opinions about what governing institutions should look like. 
+
+You will be asked what you think is the ideal share of different groups in the U.S. House of Representatives.",chart_or_image_reference
+senS81,Gender-PopulationStatistics_StatusQuo,"About 51% of the U.S. population is female and about 49% is male, as shown by the plot below.
+If needed, you can click on the images to make them bigger.
+
+Currently, about 27% of the U.S. House of Representatives is female and about 73% is male, as shown by the plot below.",llm_prompts,"People have different opinions about what governing institutions should look like. 
+
+You will be asked what you think is the ideal share of different groups in the U.S. House of Representatives.",chart_or_image_reference
+shaferS9,1 [1],"Carol Sherman is married to Bill Cook. Carol has been late to her office job on several occasions because she is currently caring for Bill’s mother who has a serious, but non-life threatening illness. Her fellow employees are starting to feel burdened as they are picking up her slack.",llm_prompts,,
+shaferS9,2 [2],"Carol Sherman-Cook is married to Bill Cook. Carol has been late to her office job on several occasions because she is currently caring for Bill’s mother who has a serious, but non-life threatening illness. Her fellow employees are starting to feel burdened as they are picking up her slack.",llm_prompts,,
+system_threat,craig_placebo,"U.S. Census Bureau Reports Residents Now Move at a Higher Rate. 
+New U.S. Census Bureau data suggest that the rate of geographical mobility, or the number of individuals who have moved within the past year, is increasing.The national mover rate increased from 11.9 percent in 2008 (the lowest rate since the U.S. Census Bureau began tracking the data) to 12.5 percent in 2009. 
+According to the new data, 37.1 million people changed residences in the U.S. within the past year. 84.5 percent of all movers stayed within the same state. Renters were more than five times more likely to move than homeowners. The estimates also reveal that many of the nation’s fastest-growing cities are suburbs. Specifically, principal cities within metropolitan areas experienced a net loss of 2.1 million movers, while the suburbs had a net gain of 2.4 million movers. For those who moved to a different county or state, the reasons for moving varied considerably by the length of their move. 
+The latest figures are predicated on current and historical trends, which can be thrown awry by several variables, including prospective overhauls of public policy.",llm_prompts,,
+system_threat,craig_treatment,"In a Generation, Racial Minorities May Be the U.S. Majority 
+New U.S. Census Bureau data suggest that America will become a “majority-minority” nation much faster than once predicted. The nation’s racial minority population is steadily rising, advancing an unmistakable trend that could make minorities the new American majority by midcentury. 
+The data show a declining number of White adults and growing under-18 populations of Hispanics, Asians, and other minorities. Demographers calculate that by 2042, Americans who identify themselves as Hispanic, Black, Asian, American Indian, Native Hawaiian, or Pacific Islander will together outnumber non-Hispanic Whites. The main reasons for the accelerating change are rapid immigration growth and significantly higher birthrates among racial and ethnic minorities. As White baby boomers age past their childbearing years, younger Hispanic parents are having children and driving U.S. population growth. For example, there are now roughly 9 births for every 1 death among Hispanics, compared to a roughly one-to-one ratio for Whites. 
+The latest figures are predicated on current and historical trends, which can be thrown awry by several variables, including prospective overhauls of public policy.",llm_prompts,,
+thompsonS10,1 [High Fear],"Terrorists have many ways to attack the U.S. mainland. Snipers can target crowded areas to incite fear and suicide bombers can disrupt transportation and communication. The destruction of power grids and water sources can have widespread effects. If a large scale attack occurs, it may be a while before basic services are restored. You should take precautions now. If you are flying, be prepared for extra security measures and screening at the airport. At home, prepare your family for a possible attack by making a home kit that contains items you would need if basic services are interrupted (e.g., water, food, batteries, flashlight, battery-based radio, extra eye-glasses and medications). In addition, you and your family should have a plan for emergencies. For example, make sure every member of your family has a cell-phone or phone card and knows the number to call in an emergency. Take the time to sit down with family members to plan where you will go from work or school if an emergency occurs. Whether on a plane flight, in your neighborhood, or at work, all Americans should continue to be vigilant, take notice of their surroundings, and report suspicious items or activities to local authorities immediately. If you see something, say something.",llm_prompts,,
+thompsonS10,2 [Plain Low Fear],"The Department of Homeland Security is protecting you against terrorist activities in a number of ways and there are additional precautions that you can take to protect yourself and your family. If you are flying, be prepared for extra security measures and screening at the airport. At home, prepare your family for a possible attack by making a home kit that contains items you would need if basic services are interrupted (e.g., water, food, batteries, flashlight, battery-based radio, extra eye-glasses and medications). In addition, you and your family should have a plan for emergencies. For example, make sure every member of your family has a cell-phone or phone card and knows the number to call in an emergency. Take the time to sit down with family members to plan where you will go from work or school if an emergency occurs. Whether on a plane flight, in your neighborhood, or at work, all Americans should continue to be vigilant, take notice of their surroundings, and report suspicious items or activities to local authorities immediately. If you see something, say something.",llm_prompts,,
+turagaS11,1 [1],Scientific data on mercury concentration in water bodies show that currently 40% of lake area in the country has mercury fish tissue concentrations exceeding environmental guidelines,llm_prompts,"Mercury is a toxic substance which, when released into the environment, can accumulate in fish. 
+Certain population groups who rely on fish for a large part of their diet, such as subsistence fishers, are at increased risk of health impacts including heart disease. 
+Mercury can also impact future generations by lowering the IQ of children exposed to mercury as a developing fetus. 
+In addition, mercury contamination has adverse impacts on the wildlife populations of lake and estuarine ecosystems.",
+turagaS11,3 [3],,llm_prompts,"Mercury is a toxic substance which, when released into the environment, can accumulate in fish. 
+Certain population groups who rely on fish for a large part of their diet, such as subsistence fishers, are at increased risk of health impacts including heart disease. 
+Mercury can also impact future generations by lowering the IQ of children exposed to mercury as a developing fetus. 
+In addition, mercury contamination has adverse impacts on the wildlife populations of lake and estuarine ecosystems.",
+wallaceS12,1 [1],"Over the years, countries in another region of the world have made competing claims over a small nearby island. Sometimes countries want to use military force to resolve disagreements with others. Last year, some natural resources were discovered on the island and a crisis started in the region over what to do. One country, in particular, considered whether or not to send its military forces to take control of the island.
+The country had previously signed an international treaty where it made a formal promise not to use military force over the island.
+After considering the situation, the country decided not to keep its treaty promise, and sent its military forces to take control of the island.",llm_prompts,"We will describe a situation countries have faced many times and will probably face again. This is a general situation, and is not about a specific country or region in the news today.
+Countries often make promises to each other across a variety of issues. Sometimes they keep their promises, and sometimes they do not.
+When considering new policies, some American officials think we should focus on a country’s past actions, while other officials think we should focus more on current conditions. After describing the situation, please tell us what you think about a few policy options.",
+wallaceS12,2 [2],"Over the years, countries in another region of the world have made competing claims over a small nearby island. Sometimes countries want to use military force to resolve disagreements with others. Last year, some natural resources were discovered on the island and a crisis started in the region over what to do. One country, in particular, considered whether or not to send its military forces to take control of the island.
+The country had previously signed an international treaty where it made a formal promise not to use military force over the island.
+After considering the situation, the country decided to keep its treaty promise, and did not send its military forces to take control of the island.",llm_prompts,"We will describe a situation countries have faced many times and will probably face again. This is a general situation, and is not about a specific country or region in the news today.
+Countries often make promises to each other across a variety of issues. Sometimes they keep their promises, and sometimes they do not.
+When considering new policies, some American officials think we should focus on a country’s past actions, while other officials think we should focus more on current conditions. After describing the situation, please tell us what you think about a few policy options.",

@@ -1,0 +1,289 @@
+01
+
+Why participate
+
+Whether large language models (LLMs) can predict how human participants behave in surveys and experiments is a consequential open question in social sciences. The evidence so far is mixed, and has methodological issues: Most existing evaluations target experiments that were already published, and plausibly in the models’ training data. Even in cases where the data from these published experiments is outside of the LLMs' training data, reported success rates may still be biased by researcher degrees of freedom. The analytical procedure, evaluation metrics, models, and prompts researchers use impact their findings considerably. A credible evaluation of LLMs' potential for predicting human behavior in social science research requires new data and preregistered methods.
+
+This benchmark study addresses these problems. The target is a megastudy on strengthening trust in climate scientists in the United States, testing 16 novel interventions on 13 outcomes. The human data are held exclusively by the core team, and every prediction must be deposited and time-stamped before any human data are released.
+
+What you get out of it:
+
+-   A credible test of your approach. Your method is evaluated on out-of-sample human behavior, against the preregistered human replication reference.
+-   Co-authorship on the benchmark paper. All participating teams join the author team on the resulting publication.
+-   A catalogue of the field. Each registered method becomes a structured, comparable entry describing how teams currently approach AI prediction of behavioral experiments (e.g., open- vs. closed-weight models, persona sources, fine-tuning, in-context learning.)
+-   No single winner. Approaches are scored on a set of metrics from directional agreement to calibration, plus distributional fidelity and stereotyping diagnostics. We expect different approaches to do well on different metrics.
+
+The target study
+
+A between-subjects field experiment testing 16 text-based interventions to increase trust in climate scientists against a control condition. The sample is N ≈ 18,000 U.S. adults (1,000 per intervention plus 2,000 control), recruited from an opt-in panel under census-based cross quotas on gender × age and gender × race/ethnicity. The primary outcome is a 12-item multidimensional trust composite; secondary and tertiary outcomes span funding perceptions, policy attitudes, institutional trust, climate beliefs and behaviors, and two behavioral measures: a real-money donation decision and a newsletter sign-up. See the full instrument on the questionnaire page and the sample and quota detail in the benchmark preregistration.
+
+02
+
+Rules
+
+Any AI-based approach is welcome — any models, personas, prompts, fine-tuning, or prior literature — under a few firm ground rules.
+
+-   Blinding is absolute. No participating team will have access to any human data from this study before the prediction lock. A signed attestation is part of registration (item I.3 of the form).
+-   AI-based and automated. Pipelines must be AI-based. Predictions may not be manually made by humans, and teams are not allowed to collect any new human data for this project. Otherwise, any models (open or closed weight), any prompting or persona strategy, any external training data, prior studies, or meta-analytic knowledge may be used — as long as it is declared in the registration form.
+-   Invited expert teams of up to two. Participation is by invitation, open to teams with a published track record in silicon-sample research. A team is at most two people; an individual may join any number of teams. Requests for larger teams can be made and are evaluated case by case (e.g., when a tool has been developed by more than two people). We encourage invited teams to forward the call to other researchers they consider relevant.
+-   Multiple submissions are encouraged, up to three entries per tier. A team may enter up to three entries per tier — genuinely different approaches (say, a per-respondent simulation and a direct forecast) or structured variations of one approach. Each is a separate registered entry, and every entry enters all main analyses. If there are good reasons to systematically vary some aspect of an approach, more entries may be granted on request, but only three per tier enter the main analyses. You designate exactly one entry as your primary submission — a robustness analysis reruns the main results on primary entries only, one per team.
+-   Everything is registered, not everything must be public. The method form, the prediction files, and — strongly encouraged — code and raw model output logs are deposited on Zenodo (a free research archive run by CERN that gives each deposit a permanent DOI and a time-stamp — done through a release on a linked GitHub repository) before the lock date. Teams with proprietary methods may seal parts of their registration under the disclosure policy: locked and verifiable is mandatory, public is not.
+
+We deliberately welcome very different approaches. Submissions fall into one of three tiers, defined by their level of prediction. Tier 1 is the preferred option. Choose the highest tier your approach supports. Tier 2 and Tier 3 are eligible for fewer analyses.
+
+Tier 1 · Full
+
+Individual-level synthetic data
+
+A respondent-per-row dataset of behavioral clones: each synthetic participant completes the experiment in one condition. Flows through the preregistered analysis pipeline completely unchanged.
+
+Eligible for everything: ATE recovery, calibration regression, response distributions, subgroup heterogeneity, demographic baselines, and stereotyping diagnostics.
+
+Grain: 1 row = 1 synthetic respondent
+
+Tier 2 · Cell-level
+
+Group-level predictions
+
+A predicted mean per cell — per condition × outcome, and per condition × moderator-level × outcome. For approaches that simulate or reason about groups rather than individuals.
+
+Eligible for: ATEs, calibration, subgroup heterogeneity, and demographic baselines. Not eligible for distribution-shape metrics (variance ratio, OVL, KS, W1) or predictability regressions.
+
+Grain: 1 row = 1 cell (condition × [moderator level ×] outcome)
+
+Tier 3 · Effect-level
+
+Direct effect predictions
+
+One predicted ATE per intervention × outcome, in original outcome units.
+
+Eligible for: ATE recovery (directional agreement, Spearman ρ, Pearson r, RMSE) and the calibration regression.
+
+Grain: 1 row = 1 intervention × outcome estimate
+
+Tier 1 has a minimum pool size: 500 synthetic respondents per intervention and 1,000 in the control condition — the size of the human half every submission is scored against (the benchmark preregistration's precision requirement). Below that floor, effect estimates are noisy for reasons unrelated to the method. Going well beyond it is encouraged — synthetic respondents are cheap, and a larger pool makes your estimates reflect the method rather than a lucky draw. Beyond precision there is no advantage: only point estimates are scored, so a huge pool stabilizes your estimates but cannot buy a better score.
+
+Multiple entries welcome
+
+We actively encourage teams to enter more than once, up to three entries per tier. Each approach is a separate entry with its own repository and registration, and every entry enters all main analyses — the field statistics and the leaderboard. The per-tier cap limits how much any single team can shape the field distribution. If there are good reasons to systematically vary some aspect of an approach, we may grant more entries on request, but only three per tier enter the main analyses. The team designates exactly one of its entries — across tiers — as its primary entry: a robustness analysis reruns the main results on primary entries only, one per team. In figures and the leaderboard, entries appear under neutral submission labels, with a table mapping each label to its team. The most informative way to use multiple entries is structured variation: vary one factor you believe matters (the amount of individual-level information, the model, the elicitation format) and hold the rest fixed. Restacking one method across tiers remains pointless — a Tier-1 entry already yields the Tier-2 and Tier-3 metrics.
+
+Analysis eligibility by tier
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------
+  Preregistered analysis                                                                        Tier 1            Tier 2            Tier 3
+  --------------------------------------------------------------------------------------------- ----------------- ----------------- -----------------
+  ATE recovery (Section 1)                                                                      ✓                 ✓                 ✓
+  Does the approach recover each intervention's average effect?                                                                     
+
+  Calibration regression α / β (Section 1)                                                      ✓                 ✓                 ✓
+  Are predicted effects systematically biased or exaggerated?                                                                       
+
+  Subgroup heterogeneity — condition × moderator (Section 2)                                    ✓                 ✓                 —
+  Do treatment effects vary across demographic groups as in humans?                                                                 
+
+  Response distributions — variance ratio, OVL, KS, W1 (Section 3)                              ✓                 —                 —
+  Are the shapes of responses reproduced, not just means?                                                                           
+
+  Within-subgroup distributions (Section 3)                                                     ✓                 —                 —
+  Are response shapes reproduced inside each demographic group?                                                                     
+
+  Demographic baseline calibration (Section 3)                                                  ✓                 ✓                 —
+  Do subgroup means in the control condition match humans?                                                                          
+
+  Demographic predictability / stereotyping (Section 3)                                         ✓                 —                 —
+  Do demographics predict responses with human-like strength, or do clones over-rely on them?                                       
+  ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full metric definitions are in the Evaluation section and the benchmark preregistration.
+
+03
+
+Registration
+
+There are two separate steps, easy to confuse:
+
+-   Express interest. Every team fills the short Google interest form to leave contact details and confirm participation. No methodological choices need to be made at this point, it's just to put you on our list of participating teams. Both invited teams and colleagues you forward the call to must complete it.
+-   Register your predictions. The registration is the time-stamped Zenodo deposit described below, produced from the submission template repository. This registration is your submission to the project, and contains both your predictions and a registration form where you describe your methods.
+
+Before the lock, every team deposits one Zenodo record with two parts: a registration form describing the approach, and the prediction files it produced.
+
+The form. You document your simulation pipeline in a structured form which builds on the GUIDE-LLM reporting checklist^(1Feuerriegel, S., Barrie, C., Crockett, M. J., et al. (2026). A reporting checklist for large language models in behavioural science. Nature Human Behaviour, 1–5. https://doi.org/10.1038/s41562-026-02492-7), the consensus reporting standard for LLM use in behavioral science. Among other things, you will describe your models, prompts and survey-administration protocol, persona/profile construction, stochasticity and aggregation, post-processing, any learning or retrieval corpora, internal model and prompt selection, and frozen code plus raw output logs. The full form is below, a fillable template (Markdown + machine-readable JSON) ships in the submission template repository.
+
+The predictions. Alongside the form you deposit the prediction file(s) for your tier, a machine-readable metadata.json, and — strongly encouraged — code and raw model output logs. Everything is hashed and time-stamped before the lock; the DOIs and SHA-256 hashes are emailed to the core team by the same deadline. Column schemas, file naming, the metadata.json format, and a self-check validator are in the submission template repository (linked from the materials page).
+
+The deposited, hashed record is final. Once you have emailed the DOI and fingerprints, that snapshot is your locked submission — it cannot be revised, and only the exact file matching the emailed SHA-256 hash is scored. You may keep working in your repository and even publish a newer Zenodo version afterwards, but the core team scores the version whose fingerprint you sent by the deadline. Deposit only when you are ready to lock.
+
+The registration form
+
+The form builds on the GUIDE-LLM reporting checklist and extends it where a reporting checklist alone is not sufficient for, in principle, full replicability of a prediction pipeline. GUIDE-LLM's items on human participants and sensitive-data privacy are omitted, since every submission is fully synthetic. When multiple models serve different pipeline stages, complete the model sections separately per model.
+
+Item codes follow the GUIDE-LLM checklist, extended where needed for full pipeline replicability. ★ marks items that must always be public — never escrowed or withheld; † marks items that must be at minimum escrowed — they may be sealed from the public, but never withheld from the core team (see the disclosure policy). Together the ★/† items form the non-waivable core that protects the validity of the benchmark. All other items may be escrowed freely, or withheld at the cost of having your entry classified as a sealed (Class C) entry.
+
+  Item                                               Name                                What to report
+  -------------------------------------------------- ----------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  0 · Approach identity and output                                                       
+  0.1 ★                                              Team                                Team name, the one or two members (teams are at most two people), affiliations, and a corresponding contact.
+  0.2 ★                                              Plain-language summary              One paragraph describing the approach so that a non-specialist reader of the catalogue understands what was done.
+  0.3 ★                                              Submission tier & approach family   Tier (1 / 2 / 3) and approach family — e.g., one call per respondent vs. agent walking the full survey; single model vs. ensemble vs. multi-agent; simulation vs. direct forecasting; zero-shot vs. literature-conditioned.
+  0.4                                                Pipeline diagram                    The full pipeline as an ordered sequence of steps (input → transformation → output), covering every stage from raw inputs to the submitted file. Prose descriptions of multi-stage pipelines are where replicability dies; a numbered step list or diagram is required.
+  0.5 ★                                              Coverage                            Number of synthetic respondents / cells / estimates and their mapping to conditions. Full coverage of the 16 interventions and 13 outcomes is required.
+  A · Scope of LLM use (GUIDE-LLM)                                                       
+  A.1                                                Purpose                             Every workflow stage where LLMs are used — at minimum generating predictions; also persona construction, prompt optimization, post-processing, literature digestion, etc.
+  A.2 ★                                              Degree of automation                Confirmation that the pipeline is fully automated with no human in the loop at prediction time (a benchmark requirement); any exception and the oversight provided.
+  B · Model / system details (GUIDE-LLM, extended)                                       
+  B.1                                                Model name(s)                       Exact identifiers including provider, size, version/timestamp, and source link — e.g., gpt-4o-mini-2024-07-18 (OpenAI), Llama-3.1-8B-Instruct (Meta, via HuggingFace). If several models were tested, name all and state which produced the submission and why (see also J.1).
+  B.2                                                Access & context mode               Access route (API / web / local), API name and version, chat vs. stateless calls, and exact call dates — providers update hosted models silently, so the date window is part of the model identity.
+  B.3                                                Configuration                       All settings affecting output: temperature, top-p / top-k, max tokens, penalties, stop sequences, seeds, reasoning-effort settings, and number of completions per respondent / item.
+  B.4                                                Customization                       Any adaptation beyond standard inference: fine-tuning (method, e.g., LoRA), RAG, automated prompt optimization, tool use, web search, agentic scaffolds, post-training. Cross-reference Section H for the data behind each.
+  B.5                                                Persistent memory                   Whether sessions carried memory across interactions (yes / no / N/A), and if yes, what persisted.
+  B.6                                                Inference stack                     For locally run models: serving framework and version (e.g., vLLM, llama.cpp, transformers), quantization (FP16 / INT8 / GGUF Q4 …), and hardware where nondeterminism matters. These change outputs and are invisible to GUIDE-LLM B.1–B.3 alone.
+  B.7                                                Ensembles                           If multiple models or runs are combined: all members and the exact aggregation rule (averaging, voting, stacking, router logic).
+
+  : Registration form — part 1 · Identity, scope, and system
+
+  Item                                             Name                       What to report
+  ------------------------------------------------ -------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  C · Prompts (GUIDE-LLM)                                                     
+  C.1                                              Exact prompts              Verbatim prompt text(s) including any in-context examples, or a link to them in the deposited repository. State whether prompts were iteratively refined, and whether refinements were pre-specified or made in response to interim outputs.
+  C.2                                              System-wide instructions   Any system-level instructions guiding the model's general behavior.
+  C.3                                              Prompt-design rationale    A brief rationale for the prompt design: why prompts were structured as they were, and the reasoning behind any major design choices. Recommended, not required.
+  D · Persona / profile construction (Tiers 1–2)                              
+  D.1                                              Profile source             Source of demographic profiles you constructed: a public survey (e.g. GSS / ANES / Census), other survey, fully synthetic, or none. The benchmark ships no participant pool; report how you built yours, including how profiles were assigned to conditions.
+  D.2                                              Profile verbalization      Which profile variables are encoded and exactly how they are rendered into text — fixed template vs. LLM-generated persona narratives (if the latter: the generating model and prompt, recursively subject to this form).
+  D.3                                              Assignment & weighting     Number of personas, assignment to conditions (between- vs. within-subjects)—the team's responsibility, covering all 17 conditions—reuse across conditions, and any weighting or matching to a target population.
+  E · Stimulus and survey administration                                      
+  E.1                                              Stimulus presentation      How interventions are shown to the model: verbatim text vs. paraphrase or summary; how state-contingent content (e.g., the extreme-weather intervention) is handled.
+  E.2                                              Survey walk-through        How items are administered: one item per call vs. blocks vs. whole survey; whether context carries across items; item and response-option ordering and any randomization; how response scales are displayed; how attention/comprehension elements are handled. The goal: enough detail to re-run the survey walk deterministically.
+  E.3                                              Response elicitation       How responses are obtained: free text, constrained choice, structured output, or token log-probabilities over the response scale (if logprobs: the normalization and mapping to scale values).
+  F · Stochasticity and aggregation                                           
+  F.1                                              Runs & seeds               Number of runs per respondent / item / estimate; seeds where applicable; expected reproducibility of outputs under identical settings.
+  F.2                                              Aggregation rule           How multiple generations are consolidated into submitted values: mean, median, mode, first valid response, sampling one, distribution-preserving sampling. GUIDE-LLM asks for temperature; this item asks what you did with the variance — it directly shapes the distributional metrics.
+
+  : Registration form — part 2 · Conditioning, administration, and stochasticity
+
+  Item                                                                       Name                          What to report
+  -------------------------------------------------------------------------- ----------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  G · Validation & post-processing (GUIDE-LLM, extended)                                                   
+  G.1                                                                        Human validation              Whether and how any human review of model outputs was performed (often N/A for fully automated generation; note any design-phase checks on pilot outputs).
+  G.2                                                                        Post-processing               Parsing rules from raw output to response scales; handling of refusals, malformed, missing, and out-of-range responses (re-prompt / drop / clip / impute); any exclusion criteria. For approaches that generate individual responses, also report the resulting effective N per condition (counts of valid generations behind each cell — this is descriptive disclosure, not a scoring input). Refusal handling alone can move distributions substantially — report counts.
+  G.3                                                                        Calibration corrections       Any post-hoc scaling, shifting, debiasing, or calibration applied to predictions — and exactly what data it was fit on (cross-reference H and I).
+  H · Learning and conditioning components                                                                 
+  H.1                                                                        Fine-tuning data              For any fine-tuned component: the exact training corpus (with hashes or DOIs), hyperparameters, and checkpoint identifiers.
+  H.2                                                                        Context & retrieval corpora   For ICL / RAG / literature-conditioned approaches: the exact document set placed in context or indexed for retrieval, archived in the deposit. For direct-effect forecasters this corpus is the core of the method and must be fully enumerated.
+  I · Data inputs, blinding, and competing interests (GUIDE-LLM, extended)                                 
+  I.1 ★                                                                      Competing interests           Funding, in-kind compute or model access, and professional or financial relationships with entities that have an interest in LLMs — particularly relevant where teams evaluate models built by affiliated organizations.
+  I.2 †                                                                      External human data           A self-declared list of all external human datasets that informed the approach anywhere (training, fine-tuning, retrieval, in-context examples, calibration anchors) — particularly published trust-in-science or climate-communication experiments.
+  I.3 ★                                                                      Blinding attestation          Mandatory. A signed attestation that no team member accessed, solicited, or was shown any human outcome data from this study, including pilots, before the prediction lock.
+  I.4 †                                                                      Contamination note            Training cutoff of every model used, relative to the public release dates of this project's preregistrations and Zenodo deposits — which are themselves potential contamination vectors for late-cutoff models. Note any known exposure of models to the project's materials.
+  J · Internal selection procedure                                                                         
+  J.1 †                                                                      Design-space search           How the team arrived at the final pipeline: how many candidate configurations (models, prompts, hyperparameters) were tried; the internal validation criterion; and what data internal validation was run against. This is the researcher-degrees-of-freedom analog for simulation pipelines — invisible to GUIDE-LLM, but without it the benchmark partly measures luck in configuration lotteries rather than method quality.
+  K · Reproducibility & frozen artifacts (GUIDE-LLM F.1, extended)                                         
+  K.1                                                                        Code & materials              Code, notebooks, prompts, and configuration shared (link / DOI), with secrets removed; determinism and seeds documented.
+  K.2 †                                                                      Raw output logs               Complete, unprocessed model responses archived alongside the processed submission, hashed and time-stamped in the Zenodo deposit. Code is necessary but insufficient: when a hosted model is deprecated, the logs are what remains verifiable. Required for Tiers 1–2 (public or escrowed — a withheld log makes the entry Class C); for Tier 3, required where intermediate generations exist. Logs too large for a GitHub release can be a separate Zenodo upload linked here.
+  K.3                                                                        Computational resources       API-call counts, total tokens, financial cost, and compute time — a GUIDE-LLM optional item made standard here, since cost-per-fidelity is also a benchmark dimension.
+
+  : Registration form — part 3 · Post-processing, learning components, blinding, and selection
+
+Disclosure policy — proprietary approaches
+
+Some teams — companies especially — cannot or will not publicly disclose their full approach. The benchmark separates two things usually conflated: verifiability (is the registration locked, time-stamped, and auditable?) and publicity (can everyone read it?). Verifiability is non-negotiable; publicity is graded. Each item is deposited as public (in the open Zenodo record), escrowed (in a restricted-access Zenodo record that still carries a DOI, a timestamp, and public SHA-256 content hashes — so the lock is verifiable — but is readable only by the core team and up to two independent auditors under a confidentiality agreement; an embargo with a sunset date, e.g. release upon publication or after 24 months, is encouraged), or withheld (not deposited at all, permitted only for items marked neither ★ nor † in the registration form above). An entry's disclosure class follows from its most restricted item:
+
+  Class                Definition                                                                                            Consequences
+  -------------------- ----------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Class A · Open       All registration items public.                                                                        Full results-table standing; entry is independently replicable in principle; all features enter the approach catalogue and the design-choice analysis.
+  Class B · Escrowed   Some items sealed, but every item is available to the core team and auditors under confidentiality.   Full results-table standing with an escrowed badge; compliance is verified but independent replication awaits the embargo sunset; only publicly disclosed features enter the design-choice analysis (the rest coded as undisclosed).
+  Class C · Sealed     One or more permitted items withheld even from escrow.                                                Scored and reported in the results table with a sealed / not independently verifiable flag; excluded from the approach catalogue and the design-choice analysis; the manuscript reports the entry as a performance claim that the core team could not audit beyond the always-public and escrowed-minimum items.
+
+How it works in practice
+
+Nothing is escrowed automatically. You set one disclosure choice per item — public, escrowed, or (only for items marked neither ★ nor †) withheld — as you fill in the registration form, and you deposit public items in the open Zenodo record and escrowed items in the restricted one. Your entry's overall disclosure class is determined by your single most restricted item. You write it into metadata.json as disclosure_class so it is machine-readable, but it has to match your item choices. So one withheld optional item makes the whole entry Class C; keep everything at least escrowed and it is Class B; make everything public and it is Class A.
+
+Why participate at all, if you can't disclose?
+
+For commercial teams, the value runs the other way: this is an adversarially designed, preregistered, third-party benchmark on genuinely unseen human data — a substantially stronger credibility signal than any internal evaluation, available at whichever disclosure class your IP constraints allow. The results table reports performance regardless of class; the badge tells readers exactly how much of the claim was auditable.
+
+04
+
+Evaluation
+
+The human replication reference
+
+Scoring follows the preregistered analysis plan without modification. A preregistered random seed splits the human sample in half. Every submission is scored against Human 1. The agreement between Human 1 and Human 2 is the human replication reference that all synthetic approaches will be compared against. It is a reference, not a ceiling. An approach can in principle score above it.
+
+A submission is evaluated on every metric its tier supports, on all interventions and outcomes. The scored effects are between-subjects post-treatment contrast, i.e. the intervention-group mean minus the control-group mean.
+
+  Metric / comparison                                   What it asks
+  ----------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ATE recovery — increasing strictness, top to bottom   
+  Directional agreement                                 Do you get the sign of each effect right? Exact-zero predictions score half credit. The chance level to beat is the share of positive human effects (the all-positive baseline row), not a fixed 50%.
+  Spearman ρ                                            Do you rank the interventions in the human order?
+  Pearson r                                             Are your effects proportional to human effects?
+  RMSE                                                  How large is the absolute magnitude error, in percentage points of the outcome's scale range?
+  Further comparisons — wherever the tier supports it   
+  Calibration regression                                Human ATEs regressed on predicted ATEs, separating additive bias (intercept α) from proportionality (slope β); both reported with 95% CIs and read descriptively.
+  Subgroup effects                                      Recovery of condition × moderator interaction effects — whether treatment effects vary across the six demographic moderators as they do in humans, scored with the same signed-effect metrics.
+  Distributional metrics (Tier 1)                       Variance ratio, distribution overlap coefficient (OVL), Kolmogorov–Smirnov distance, and Wasserstein-1 distance — whether response shapes are reproduced, not just means; also within subgroups.
+  Demographic baseline calibration                      RMSE of subgroup means against humans in the control condition, computed per moderator, plus the gap between the worst- and best-served group (demographic parity gap).
+  Demographic predictability / stereotyping             R² from separate per-moderator regressions — whether demographics predict synthetic responses with the same strength as in humans, or whether clones over-rely on demographic cues.
+
+  : Scoring metrics and comparisons. The ATE-recovery metrics are ordered from least to most strict; the further comparisons are computed wherever the submission's tier supports them.
+
+The exact estimands, metric definitions, and the full scoring pipeline — including how each metric above is computed and reported — are specified in the benchmark preregistration. It is the single authoritative source for how submissions are evaluated.
+
+Read the full scoring methodology & analyses →
+
+05
+
+Steps
+
+Participation is by invitation. Once you accept, you build your pipeline with any AI-based approach — any models, personas, prompts, fine-tuning, retrieval, or prior literature — using the intervention texts and the full survey instrument, and constructing your own participant profiles (the benchmark ships no pool), but never any human outcome data. You then register the approach and deposit your predictions before the lock. The roadmap marks which milestones are your team's responsibility (Your task) and which are the core team's (Core team).
+
+July 2026 · Done Core team
+
+Human data collection complete
+
+All ≈18,000 human responses are collected and cleaned, then held sealed — not shared or released to anyone outside the research lead until after the prediction lock (the preregistration discloses the interim looks that have occurred).
+
+July 21, 2026 Core team
+
+Invitations & materials
+
+Invited teams receive the intervention texts, the survey instrument, the codebook, the registration template, and the validator — never a participant pool (teams build their own) and never any human outcome data.
+
+August 7, 2026 Your task
+
+Confirm intent
+
+Confirm participation by leaving your contact details in the interest form, then build your pipeline. Your tier is declared later, at registration.
+
+Participate Leave your contact details →
+
+August 31, 2026 · Hard deadline Your task
+
+Submission deadline — register & lock
+
+Complete the registration form, generate your predictions, and deposit the form, prediction files, and logs on Zenodo — public or partly escrowed under the disclosure policy, hashed and time-stamped, with the hashes emailed by the same deadline. No revisions after.
+
+Register Submission template repo →
+
+September 30, 2026 Core team
+
+Scoring & first manuscript draft
+
+Every submission runs through the locked analysis pipeline unchanged; the results table and catalogue are assembled, and a first draft is shared with all co-authoring teams.
+
+October 31, 2026 Joint
+
+Pre-print & submission
+
+The joint manuscript is posted as a pre-print and submitted for publication, with all participating teams as co-authors.
+
+Human data collection is already complete (≈18,000 responses); none of these data have been shared, published, or made accessible to any prospective team, and the data stay sealed until after the prediction lock.
+
+06
+
+Questions & contact
+
+Common questions about eligibility, tiers, blinding, and scoring are answered on the FAQ page; file-level questions are covered in the submission template's FAQ.md. If you believe your team should be on the list, or your question is not covered there, head to the contact page.
+
+Read the FAQ Go to the contact page

@@ -1,0 +1,32 @@
+Submission template
+
+Code
+
+A working repository that holds your whole modelling approach
+
+All working materials — the survey, the codebook, example submissions, the reporting checklist, and the scripts that clean and self-check a submission — live in a dedicated GitHub repository that is a submission template:
+
+github.com/janpfander/silicon-sample-submission
+
+A home for your whole pipeline, not just a drop-box
+
+Clone it (or click “Use this template”) and do your actual work inside it: your simulation code, prompts, profile construction, intermediate data — whatever your approach involves. The repository can hold as much or as little as you like. In the end we read just two things from it: your prediction data and your report (registration.md). Everything else is yours to organize. Full step-by-step instructions are in the repository’s README.
+
+It does the tedious parts for you
+
+Two pieces are why working inside the template is worth it:
+
+-   an integrated cleaning script that turns raw Qualtrics-format output into the analysis-ready schema the locked analysis expects (composites, reverse-codes, age_band, …), so you don’t have to reconstruct it by hand;
+-   a submission check that validates file structure, coverage, and value ranges before you deposit.
+
+A random-placeholder example ships with the repo, so a fresh clone already passes the check — it shows you the exact target structure to aim for.
+
+Blind what you can’t share
+
+You can keep proprietary parts of your pipeline in the repository and simply gitignore them: your work stays in one place while only what you choose becomes public. This lets you respect the disclosure policy — locked and verifiable is mandatory, public is not — without splitting your project across repositories.
+
+The submission file schemas and the human target sample (recruitment, census-based quotas, and the quota table) are specified in the benchmark preregistration.
+
+Note
+
+You build your own synthetic respondents. Generate them from any source — a public survey such as GSS/ANES/Census, fully synthetic personas, or none — and assign them to conditions yourself; declare your choice in registration items D.1 and D.3. If you want to match the human target population, the benchmark preregistration’s census-based quota table is available to sample against.

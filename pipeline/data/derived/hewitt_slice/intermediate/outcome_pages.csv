@@ -1,0 +1,388 @@
+study,outcome.name,outcome_page_varies_by_condition,outcome_text,scale_min,scale_max,scale_labels,outcome_page_full
+AnsonBRIEF60,blue_collar_positivity,False,"Would you say that in the past year, BLUE-COLLAR WORKERS have been better off, the same, or worse off?",1,5,1=Much worse; 5=Much better,"Would you say that in the past year, BLUE-COLLAR WORKERS have been better off, the same, or worse off?
+Please choose a number from 1 (Much worse) to 5 (Much better)"
+AnsonBRIEF60,economy_positivity,False,"Would you say that in the past year, the U.S. ECONOMY has gotten better, stayed the same, or gotten worse?",1,5,1=Much worse; 5=Much better,"Would you say that in the past year, the U.S. ECONOMY has gotten better, stayed the same, or gotten worse?
+Please choose a number from 1 (Much worse) to 5 (Much better)"
+Blair1131,Approve_Handling,False,To what extent do you disapprove or approve of how the U.S. President handled the situation?,1,7,1=Strongly Disapprove; 7=Strongly Approve,"To what extent do you disapprove or approve of how the U.S. President handled the situation?
+Please choose a number from 1 (Strongly Disapprove) to 7 (Strongly Approve)"
+Bougher893,warmth Candidate A,False,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate A?",0,100,0=you feel as cold and negative as possible; 100=you feel as warm and positive as possible,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate A?
+Please choose a number from 0 (you feel as cold and negative as possible) to 100 (you feel as warm and positive as possible)"
+Bougher893,warmth Candidate B,False,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate B?",0,100,0=you feel as cold and negative as possible; 100=you feel as warm and positive as possible,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate B?
+Please choose a number from 0 (you feel as cold and negative as possible) to 100 (you feel as warm and positive as possible)"
+Bougher893,warmth gop,False,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards the Republican Party?",0,100,0=you feel as cold and negative as possible; 100=you feel as warm and positive as possible,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards the Republican Party?
+Please choose a number from 0 (you feel as cold and negative as possible) to 100 (you feel as warm and positive as possible)"
+Braman751,legitimacy,False,"Finally, which of the following reflects your views about whether it would be a legitimate (or appropriate) exercise of authority for Congress to pass this legislation?",1,7,1=Clearly Not Legitimate; 7=Clearly Legitimate,"Finally, which of the following reflects your views about whether it would be a legitimate (or appropriate) exercise of authority for Congress to pass this legislation?
+Please choose a number from 1 (Clearly Not Legitimate) to 7 (Clearly Legitimate)"
+Braman751,pass_legislation,False,Do YOU agree that Congress should pass the legislation described in the article?,1,6,1=Strongly Disagree; 6=Strongly agree,"Do YOU agree that Congress should pass the legislation described in the article?
+Please choose a number from 1 (Strongly Disagree) to 6 (Strongly agree)"
+Braman751,scholar_credibility,False,Do you think that constitutional law scholars are credible experts with regard to this issue of Congressional Authority?,1,2,1=No; 2=Yes,"Do you think that constitutional law scholars are credible experts with regard to this issue of Congressional Authority?
+Please choose a number from 1 (No) to 2 (Yes)"
+CalarcoS38,Approval,False,,1,5,1=Strongly Disapprove; 5=Strongly Approve,Please choose a number from 1 (Strongly Disapprove) to 5 (Strongly Approve)
+Campbell1308,Gender Roles,False,"Please use the slider to finish the statement below using a 0-10 scale where 0 is worse, 5 is the same, and 10 is better.
+
+If we had more women in elected office, America would be…",0,10,0=worse; 10=better,"Please use the slider to finish the statement below using a 0-10 scale where 0 is worse, 5 is the same, and 10 is better.
+
+If we had more women in elected office, America would be…
+Please choose a number from 0 (worse) to 10 (better)"
+Campbell1308,Political Engagement,False,"Even if you’ve never thought about it, could you see yourself doing any of the following things in the future?
+Volunteer in my community",0,10,0=Not likely at all; 10=Very likely,"Even if you’ve never thought about it, could you see yourself doing any of the following things in the future?
+Volunteer in my community
+Please choose a number from 0 (Not likely at all) to 10 (Very likely)"
+Campbell1308,Political Responsiveness,False,"Using the slider, please rate how much you agree or disagree with the following statement 
+A.        The political system helps people with their genuine needs",0,10,0=disagree; 10=agree,"Using the slider, please rate how much you agree or disagree with the following statement 
+A.        The political system helps people with their genuine needs
+Please choose a number from 0 (disagree) to 10 (agree)"
+Cohen1099,Accounting,False,How unlikely or likely would you be to recommend accounting?,1,6,1=Very unlikely; 6=Very likely,"How unlikely or likely would you be to recommend accounting?
+Please choose a number from 1 (Very unlikely) to 6 (Very likely)"
+Cohen1099,History,False,How unlikely or likely would you be to recommend history?,1,6,1=Very unlikely; 6=Very likely,"How unlikely or likely would you be to recommend history?
+Please choose a number from 1 (Very unlikely) to 6 (Very likely)"
+Cohen1099,Nursing,False,How unlikely or likely would you be to recommend nursing?,1,6,1=Very unlikely; 6=Very likely,"How unlikely or likely would you be to recommend nursing?
+Please choose a number from 1 (Very unlikely) to 6 (Very likely)"
+Connors1226,rate_democrats,False,"How would you rate Democrats?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.",0,100,0=you don’t feel favorable toward the party and you don’t care too much for that party; 100=you feel favorable and warm toward the party,"How would you rate Democrats?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.
+Please choose a number from 0 (you don’t feel favorable toward the party and you don’t care too much for that party) to 100 (you feel favorable and warm toward the party)"
+Connors1226,rate_republicans,False,"How would you rate Republicans?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.",0,100,0=you don’t feel favorable toward the party and you don’t care too much for that party; 100=you feel favorable and warm toward the party,"How would you rate Republicans?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.
+Please choose a number from 0 (you don’t feel favorable toward the party and you don’t care too much for that party) to 100 (you feel favorable and warm toward the party)"
+Connors1226,trust_democrats,False,How much of the time do you think you can trust Democrats to do what is right for the country?,1,5,1=Almost never; 5=Almost always,"How much of the time do you think you can trust Democrats to do what is right for the country?
+Please choose a number from 1 (Almost never) to 5 (Almost always)"
+Connors1226,trust_republicans,False,How much of the time do you think you can trust Republicans to do what is right for the country?,1,5,1=Almost never; 5=Almost always,"How much of the time do you think you can trust Republicans to do what is right for the country?
+Please choose a number from 1 (Almost never) to 5 (Almost always)"
+CorstangeBRIEF69,welcome_refugees,False,"This year, the United States plans to admit 10,000 refugees.  Overall, do you think the number of refugees allowed into the United States should be increased, decreased, or kept at the current level?",1,5,1=Reduce greatly; 5=Expand greatly,"This year, the United States plans to admit 10,000 refugees.  Overall, do you think the number of refugees allowed into the United States should be increased, decreased, or kept at the current level?
+Please choose a number from 1 (Reduce greatly) to 5 (Expand greatly)"
+Craig735,Federal Funding,False,"Do you think the amount of federal funding dedicated to funding the U.S. military and defense departments should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",1,5,1=Decreased a lot; 5=Increased a lot,"Do you think the amount of federal funding dedicated to funding the U.S. military and defense departments should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?
+Please choose a number from 1 (Decreased a lot) to 5 (Increased a lot)"
+Craig735,Immigration,False,"Do you think the number of immigrants from foreign countries who are allowed to come to the U.S. to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",1,5,1=Decreased a lot; 5=Increased a lot,"Do you think the number of immigrants from foreign countries who are allowed to come to the U.S. to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?
+Please choose a number from 1 (Decreased a lot) to 5 (Increased a lot)"
+Craig735,Terrorist Interrogation,False,How do you feel about the United States using enhanced interrogation techniques to obtain information from captured terrorists?,1,7,1=Strongly oppose using enhanced interrogation; 7=Strongly support using enhanced interrogation,"How do you feel about the United States using enhanced interrogation techniques to obtain information from captured terrorists?
+Please choose a number from 1 (Strongly oppose using enhanced interrogation) to 7 (Strongly support using enhanced interrogation)"
+Enos700,modern_racism1,False,,1,5,1=Strongly Disagree; 5=Strongly Agree,Please choose a number from 1 (Strongly Disagree) to 5 (Strongly Agree)
+FaheyS78,cancel culture,False,"Generally speaking, do you agree or disagree with the following statement:
+Cancel culture is a big problem in today’s society",1,5,1=Definitely disagree that it is a problem; 5=Definitely agree that it is a problem,"Generally speaking, do you agree or disagree with the following statement:
+Cancel culture is a big problem in today’s society
+Please choose a number from 1 (Definitely disagree that it is a problem) to 5 (Definitely agree that it is a problem)"
+FarrowS6,Disappointment,False,"On a scale of 1-7, where 1 is not at all disappointed and 7 is extremely disappointed, please rate how you feel about this change below",1,7,1=Not at all disappointed; 7=Extremely disappointed,"On a scale of 1-7, where 1 is not at all disappointed and 7 is extremely disappointed, please rate how you feel about this change below
+Please choose a number from 1 (Not at all disappointed) to 7 (Extremely disappointed)"
+Haaland874,Affirmative action: Assistance,False,Do you support or oppose government and private programs that give qualified black candidates assistance in getting a job?,1,5,1=Strongly oppose; 5=Strongly support,"Do you support or oppose government and private programs that give qualified black candidates assistance in getting a job?
+Please choose a number from 1 (Strongly oppose) to 5 (Strongly support)"
+Haaland874,Affirmative action: Preference,False,Do you support or oppose government and private programs that give qualified black candidates preference over equally qualified white candidates in getting a job?,1,5,1=Strongly oppose; 5=Strongly support,"Do you support or oppose government and private programs that give qualified black candidates preference over equally qualified white candidates in getting a job?
+Please choose a number from 1 (Strongly oppose) to 5 (Strongly support)"
+Haaland874,Racial Discrimination perception,False,"In the United States today, do you think that racial discrimination against blacks in the labor market is a serious problem?",1,5,1=Not a problem at all; 5=A very serious problem,"In the United States today, do you think that racial discrimination against blacks in the labor market is a serious problem?
+Please choose a number from 1 (Not a problem at all) to 5 (A very serious problem)"
+HamiltonS31,belief_man_first,False,Would you be more inclined to believe the man or the woman?,1,2,1=Man; 2=Woman,"Would you be more inclined to believe the man or the woman?
+Please choose a number from 1 (Man) to 2 (Woman)"
+HankinsonS22,Clinic_support,False,,1,5,1=Strongly oppose; 5=Strongly support,Please choose a number from 1 (Strongly oppose) to 5 (Strongly support)
+Harbridge-Yong1032,Article_Fairness,False,How fair would you say the legislative process described in this article was?,1,7,1=Extremely unfair; 7=Extremely Fair,"How fair would you say the legislative process described in this article was?
+Please choose a number from 1 (Extremely unfair) to 7 (Extremely Fair)"
+Harbridge-Yong1032,Article_Support,False,"In the article you just read, what did you think of the bill that was proposed and passed by the majority party?",1,7,1=Strongly oppose it; 7=Strongly Support it,"In the article you just read, what did you think of the bill that was proposed and passed by the majority party?
+Please choose a number from 1 (Strongly oppose it) to 7 (Strongly Support it)"
+Harbridge-Yong1032,Confidence_congress,False,How much confidence do you have in the U.S. Congress?,1,5,1=None; 5=A great deal,"How much confidence do you have in the U.S. Congress?
+Please choose a number from 1 (None) to 5 (A great deal)"
+Howard823,Willingness_to_spend_on_optional_expense,False,"Imagine that a friend invites you to go out for a fancy dinner next week. You will each pay for your own food and drinks. How much money would you be willing to spend on dinner, including all your food, drinks, taxes, and tip?",1,11,1=$0 - $10; 11=More than $100,"Imagine that a friend invites you to go out for a fancy dinner next week. You will each pay for your own food and drinks. How much money would you be willing to spend on dinner, including all your food, drinks, taxes, and tip?
+Please choose a number from 1 ($0 - $10) to 11 (More than $100)"
+Howard823,financial_slack,False,"Using the scale below, please indicate how much spare money you expect to have in the next week, compared to an average week in your life.",1,7,1=Very little spare money; 7=A lot of spare money,"Using the scale below, please indicate how much spare money you expect to have in the next week, compared to an average week in your life.
+Please choose a number from 1 (Very little spare money) to 7 (A lot of spare money)"
+Howat1039,Feeling_Dem,False,"Now we’d like to get your feelings toward some groups. Specifically, we’d like you to rate them using a feeling thermometer. Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the group. Ratings between 0 degrees and 50 degrees mean that you don't feel favorable toward the group and that you don't care too much for that group. You would rate the group at the 50 degree mark if you don't feel particularly warm or cold toward the group.
+
+The Democratic Party",0,100,0=you don't feel favorable toward the group and that you don't care too much for that group; 100=you feel favorable and warm toward the group,"Now we’d like to get your feelings toward some groups. Specifically, we’d like you to rate them using a feeling thermometer. Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the group. Ratings between 0 degrees and 50 degrees mean that you don't feel favorable toward the group and that you don't care too much for that group. You would rate the group at the 50 degree mark if you don't feel particularly warm or cold toward the group.
+
+The Democratic Party
+Please choose a number from 0 (you don't feel favorable toward the group and that you don't care too much for that group) to 100 (you feel favorable and warm toward the group)"
+Howat1039,Feeling_DemPartySupporters,False,"Where would you place the following groups on this scale?
+
+People who support the Democratic Party",1,7,1=Extremely Liberal; 7=Extremely Conservative,"Where would you place the following groups on this scale?
+
+People who support the Democratic Party
+Please choose a number from 1 (Extremely Liberal) to 7 (Extremely Conservative)"
+Howat1039,Personal_ideology,False,"When it comes to politics, do you usually think of yourself as...",1,7,1=Extremely Liberal; 7=Extremely Conservative,"When it comes to politics, do you usually think of yourself as...
+Please choose a number from 1 (Extremely Liberal) to 7 (Extremely Conservative)"
+Iles1294,Confusing,False,"Please indicate the degree to which you agree or disagree with the following statements:
+ It is not always clear to me what foods are best for me to eat.",1,7,1=Strongly disagree; 7=Strongly agree,"Please indicate the degree to which you agree or disagree with the following statements:
+ It is not always clear to me what foods are best for me to eat.
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+Iles1294,Frustrated,False,"How much of each of the following emotions are you feeling as a result of the article you read?
+ 
+ A. Frustrated",1,5,1=Very slightly or not at all; 5=Extremely,"How much of each of the following emotions are you feeling as a result of the article you read?
+ 
+ A. Frustrated
+Please choose a number from 1 (Very slightly or not at all) to 5 (Extremely)"
+Iles1294,collaborative,False,"In your opinion, scientists or science experts are:",1,7,1=Non-collaborative; 7=Collaborative,"In your opinion, scientists or science experts are:
+Please choose a number from 1 (Non-collaborative) to 7 (Collaborative)"
+Kennedy1017,Family_approval,False,How much do you approve of this family?,1,11,1=Not at All; 11=Very much,"How much do you approve of this family?
+Please choose a number from 1 (Not at All) to 11 (Very much)"
+Kennedy1017,Family_friends,False,"If this family moved to your neighborhood, how interested would you be in being friends with them?",1,11,1=Not at all; 11=Very,"If this family moved to your neighborhood, how interested would you be in being friends with them?
+Please choose a number from 1 (Not at all) to 11 (Very)"
+Kennedy1017,Family_knowledge,False,How knowledgeable is this family?,1,11,1=Not at all; 11=Very,"How knowledgeable is this family?
+Please choose a number from 1 (Not at all) to 11 (Very)"
+KlarBRIEF70,child_marries_dem,False,,1,5,1=Very unhappy; 5=Very happy,Please choose a number from 1 (Very unhappy) to 5 (Very happy)
+KlarS44,efficacy,False,"Thinking about the issue of abortion, do you agree or disagree with the following statement: 
+ 
+ As a citizen I have the power to influence what politicians do about abortion laws in America.",1,7,1=Strongly disagree; 7=Strongly agree,"Thinking about the issue of abortion, do you agree or disagree with the following statement: 
+ 
+ As a citizen I have the power to influence what politicians do about abortion laws in America.
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+KlarS44,importance,False,"As you think about the upcoming Presidential election in 2020, how unimportant or important is the issue of abortion to you?",1,5,1=Very unimportant; 5=Very important,"As you think about the upcoming Presidential election in 2020, how unimportant or important is the issue of abortion to you?
+Please choose a number from 1 (Very unimportant) to 5 (Very important)"
+KlarS44,support_candidate,False,"In the coming year, how likely or unlikely are you to support a political campaign for a candidate, for example by volunteering, attending an event, putting up a yard-sign, or encouraging others to vote?",1,5,1=Very unlikely that I will campaign for a candidate; 5=Very likely that I will campaign for a candidate,"In the coming year, how likely or unlikely are you to support a political campaign for a candidate, for example by volunteering, attending an event, putting up a yard-sign, or encouraging others to vote?
+Please choose a number from 1 (Very unlikely that I will campaign for a candidate) to 5 (Very likely that I will campaign for a candidate)"
+Krupnikov719,abortion,False,"Please tell us whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if:
+1.        She is married and does not want any children?",1,2,1=no; 2=yes,"Please tell us whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if:
+1.        She is married and does not want any children?
+Please choose a number from 1 (no) to 2 (yes)"
+Krupnikov719,income,False,"In 2014, what was your total family income (please approximate if you are not certain)?",1,9,"1=Less than $10,000; 9=$150,000 or more","In 2014, what was your total family income (please approximate if you are not certain)?
+Please choose a number from 1 (Less than $10,000) to 9 ($150,000 or more)"
+Krupnikov719,systemic_racism,False,"Do you agree or disagree with the following statements:  
+
+Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class.",1,5,1=disagree strongly; 5=agree strongly,"Do you agree or disagree with the following statements:  
+
+Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class.
+Please choose a number from 1 (disagree strongly) to 5 (agree strongly)"
+KrupnikovS34,partisanship,False,,1,7,1=Strong Democrat; 7=Strong Republican,Please choose a number from 1 (Strong Democrat) to 7 (Strong Republican)
+KuruB67,poll_accuracy,False,"Comparing the two polls directly, which poll do you think is more accurate in representing the public support for the likely candidates in this election?",1,7,1=The first poll (KnowPolitics) is much more accurate than the second one (Public-Metrics); 7=The second poll (Public-Metrics) is much more accurate than the first one (KnowPolitics),"Comparing the two polls directly, which poll do you think is more accurate in representing the public support for the likely candidates in this election?
+Please choose a number from 1 (The first poll (KnowPolitics) is much more accurate than the second one (Public-Metrics)) to 7 (The second poll (Public-Metrics) is much more accurate than the first one (KnowPolitics))"
+KuruB67,vote_choice,False,"If the election were held tomorrow and it was between Hillary Clinton and Donald Trump, which candidate do you think would win and become the next President of the U.S.?",1,7,1=Clinton is much more likely to win; 7=Trump is much more likely to win,"If the election were held tomorrow and it was between Hillary Clinton and Donald Trump, which candidate do you think would win and become the next President of the U.S.?
+Please choose a number from 1 (Clinton is much more likely to win) to 7 (Trump is much more likely to win)"
+Levendusky741,Thermometer_dems,False,We’d like you to rate how you feel towards the Democratic Party on a scale of 0 to 100. Zero means x and 100 means very favorable. Fifty means you do not feel favorable or unfavorable.  How would you rate your feeling toward the Democratic Party?,0,100,0=very unfavorable; 100=very favorable,"We’d like you to rate how you feel towards the Democratic Party on a scale of 0 to 100. Zero means x and 100 means very favorable. Fifty means you do not feel favorable or unfavorable.  How would you rate your feeling toward the Democratic Party?
+Please choose a number from 0 (very unfavorable) to 100 (very favorable)"
+Levendusky741,social_distance,False,"In the future, if you were to discuss politics in a group with other people, what kind of group would you be most interested in joining: one with mostly Democrats, one with mostly Republicans, or one where there is an equal mix of Democrats and Republicans?",1,7,1=A group of all Democrats; 7=A group of all Republicans,"In the future, if you were to discuss politics in a group with other people, what kind of group would you be most interested in joining: one with mostly Democrats, one with mostly Republicans, or one where there is an equal mix of Democrats and Republicans?
+Please choose a number from 1 (A group of all Democrats) to 7 (A group of all Republicans)"
+McCabeS19,Attribution,False,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+If you received this type of medical bill, who would deserve the blame for your experience?
+
+<i>Rank the following, where 1= deserves the <u>most blame</u>, 2= the second most blame, 3= the third most blame, 4= the fourth most blame, 5= the<u>least</u> blame.</i> 
+A.        Republicans in government, for failing to address rising health care costs. 
+B.        Democrats in government, for failing to address rising health care costs.
+C.        A health care provider, for failing to be transparent about costs or provide affordable services.
+D.        A health insurance company, for failing to provide adequate coverage for medical care. 
+E.        You, as the consumer, for failing to save enough money or purchase adequate health insurance.
+
+What rank would you assign for the first item in the list (Republicans in government, for failing to address rising health care costs)?",1,5,1=Least blame; 5=Most blame,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+If you received this type of medical bill, who would deserve the blame for your experience?
+
+<i>Rank the following, where 1= deserves the <u>most blame</u>, 2= the second most blame, 3= the third most blame, 4= the fourth most blame, 5= the<u>least</u> blame.</i> 
+A.        Republicans in government, for failing to address rising health care costs. 
+B.        Democrats in government, for failing to address rising health care costs.
+C.        A health care provider, for failing to be transparent about costs or provide affordable services.
+D.        A health insurance company, for failing to provide adequate coverage for medical care. 
+E.        You, as the consumer, for failing to save enough money or purchase adequate health insurance.
+
+What rank would you assign for the first item in the list (Republicans in government, for failing to address rising health care costs)?
+Please choose a number from 1 (Least blame) to 5 (Most blame)"
+McCabeS19,Contact,False,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+Which of the following people would you contact about the bill? 
+
+<i>Rate each group of people on a scale from “Definitely would not contact” to “Definitely would contact.” </i>
+
+A congressman or senator's office",1,5,1=Definitely would not contact; 5=Definitely would contact,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+Which of the following people would you contact about the bill? 
+
+<i>Rate each group of people on a scale from “Definitely would not contact” to “Definitely would contact.” </i>
+
+A congressman or senator's office
+Please choose a number from 1 (Definitely would not contact) to 5 (Definitely would contact)"
+McGinty730,social_stigma,False,How willing would you be to have a person with serious mental illness marry into your family?,1,5,1=Definitely unwilling; 5=Definitely willing,"How willing would you be to have a person with serious mental illness marry into your family?
+Please choose a number from 1 (Definitely unwilling) to 5 (Definitely willing)"
+McGinty730,treatment_support,False,"Please tell us how much you favor or oppose each item below.
+
+Expanding outpatient public mental health treatment options in the community",1,5,1=strongly oppose; 5=strongly favor,"Please tell us how much you favor or oppose each item below.
+
+Expanding outpatient public mental health treatment options in the community
+Please choose a number from 1 (strongly oppose) to 5 (strongly favor)"
+McGinty730,willingness_to_pay_mentalhealthservices,False,Would you be willing to pay any additional taxes to improve the mental health service system in the United States?,1,2,1=no; 2=yes,"Would you be willing to pay any additional taxes to improve the mental health service system in the United States?
+Please choose a number from 1 (no) to 2 (yes)"
+Melin1066,Capable,False,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as capable?",1,7,1=Not at all; 7=Extremely,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as capable?
+Please choose a number from 1 (Not at all) to 7 (Extremely)"
+Melin1066,masculine,False,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as masculine?",1,7,1=Not at all; 7=Extremely,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as masculine?
+Please choose a number from 1 (Not at all) to 7 (Extremely)"
+Merolla843,foreign_policy,False,"We would now like to ask you some questions about foreign policies.
+
+Some people believe the United States should solve international problems by using diplomacy and other forms of international pressure and use military force only if absolutely necessary. Others believe diplomacy and pressure often fail and the U.S. must be ready to use military force. On a scale of 1 to 7, where a 1 indicates that we should exhaust diplomacy and a 7 indicates that we should be ready to use military force, where would you place yourself, or haven’t you thought much about this?",1,7,1=Exhaust Diplomacy; 7=Should be ready to use military force,"We would now like to ask you some questions about foreign policies.
+
+Some people believe the United States should solve international problems by using diplomacy and other forms of international pressure and use military force only if absolutely necessary. Others believe diplomacy and pressure often fail and the U.S. must be ready to use military force. On a scale of 1 to 7, where a 1 indicates that we should exhaust diplomacy and a 7 indicates that we should be ready to use military force, where would you place yourself, or haven’t you thought much about this?
+Please choose a number from 1 (Exhaust Diplomacy) to 7 (Should be ready to use military force)"
+Merolla843,hillary_clinton_leadership,False,Hillary Clinton will provide strong leadership for the nation.,1,7,1=strongly disagree; 7=strongly agree,"Hillary Clinton will provide strong leadership for the nation.
+Please choose a number from 1 (strongly disagree) to 7 (strongly agree)"
+Merolla843,trump_leadership,False,Donald Trump will provide strong leadership for the nation.,1,7,1=strongly disagree; 7=strongly agree,"Donald Trump will provide strong leadership for the nation.
+Please choose a number from 1 (strongly disagree) to 7 (strongly agree)"
+Mezzapelle1439,BELIEVABLE,False,"Based on the information I read in the incident report, I believe that Michelle’s claim is believable.",1,7,1=Strongly disagree; 7=Strongly agree,"Based on the information I read in the incident report, I believe that Michelle’s claim is believable.
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+Mezzapelle1439,COMPENSATION,False,"If Michelle sought financial compensation through litigation for the harassment she reported, I would be likely to find in favor of Michelle.",1,7,1=Strongly disagree; 7=Strongly agree,"If Michelle sought financial compensation through litigation for the harassment she reported, I would be likely to find in favor of Michelle.
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+Mezzapelle1439,PERCEIVED HARM,False,I believe that this experience has caused Michelle harm.,1,7,1=Strongly disagree; 7=Strongly agree,"I believe that this experience has caused Michelle harm.
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+MunschS68,Morgan_Committed,False,,1,7,1=not at all committed; 7=extremely committed,Please choose a number from 1 (not at all committed) to 7 (extremely committed)
+Rifkin1073,Stressed,False,I feel stressed,1,7,1=Strongly Disagree; 7=Strongly Agree,"I feel stressed
+Please choose a number from 1 (Strongly Disagree) to 7 (Strongly Agree)"
+RyanS14,rumor true - laundered money,False,,1,5,1=This event definitely did not occur; 5=This event definitely occurred,Please choose a number from 1 (This event definitely did not occur) to 5 (This event definitely occurred)
+SchaadS62,still_identify,False,,1,7,1=Extremely unlikely; 7=Extremely likely,Please choose a number from 1 (Extremely unlikely) to 7 (Extremely likely)
+Schnabel903,Feminine,False,Feminine,1,7,1=1; 7=7,"Feminine
+Please choose a number from 1 (1) to 7 (7)"
+Schnabel903,Masculine,False,Masculine,1,7,1=1; 7=7,"Masculine
+Please choose a number from 1 (1) to 7 (7)"
+ShannonS2,tax credit effective,False,,1,5,1=Strongly disagree; 5=Strongly agree,Please choose a number from 1 (Strongly disagree) to 5 (Strongly agree)
+ShannonS28,immigrant intake,False,Do you think the number of immigrants to America should be....,1,5,1=Reduced a lot; 5=Increased a lot,"Do you think the number of immigrants to America should be....
+Please choose a number from 1 (Reduced a lot) to 5 (Increased a lot)"
+Silverman1035,Americans_Killed,False,About how many Americans are killed each year by terrorism on U.S. soil?,1,3,"1=87; 3=87,000","About how many Americans are killed each year by terrorism on U.S. soil?
+Please choose a number from 1 (87) to 3 (87,000)"
+Silverman1035,Terrorism_likely,False,How likely do you think it is that another terrorist attack causing large numbers of American lives to be lost will happen in the near future?,1,4,1=Not likely at all; 4=Very likely,"How likely do you think it is that another terrorist attack causing large numbers of American lives to be lost will happen in the near future?
+Please choose a number from 1 (Not likely at all) to 4 (Very likely)"
+Silverman1035,Terrorism_worry,False,How worried are you that you will become a victim of terrorism?,1,4,1=Not worried at all; 4=Very worried,"How worried are you that you will become a victim of terrorism?
+Please choose a number from 1 (Not worried at all) to 4 (Very worried)"
+Stoker1063,Anger,False,How angry does this situation make you?,1,7,1=Not angry; 7=Extremely angry,"How angry does this situation make you?
+Please choose a number from 1 (Not angry) to 7 (Extremely angry)"
+Stoker1063,Serious,False,"In your opinion, how serious of a problem is this situation?",1,7,1=Not serious; 7=Extremely serious,"In your opinion, how serious of a problem is this situation?
+Please choose a number from 1 (Not serious) to 7 (Extremely serious)"
+Stoker1063,Worry,False,How worried are you about this problem?,1,7,1=Not worried; 7=Extremely worried,"How worried are you about this problem?
+Please choose a number from 1 (Not worried) to 7 (Extremely worried)"
+Terman1029,donating to HRAC,False,"Are you willing to donate $1 to the Human Rights Action Committee to support their campaign to push for criminal justice reforms in the US? If you select 'Yes', a link to the donation page will appear at the end of this survey.",1,2,1=No; 2=Yes,"Are you willing to donate $1 to the Human Rights Action Committee to support their campaign to push for criminal justice reforms in the US? If you select 'Yes', a link to the donation page will appear at the end of this survey.
+Please choose a number from 1 (No) to 2 (Yes)"
+Terman1029,naitonalist superiority,False,"Please read the following statements and indicate your level of agreement or disagreement: 
+The world would be a better place if other countries were more like the United States.",1,5,1=Strongly Disagree; 5=Strongly Agree,"Please read the following statements and indicate your level of agreement or disagreement: 
+The world would be a better place if other countries were more like the United States.
+Please choose a number from 1 (Strongly Disagree) to 5 (Strongly Agree)"
+Terman1029,perception of domestic human rights conditions,False,"Please read the following statements and indicate your level of agreement or disagreement:
+The United States government needs to take concrete steps to reform the criminal justice system to ensure detainees’ human rights are protected.",1,5,1=Strongly Disagree; 5=Strongly Agree,"Please read the following statements and indicate your level of agreement or disagreement:
+The United States government needs to take concrete steps to reform the criminal justice system to ensure detainees’ human rights are protected.
+Please choose a number from 1 (Strongly Disagree) to 5 (Strongly Agree)"
+ThorsonS42,Facebook,False,"How much do you trust news from the following sources?
+
+Facebook",1,5,1=1 - Not at all; 5=5 - A great deal,"How much do you trust news from the following sources?
+
+Facebook
+Please choose a number from 1 (1 - Not at all) to 5 (5 - A great deal)"
+ThorsonS42,Local Newspapers,False,"How much do you trust news from the following sources?
+
+Local newspapers",1,5,1=1 - Not at all; 5=5 - A great deal,"How much do you trust news from the following sources?
+
+Local newspapers
+Please choose a number from 1 (1 - Not at all) to 5 (5 - A great deal)"
+ThorsonS42,National newspapers,False,"How much do you trust news from the following sources?
+
+National newspapers",1,5,1=1 - Not at all; 5=5 - A great deal,"How much do you trust news from the following sources?
+
+National newspapers
+Please choose a number from 1 (1 - Not at all) to 5 (5 - A great deal)"
+WallaceS9,credibility,False,How likely do you think other countries would believe threats and promises made by the president in the future?,1,7,1=Very unlikely; 7=Very likely,"How likely do you think other countries would believe threats and promises made by the president in the future?
+Please choose a number from 1 (Very unlikely) to 7 (Very likely)"
+WallaceS9,president_approval,False,"Do you approve, disapprove, or neither approve nor disapprove of the way the U.S. president handled the situation?",1,7,1=Strongly disapprove; 7=Strongly approve,"Do you approve, disapprove, or neither approve nor disapprove of the way the U.S. president handled the situation?
+Please choose a number from 1 (Strongly disapprove) to 7 (Strongly approve)"
+Williamson859,Food stamps,False,"Should federal spending on the following be increased, decreased, or kept about the same?
+Food stamps",1,3,1=Kept about the same; 3=Increased,"Should federal spending on the following be increased, decreased, or kept about the same?
+Food stamps
+Please choose a number from 1 (Kept about the same) to 3 (Increased)"
+Williamson859,Military,False,"Should federal spending on the following be increased, decreased, or kept about the same?
+Military",1,3,1=Kept about the same; 3=Increased,"Should federal spending on the following be increased, decreased, or kept about the same?
+Military
+Please choose a number from 1 (Kept about the same) to 3 (Increased)"
+Williamson859,Social Security,False,"Should federal spending on the following be increased, decreased, or kept about the same?
+Social Security",1,3,1=Kept about the same; 3=Increased,"Should federal spending on the following be increased, decreased, or kept about the same?
+Social Security
+Please choose a number from 1 (Kept about the same) to 3 (Increased)"
+berganS20,support,False,"Please indicate to what extent you agree with the following statements about the Independent Payment Advisory Board, the proposed commission that would limit federal spending on health care by paying only for procedures that have demonstrated medical value. 
+I support establishing the Independent Payment Advisory Board",1,7,1=Disagree strongly; 7=Agree strongly,"Please indicate to what extent you agree with the following statements about the Independent Payment Advisory Board, the proposed commission that would limit federal spending on health care by paying only for procedures that have demonstrated medical value. 
+I support establishing the Independent Payment Advisory Board
+Please choose a number from 1 (Disagree strongly) to 7 (Agree strongly)"
+bolsenM6,Providing Personal Pronouns,False,How unwilling or willing are you to state your own pronouns to people you meet for the first time?,1,7,1=Extremely unwilling; 7=Extremely willing,"How unwilling or willing are you to state your own pronouns to people you meet for the first time?
+Please choose a number from 1 (Extremely unwilling) to 7 (Extremely willing)"
+bolsenM6,They/Them Pronouns in Forms,False,"To what extent do you disagree or agree with the following statement: “When a form or online profile asks about a person's gender, it should include they/them options for transgender or gender non-conforming individuals”?",1,7,1=Strongly disagree; 7=Strongly agree,"To what extent do you disagree or agree with the following statement: “When a form or online profile asks about a person's gender, it should include they/them options for transgender or gender non-conforming individuals”?
+Please choose a number from 1 (Strongly disagree) to 7 (Strongly agree)"
+bolsenM6,Using They/Them Pronouns,False,How uncomfortable or comfortable would you feel using they/them pronouns to refer to transgender or gender non-conforming persons?,1,7,1=Extremely uncomfortable; 7=Extremely comfortable,"How uncomfortable or comfortable would you feel using they/them pronouns to refer to transgender or gender non-conforming persons?
+Please choose a number from 1 (Extremely uncomfortable) to 7 (Extremely comfortable)"
+brandtS1,coppock_dv_name,False,How much control did these people have over getting into their current financial situation?,1,7,1=No control; 7=Complete control,"How much control did these people have over getting into their current financial situation?
+Please choose a number from 1 (No control) to 7 (Complete control)"
+bucci1408,Caught,False,What is the percent chance (or chances out of 100) that you would get caught by the police if you drove home?,0,100,0=0%; 100=100%,"What is the percent chance (or chances out of 100) that you would get caught by the police if you drove home?
+Please choose a number from 0 (0%) to 100 (100%)"
+bucci1408,Respect,False,How likely is it that you would lose respect from your family and friends if they found out that you drove home?,1,5,1=Extremely unlikely; 5=Extremely likely,"How likely is it that you would lose respect from your family and friends if they found out that you drove home?
+Please choose a number from 1 (Extremely unlikely) to 5 (Extremely likely)"
+bucci1408,Rewarding,False,"How rewarding on a scale of 0-100, with 100 being the most rewarding, would it be if you drove home?",0,100,0=least rewarding; 100=most rewarding,"How rewarding on a scale of 0-100, with 100 being the most rewarding, would it be if you drove home?
+Please choose a number from 0 (least rewarding) to 100 (most rewarding)"
+caprarielloS2,coppock_dv_name,False,Think about when you engaged in your activity. How happy does it make you right now?,1,5,1=Neutral (or slightly unhappy); 5=Exceptionally happy,"Think about when you engaged in your activity. How happy does it make you right now?
+Please choose a number from 1 (Neutral (or slightly unhappy)) to 5 (Exceptionally happy)"
+converseS16,coppock_dv_name,False,Please indicate your personal opinion about abortion.,1,7,1=Completely pro-choice; 7=Completely pro-life,"Please indicate your personal opinion about abortion.
+Please choose a number from 1 (Completely pro-choice) to 7 (Completely pro-life)"
+death_penalty,Favor Death Penalty,False,Do you favor or oppose the death penalty for persons convicted of murder?,1,4,1=Strongly Oppose; 4=Strongly Favor,"Do you favor or oppose the death penalty for persons convicted of murder?
+Please choose a number from 1 (Strongly Oppose) to 4 (Strongly Favor)"
+dennyS17,hardworking,False,,1,5,1=Not at all hardworking; 5=Extremely hardworking,Please choose a number from 1 (Not at all hardworking) to 5 (Extremely hardworking)
+flavinS4,coppock_dv_name,False,"How about you, do you strongly support, somewhat support, neither support nor oppose, somewhat oppose, or strongly oppose promoting political equality?",1,5,1=Strongly support; 5=Strongly oppose,"How about you, do you strongly support, somewhat support, neither support nor oppose, somewhat oppose, or strongly oppose promoting political equality?
+Please choose a number from 1 (Strongly support) to 5 (Strongly oppose)"
+gashS5,coppock_dv_name,False,,1,4,1=Strongly agree; 4=Strongly disagree,Please choose a number from 1 (Strongly agree) to 4 (Strongly disagree)
+immigration,Support for Immigration,False,"Do you think the number of immigrants from foreign countries who are permitted to come to the United States to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",1,5,1=Decreased a lot; 5=Increased a lot,"Do you think the number of immigrants from foreign countries who are permitted to come to the United States to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?
+Please choose a number from 1 (Decreased a lot) to 5 (Increased a lot)"
+jacobsenS7,coppock_dv_name,False,"Satisfaction means many things. Overall, how SATISFIED are you with Oak School based on these data?",1,7,1=Very dissatisfied; 7=Very satisfied,"Satisfaction means many things. Overall, how SATISFIED are you with Oak School based on these data?
+Please choose a number from 1 (Very dissatisfied) to 7 (Very satisfied)"
+melloS6,coppock_dv_name,False,How likely would you be to seek legal advice about suing Dr. S?,1,4,1=Very unlikely; 4=Very likely,"How likely would you be to seek legal advice about suing Dr. S?
+Please choose a number from 1 (Very unlikely) to 4 (Very likely)"
+parmerS15,coppock_dv_name,False,"The smallpox outbreak scenario you just read is fictional.  However, it is important that you consider what your actual responses and behavior would be in such a scenario. For the following items, please base your responses according to the scenario you just read.
+
+If you had to make a decision now, would you get the recommended smallpox vaccine?",0,1,0=No; 1=Yes,"The smallpox outbreak scenario you just read is fictional.  However, it is important that you consider what your actual responses and behavior would be in such a scenario. For the following items, please base your responses according to the scenario you just read.
+
+If you had to make a decision now, would you get the recommended smallpox vaccine?
+Please choose a number from 0 (No) to 1 (Yes)"
+patriot_act,Patriot Act Support,False,Do you oppose or support the Patriot Act?,1,7,1=Oppose very strongly; 7=Support very strongly,"Do you oppose or support the Patriot Act?
+Please choose a number from 1 (Oppose very strongly) to 7 (Support very strongly)"
+pedullaS18,hiring recommendation,False,Would you recommend hiring this applicant for the position?,0,1,0=no; 1=yes,"Would you recommend hiring this applicant for the position?
+Please choose a number from 0 (no) to 1 (yes)"
+piazzaS8,coppock_dv_name,False,"Please tell us if you would support or oppose each of these items as a method of getting information from a suspect in the case described earlier:
+Applying electric shocks to the suspect.",1,5,1=strongly support; 5=strongly oppose,"Please tell us if you would support or oppose each of these items as a method of getting information from a suspect in the case described earlier:
+Applying electric shocks to the suspect.
+Please choose a number from 1 (strongly support) to 5 (strongly oppose)"
+relihan1399,COVID-19,False,"How serious of a threat do you find each of the following?
+
+SARS-CoV-2 (COVID-19)",0,4,0=Not at all; 4=A great deal,"How serious of a threat do you find each of the following?
+
+SARS-CoV-2 (COVID-19)
+Please choose a number from 0 (Not at all) to 4 (A great deal)"
+relihan1399,Influenza,False,"How serious of a threat do you find each of the following?
+
+Influenza (seasonal flu)",0,4,0=Not at all; 4=A great deal,"How serious of a threat do you find each of the following?
+
+Influenza (seasonal flu)
+Please choose a number from 0 (Not at all) to 4 (A great deal)"
+relihan1399,Perinia Accetis superbacteria,False,"How serious of a threat do you find each of the following?
+
+Perinia Accetis superbacteria",0,4,0=Not at all; 4=A great deal,"How serious of a threat do you find each of the following?
+
+Perinia Accetis superbacteria
+Please choose a number from 0 (Not at all) to 4 (A great deal)"
+senS81,ideal_gender_male,False,"In your opinion, what would be the ideal composition of the U.S. House of Representatives in terms of gender? 
+Percentages must add to 100.
+A. Male",0,100,0=0%; 100=100%,"In your opinion, what would be the ideal composition of the U.S. House of Representatives in terms of gender? 
+Percentages must add to 100.
+A. Male
+Please choose a number from 0 (0%) to 100 (100%)"
+shaferS9,coppock_dv_name,False,Please rate how committed you think Carol is as an employee.,1,5,1=Extremely committed; 5=Not at all committed,"Please rate how committed you think Carol is as an employee.
+Please choose a number from 1 (Extremely committed) to 5 (Not at all committed)"
+system_threat,Way of Life,False,Please indicate how much you agree or disagree with the following statement: The American way of life is seriously threatened.,1,5,1=Strongly Disagree; 5=Strongly Agree,"Please indicate how much you agree or disagree with the following statement: The American way of life is seriously threatened.
+Please choose a number from 1 (Strongly Disagree) to 5 (Strongly Agree)"
+thompsonS10,coppock_dv_name,False,"To what extent do these statement describe your thoughts about terrorist attacks?
+I am concerned about terrorist attacks.",1,7,1=Not at all; 7=Very much,"To what extent do these statement describe your thoughts about terrorist attacks?
+I am concerned about terrorist attacks.
+Please choose a number from 1 (Not at all) to 7 (Very much)"
+turagaS11,coppock_dv_name,False,"Given this information and the information on the previous screen, how unwilling or willing are you to engage in the following activities?
+Write a letter to your local newspaper supporting stronger mercury control policies.",1,5,1=Very unwilling; 5=Very willing,"Given this information and the information on the previous screen, how unwilling or willing are you to engage in the following activities?
+Write a letter to your local newspaper supporting stronger mercury control policies.
+Please choose a number from 1 (Very unwilling) to 5 (Very willing)"
+wallaceS12,coppock_dv_name,False,The United States is currently thinking about signing an agreement with this country that would involve cooperation over military issues. Would you support or oppose the United States signing a military agreement with this country?,1,5,1=Strongly support; 5=Strongly oppose,"The United States is currently thinking about signing an agreement with this country that would involve cooperation over military issues. Would you support or oppose the United States signing a military agreement with this country?
+Please choose a number from 1 (Strongly support) to 5 (Strongly oppose)"
+wayne841,CandidateSupportBC,False,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates,please say so.
+Bernie Sanders",1,7,1=Strongly oppose; 7=Strongly support,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates,please say so.
+Bernie Sanders
+Please choose a number from 1 (Strongly oppose) to 7 (Strongly support)"
+wayne841,CandidateSupportDT,False,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Donald Trump",1,7,1=Strongly oppose; 7=Strongly support,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Donald Trump
+Please choose a number from 1 (Strongly oppose) to 7 (Strongly support)"
+wayne841,CandidateSupportHC,False,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Hillary Clinton",1,7,1=Strongly oppose; 7=Strongly support,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Hillary Clinton
+Please choose a number from 1 (Strongly oppose) to 7 (Strongly support)"

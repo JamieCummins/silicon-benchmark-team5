@@ -1,0 +1,89 @@
+sample,intervention,outcome,outcome_scale,ate_vs_control,se_welch,n_treat,n_control,mean_treat,sd_treat,mean_control,sd_control
+US,BindingMoral,belief,0-100; mean of 4 belief sliders,5.79996,1.62384,709,668,72.25917,28.19625,66.45921,31.81768
+US,BindingMoral,policy,0-100; mean of 9 policy-support sliders,3.54478,1.31513,704,662,66.06113,23.84601,62.51635,24.70358
+US,BindingMoral,share,0/1; shared climate info on social media,0.05541,0.03037,549,518,0.59016,0.49225,0.53475,0.49927
+US,BindingMoral,wept,0-8; WEPT pages completed,0.07005,0.18670,711,669,5.12236,3.44051,5.05232,3.49018
+US,CollectAction,belief,0-100; mean of 4 belief sliders,6.67999,1.62848,713,668,73.13920,28.46538,66.45921,31.81768
+US,CollectAction,policy,0-100; mean of 9 policy-support sliders,5.18749,1.30633,706,662,67.70384,23.53639,62.51635,24.70358
+US,CollectAction,share,0/1; shared climate info on social media,0.08855,0.03063,515,518,0.62330,0.48503,0.53475,0.49927
+US,CollectAction,wept,0-8; WEPT pages completed,-0.55932,0.18930,714,669,4.49300,3.54741,5.05232,3.49018
+US,DynamicNorm,belief,0-100; mean of 4 belief sliders,2.23174,1.68072,731,668,68.69095,30.93714,66.45921,31.81768
+US,DynamicNorm,policy,0-100; mean of 9 policy-support sliders,2.64188,1.31846,724,662,65.15823,24.31327,62.51635,24.70358
+US,DynamicNorm,share,0/1; shared climate info on social media,0.06336,0.03059,530,518,0.59811,0.49074,0.53475,0.49927
+US,DynamicNorm,wept,0-8; WEPT pages completed,0.15068,0.18513,734,669,5.20300,3.43379,5.05232,3.49018
+US,FutureSelfCont,belief,0-100; mean of 4 belief sliders,3.96493,1.75938,591,668,70.42414,30.55700,66.45921,31.81768
+US,FutureSelfCont,policy,0-100; mean of 9 policy-support sliders,4.20668,1.39519,584,662,66.72303,24.46267,62.51635,24.70358
+US,FutureSelfCont,share,0/1; shared climate info on social media,0.06206,0.03210,439,518,0.59681,0.49110,0.53475,0.49927
+US,FutureSelfCont,wept,0-8; WEPT pages completed,-0.21645,0.19778,591,669,4.83587,3.51536,5.05232,3.49018
+US,LetterFutureGen,belief,0-100; mean of 4 belief sliders,4.71641,1.76361,531,668,71.17561,29.10057,66.45921,31.81768
+US,LetterFutureGen,policy,0-100; mean of 9 policy-support sliders,6.22421,1.41417,529,662,68.74056,23.88029,62.51635,24.70358
+US,LetterFutureGen,share,0/1; shared climate info on social media,0.10318,0.03243,406,518,0.63793,0.48119,0.53475,0.49927
+US,LetterFutureGen,wept,0-8; WEPT pages completed,-0.52048,0.20376,534,669,4.53184,3.52822,5.05232,3.49018
+US,NegativeEmotions,belief,0-100; mean of 4 belief sliders,3.35859,1.66246,724,668,69.81779,30.06203,66.45921,31.81768
+US,NegativeEmotions,policy,0-100; mean of 9 policy-support sliders,1.26735,1.33496,716,662,63.78370,24.81845,62.51635,24.70358
+US,NegativeEmotions,share,0/1; shared climate info on social media,0.09481,0.03049,521,518,0.62956,0.48339,0.53475,0.49927
+US,NegativeEmotions,wept,0-8; WEPT pages completed,-0.68455,0.19001,726,669,4.36777,3.60437,5.05232,3.49018
+US,PluralIgnorance,belief,0-100; mean of 4 belief sliders,3.38784,1.63491,723,668,69.84705,28.92752,66.45921,31.81768
+US,PluralIgnorance,policy,0-100; mean of 9 policy-support sliders,1.32791,1.29576,722,662,63.84426,23.38059,62.51635,24.70358
+US,PluralIgnorance,share,0/1; shared climate info on social media,0.05349,0.03045,544,518,0.58824,0.49261,0.53475,0.49927
+US,PluralIgnorance,wept,0-8; WEPT pages completed,-0.19577,0.18775,725,669,4.85655,3.51498,5.05232,3.49018
+US,PsychDistance,belief,0-100; mean of 4 belief sliders,7.37788,1.66137,689,668,73.83708,29.28401,66.45921,31.81768
+US,PsychDistance,policy,0-100; mean of 9 policy-support sliders,3.80828,1.35213,683,662,66.32463,24.88108,62.51635,24.70358
+US,PsychDistance,share,0/1; shared climate info on social media,0.10285,0.03049,516,518,0.63760,0.48116,0.53475,0.49927
+US,PsychDistance,wept,0-8; WEPT pages completed,-0.60419,0.18946,694,669,4.44813,3.50338,5.05232,3.49018
+US,SciConsens,belief,0-100; mean of 4 belief sliders,4.35669,1.64746,717,668,70.81590,29.31558,66.45921,31.81768
+US,SciConsens,policy,0-100; mean of 9 policy-support sliders,2.99821,1.29344,714,662,65.51456,23.15854,62.51635,24.70358
+US,SciConsens,share,0/1; shared climate info on social media,0.07175,0.03021,554,518,0.60650,0.48897,0.53475,0.49927
+US,SciConsens,wept,0-8; WEPT pages completed,-0.01077,0.18695,722,669,5.04155,3.47664,5.05232,3.49018
+US,SystemJust,belief,0-100; mean of 4 belief sliders,5.62124,1.64665,721,668,72.08044,29.36445,66.45921,31.81768
+US,SystemJust,policy,0-100; mean of 9 policy-support sliders,3.12337,1.32416,713,662,65.63971,24.34958,62.51635,24.70358
+US,SystemJust,share,0/1; shared climate info on social media,0.08121,0.03035,539,518,0.61596,0.48682,0.53475,0.49927
+US,SystemJust,wept,0-8; WEPT pages completed,-0.21392,0.18825,724,669,4.83840,3.53174,5.05232,3.49018
+US,WorkTogetherNorm,belief,0-100; mean of 4 belief sliders,2.46498,1.65509,709,668,68.92419,29.45627,66.45921,31.81768
+US,WorkTogetherNorm,policy,0-100; mean of 9 policy-support sliders,1.81571,1.31421,699,662,64.33206,23.72543,62.51635,24.70358
+US,WorkTogetherNorm,share,0/1; shared climate info on social media,0.07003,0.03035,544,518,0.60478,0.48935,0.53475,0.49927
+US,WorkTogetherNorm,wept,0-8; WEPT pages completed,-0.47122,0.18929,709,669,4.58110,3.53485,5.05232,3.49018
+ALL,BindingMoral,belief,0-100; mean of 4 belief sliders,1.14143,0.47728,5081,5079,78.87202,23.53765,77.73059,24.55995
+ALL,BindingMoral,policy,0-100; mean of 9 policy-support sliders,0.81140,0.38950,5041,5045,69.70609,19.41100,68.89469,19.70561
+ALL,BindingMoral,share,0/1; shared climate info on social media,0.04273,0.01133,3873,3905,0.52750,0.49931,0.48476,0.49983
+ALL,BindingMoral,wept,0-8; WEPT pages completed,0.07292,0.06770,5088,5085,5.07154,3.40376,4.99862,3.42484
+ALL,CollectAction,belief,0-100; mean of 4 belief sliders,2.15246,0.47581,5148,5079,79.88305,23.53959,77.73059,24.55995
+ALL,CollectAction,policy,0-100; mean of 9 policy-support sliders,2.88004,0.39044,5096,5045,71.77473,19.61129,68.89469,19.70561
+ALL,CollectAction,share,0/1; shared climate info on social media,0.09008,0.01139,3721,3905,0.57485,0.49443,0.48476,0.49983
+ALL,CollectAction,wept,0-8; WEPT pages completed,-0.16978,0.06799,5159,5085,4.82884,3.45687,4.99862,3.42484
+ALL,DynamicNorm,belief,0-100; mean of 4 belief sliders,0.71099,0.48378,5158,5079,78.44158,24.38505,77.73059,24.55995
+ALL,DynamicNorm,policy,0-100; mean of 9 policy-support sliders,1.20176,0.38967,5120,5045,70.09645,19.57893,68.89469,19.70561
+ALL,DynamicNorm,share,0/1; shared climate info on social media,0.06539,0.01136,3808,3905,0.55016,0.49754,0.48476,0.49983
+ALL,DynamicNorm,wept,0-8; WEPT pages completed,0.03060,0.06749,5167,5085,5.02922,3.40880,4.99862,3.42484
+ALL,FutureSelfCont,belief,0-100; mean of 4 belief sliders,1.92668,0.51095,4187,5079,79.65727,24.41023,77.73059,24.55995
+ALL,FutureSelfCont,policy,0-100; mean of 9 policy-support sliders,2.17716,0.41610,4155,5045,71.07185,19.98923,68.89469,19.70561
+ALL,FutureSelfCont,share,0/1; shared climate info on social media,0.07794,0.01198,3094,3905,0.56270,0.49613,0.48476,0.49983
+ALL,FutureSelfCont,wept,0-8; WEPT pages completed,-0.15647,0.07186,4194,5085,4.84216,3.46126,4.99862,3.42484
+ALL,LetterFutureGen,belief,0-100; mean of 4 belief sliders,2.15060,0.50865,4014,5079,79.88119,23.70283,77.73059,24.55995
+ALL,LetterFutureGen,policy,0-100; mean of 9 policy-support sliders,3.02747,0.41349,3981,5045,71.92216,19.34539,68.89469,19.70561
+ALL,LetterFutureGen,share,0/1; shared climate info on social media,0.10081,0.01211,2939,3905,0.58557,0.49271,0.48476,0.49983
+ALL,LetterFutureGen,wept,0-8; WEPT pages completed,-0.34348,0.07285,4022,5085,4.65515,3.47388,4.99862,3.42484
+ALL,NegativeEmotions,belief,0-100; mean of 4 belief sliders,0.63586,0.48991,5156,5079,78.36645,25.00365,77.73059,24.55995
+ALL,NegativeEmotions,policy,0-100; mean of 9 policy-support sliders,-0.30898,0.40136,5126,5045,68.58571,20.76535,68.89469,19.70561
+ALL,NegativeEmotions,share,0/1; shared climate info on social media,0.10606,0.01140,3661,3905,0.59082,0.49175,0.48476,0.49983
+ALL,NegativeEmotions,wept,0-8; WEPT pages completed,-0.50366,0.06831,5162,5085,4.49496,3.48986,4.99862,3.42484
+ALL,PluralIgnorance,belief,0-100; mean of 4 belief sliders,0.71008,0.47184,5165,5079,78.44067,23.16238,77.73059,24.55995
+ALL,PluralIgnorance,policy,0-100; mean of 9 policy-support sliders,0.27551,0.38118,5145,5045,69.17020,18.74917,68.89469,19.70561
+ALL,PluralIgnorance,share,0/1; shared climate info on social media,0.01343,0.01134,3864,3905,0.49819,0.50006,0.48476,0.49983
+ALL,PluralIgnorance,wept,0-8; WEPT pages completed,-0.10191,0.06791,5170,5085,4.89671,3.45243,4.99862,3.42484
+ALL,PsychDistance,belief,0-100; mean of 4 belief sliders,3.07226,0.48681,4716,5079,80.80285,23.61235,77.73059,24.55995
+ALL,PsychDistance,policy,0-100; mean of 9 policy-support sliders,1.08786,0.40133,4687,5045,69.98255,19.85344,68.89469,19.70561
+ALL,PsychDistance,share,0/1; shared climate info on social media,0.07741,0.01168,3394,3905,0.56217,0.49619,0.48476,0.49983
+ALL,PsychDistance,wept,0-8; WEPT pages completed,-0.43752,0.06987,4730,5085,4.56110,3.48967,4.99862,3.42484
+ALL,SciConsens,belief,0-100; mean of 4 belief sliders,1.22376,0.47713,5276,5079,78.95435,23.96930,77.73059,24.55995
+ALL,SciConsens,policy,0-100; mean of 9 policy-support sliders,0.82397,0.38411,5239,5045,69.71866,19.22861,68.89469,19.70561
+ALL,SciConsens,share,0/1; shared climate info on social media,0.03881,0.01126,3967,3905,0.52357,0.49951,0.48476,0.49983
+ALL,SciConsens,wept,0-8; WEPT pages completed,0.05000,0.06708,5286,5085,5.04862,3.40472,4.99862,3.42484
+ALL,SystemJust,belief,0-100; mean of 4 belief sliders,1.72949,0.47631,5164,5079,79.46008,23.62775,77.73059,24.55995
+ALL,SystemJust,policy,0-100; mean of 9 policy-support sliders,0.95000,0.38952,5131,5045,69.84469,19.58552,68.89469,19.70561
+ALL,SystemJust,share,0/1; shared climate info on social media,0.05462,0.01136,3821,3905,0.53939,0.49851,0.48476,0.49983
+ALL,SystemJust,wept,0-8; WEPT pages completed,-0.06454,0.06768,5173,5085,4.93408,3.42945,4.99862,3.42484
+ALL,WorkTogetherNorm,belief,0-100; mean of 4 belief sliders,-0.64256,0.48816,5149,5079,77.08803,24.80904,77.73059,24.55995
+ALL,WorkTogetherNorm,policy,0-100; mean of 9 policy-support sliders,-0.05055,0.39295,5113,5045,68.84414,19.89807,68.89469,19.70561
+ALL,WorkTogetherNorm,share,0/1; shared climate info on social media,0.05376,0.01126,3959,3905,0.53852,0.49858,0.48476,0.49983
+ALL,WorkTogetherNorm,wept,0-8; WEPT pages completed,-0.41057,0.06830,5156,5085,4.58805,3.48701,4.99862,3.42484

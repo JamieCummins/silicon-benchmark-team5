@@ -1,0 +1,47 @@
+# ============================================================
+# What stays VISIBLE when this repo is pushed as the public
+# code repository (referenced in each submission's metadata):
+#   README.md, pipeline/ (code, prompts, build spec, uv.lock),
+#   pipeline/data/derived/ (small derived calibration targets +
+#   retrodiction slice, with extraction scripts), the whitelisted
+#   retrodiction provenance files under data/raw/, reference/
+#   (outcome priors + pre-analysis notes, cited in registration).
+# Everything else is ignored below.
+# ============================================================
+
+# --- secrets: never commit ---
+.env
+*.env
+
+# --- OS / editor / python noise ---
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# --- internal working notes (not part of the public submission record) ---
+STRATEGY.md
+DEPOSIT_CHECKLIST.md
+
+# --- signed declaration (goes in the deposit email, not a public repo) ---
+declaration/
+
+# --- the organizers' template copy and the per-entry submission repos
+#     (each submission is its own repository + Zenodo deposit) ---
+template/
+submissions/
+
+# --- elicitation runs & logs (the raw logs backing each entry are already
+#     deposited inside that entry's repo under raw_data_deposit/) ---
+pipeline/runs/
+
+# --- bulky third-party datasets: excluded wholesale (re-download paths in
+#     PROVENANCE.md), except our own small derived artifacts cited in the
+#     registration forms (retrodiction ground 1 effects + extraction scripts) ---
+pipeline/data/raw/*
+!pipeline/data/raw/PROVENANCE.md
+!pipeline/data/raw/vlasceanu2024_climate/
+pipeline/data/raw/vlasceanu2024_climate/*
+!pipeline/data/raw/vlasceanu2024_climate/us_ates.csv
+!pipeline/data/raw/vlasceanu2024_climate/compute_us_ates.py
+!pipeline/data/raw/vlasceanu2024_climate/extract_us_stimuli.py
